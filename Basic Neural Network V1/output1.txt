@@ -1,0 +1,4019 @@
+Created a Neuron.
+Created a Neuron.
+Created a Neuron.
+Created a Neuron.
+Created a Neuron.
+Created a Neuron.
+Created a Neuron.
+Created a Neuron.
+Created a Neuron.
+Created a Neuron.
+
+Pass 1: Inputs: 0 1 Outputs:  0.865328 Targets: 1 Net recent average error: 0.00133339
+
+Pass 2: Inputs: 0 1 Outputs:  0.87011 Targets: 1 Net recent average error: 0.00260622
+
+Pass 3: Inputs: 1 0 Outputs:  0.824865 Targets: 1 Net recent average error: 0.00431443
+
+Pass 4: Inputs: 0 1 Outputs:  0.881218 Targets: 1 Net recent average error: 0.00544777
+
+Pass 5: Inputs: 1 1 Outputs:  0.904422 Targets: 0 Net recent average error: 0.0143485
+
+Pass 6: Inputs: 0 1 Outputs:  0.861299 Targets: 1 Net recent average error: 0.0155797
+
+Pass 7: Inputs: 1 1 Outputs:  0.888066 Targets: 0 Net recent average error: 0.0242182
+
+Pass 8: Inputs: 0 0 Outputs:  0.705622 Targets: 0 Net recent average error: 0.0309648
+
+Pass 9: Inputs: 0 0 Outputs:  0.627424 Targets: 0 Net recent average error: 0.0368703
+
+Pass 10: Inputs: 0 0 Outputs:  0.528705 Targets: 0 Net recent average error: 0.04174
+
+Pass 11: Inputs: 1 0 Outputs:  0.501215 Targets: 1 Net recent average error: 0.0462652
+
+Pass 12: Inputs: 0 0 Outputs:  0.537462 Targets: 0 Net recent average error: 0.0511285
+
+Pass 13: Inputs: 0 0 Outputs:  0.425021 Targets: 0 Net recent average error: 0.0548304
+
+Pass 14: Inputs: 1 1 Outputs:  0.57586 Targets: 0 Net recent average error: 0.0599891
+
+Pass 15: Inputs: 1 1 Outputs:  0.397555 Targets: 0 Net recent average error: 0.0633313
+
+Pass 16: Inputs: 0 1 Outputs:  0.169221 Targets: 1 Net recent average error: 0.0709298
+
+Pass 17: Inputs: 0 0 Outputs:  0.333696 Targets: 0 Net recent average error: 0.0735315
+
+Pass 18: Inputs: 0 1 Outputs:  0.443512 Targets: 1 Net recent average error: 0.0783132
+
+Pass 19: Inputs: 1 1 Outputs:  0.661988 Targets: 0 Net recent average error: 0.0840922
+
+Pass 20: Inputs: 1 0 Outputs:  0.333984 Targets: 1 Net recent average error: 0.0898538
+
+Pass 21: Inputs: 1 1 Outputs:  0.709177 Targets: 0 Net recent average error: 0.0959857
+
+Pass 22: Inputs: 1 1 Outputs:  0.583862 Targets: 0 Net recent average error: 0.100816
+
+Pass 23: Inputs: 1 0 Outputs:  0.244537 Targets: 1 Net recent average error: 0.107298
+
+Pass 24: Inputs: 0 0 Outputs:  0.440968 Targets: 0 Net recent average error: 0.110602
+
+Pass 25: Inputs: 1 0 Outputs:  0.427668 Targets: 1 Net recent average error: 0.115173
+
+Pass 26: Inputs: 1 1 Outputs:  0.720295 Targets: 0 Net recent average error: 0.121164
+
+Pass 27: Inputs: 1 1 Outputs:  0.601131 Targets: 0 Net recent average error: 0.125917
+
+Pass 28: Inputs: 1 0 Outputs:  0.289855 Targets: 1 Net recent average error: 0.131701
+
+Pass 29: Inputs: 0 0 Outputs:  0.445839 Targets: 0 Net recent average error: 0.134811
+
+Pass 30: Inputs: 1 0 Outputs:  0.442708 Targets: 1 Net recent average error: 0.138994
+
+Pass 31: Inputs: 0 0 Outputs:  0.488049 Targets: 0 Net recent average error: 0.14245
+
+Pass 32: Inputs: 1 0 Outputs:  0.498605 Targets: 1 Net recent average error: 0.146004
+
+Pass 33: Inputs: 0 1 Outputs:  0.680726 Targets: 1 Net recent average error: 0.14772
+
+Pass 34: Inputs: 0 0 Outputs:  0.55567 Targets: 0 Net recent average error: 0.151759
+
+Pass 35: Inputs: 1 1 Outputs:  0.696711 Targets: 0 Net recent average error: 0.157154
+
+Pass 36: Inputs: 1 1 Outputs:  0.565125 Targets: 0 Net recent average error: 0.161194
+
+Pass 37: Inputs: 0 0 Outputs:  0.151707 Targets: 0 Net recent average error: 0.1611
+
+Pass 38: Inputs: 1 0 Outputs:  0.197198 Targets: 1 Net recent average error: 0.167453
+
+Pass 39: Inputs: 0 1 Outputs:  0.577936 Targets: 1 Net recent average error: 0.169974
+
+Pass 40: Inputs: 1 0 Outputs:  0.623072 Targets: 1 Net recent average error: 0.172023
+
+Pass 41: Inputs: 1 0 Outputs:  0.691218 Targets: 1 Net recent average error: 0.173377
+
+Pass 42: Inputs: 1 1 Outputs:  0.812626 Targets: 0 Net recent average error: 0.179706
+
+Pass 43: Inputs: 1 0 Outputs:  0.65317 Targets: 1 Net recent average error: 0.181361
+
+Pass 44: Inputs: 0 0 Outputs:  0.580315 Targets: 0 Net recent average error: 0.185311
+
+Pass 45: Inputs: 0 1 Outputs:  0.658024 Targets: 1 Net recent average error: 0.186862
+
+Pass 46: Inputs: 1 1 Outputs:  0.766287 Targets: 0 Net recent average error: 0.192599
+
+Pass 47: Inputs: 1 0 Outputs:  0.567939 Targets: 1 Net recent average error: 0.19497
+
+Pass 48: Inputs: 0 1 Outputs:  0.698078 Targets: 1 Net recent average error: 0.196029
+
+Pass 49: Inputs: 0 0 Outputs:  0.571338 Targets: 0 Net recent average error: 0.199745
+
+Pass 50: Inputs: 1 1 Outputs:  0.71297 Targets: 0 Net recent average error: 0.204826
+
+Pass 51: Inputs: 0 1 Outputs:  0.523409 Targets: 1 Net recent average error: 0.207517
+
+Pass 52: Inputs: 0 1 Outputs:  0.644977 Targets: 1 Net recent average error: 0.208978
+
+Pass 53: Inputs: 1 0 Outputs:  0.664831 Targets: 1 Net recent average error: 0.210227
+
+Pass 54: Inputs: 0 0 Outputs:  0.581284 Targets: 0 Net recent average error: 0.213901
+
+Pass 55: Inputs: 1 1 Outputs:  0.727436 Targets: 0 Net recent average error: 0.218985
+
+Pass 56: Inputs: 0 1 Outputs:  0.546367 Targets: 1 Net recent average error: 0.221309
+
+Pass 57: Inputs: 1 1 Outputs:  0.712724 Targets: 0 Net recent average error: 0.226174
+
+Pass 58: Inputs: 0 0 Outputs:  0.334358 Targets: 0 Net recent average error: 0.227245
+
+Pass 59: Inputs: 1 0 Outputs:  0.373933 Targets: 1 Net recent average error: 0.231194
+
+Pass 60: Inputs: 0 1 Outputs:  0.623888 Targets: 1 Net recent average error: 0.232629
+
+Pass 61: Inputs: 1 0 Outputs:  0.654895 Targets: 1 Net recent average error: 0.233742
+
+Pass 62: Inputs: 0 1 Outputs:  0.743016 Targets: 1 Net recent average error: 0.233972
+
+Pass 63: Inputs: 1 1 Outputs:  0.816634 Targets: 0 Net recent average error: 0.239741
+
+Pass 64: Inputs: 1 0 Outputs:  0.660901 Targets: 1 Net recent average error: 0.240725
+
+Pass 65: Inputs: 0 0 Outputs:  0.572986 Targets: 0 Net recent average error: 0.244015
+
+Pass 66: Inputs: 1 0 Outputs:  0.623546 Targets: 1 Net recent average error: 0.245326
+
+Pass 67: Inputs: 1 1 Outputs:  0.77761 Targets: 0 Net recent average error: 0.250596
+
+Pass 68: Inputs: 0 0 Outputs:  0.435997 Targets: 0 Net recent average error: 0.252432
+
+Pass 69: Inputs: 1 1 Outputs:  0.600102 Targets: 0 Net recent average error: 0.255874
+
+Pass 70: Inputs: 1 0 Outputs:  0.311607 Targets: 1 Net recent average error: 0.260157
+
+Pass 71: Inputs: 0 0 Outputs:  0.400767 Targets: 0 Net recent average error: 0.261549
+
+Pass 72: Inputs: 1 0 Outputs:  0.459791 Targets: 1 Net recent average error: 0.264308
+
+Pass 73: Inputs: 0 0 Outputs:  0.444393 Targets: 0 Net recent average error: 0.266091
+
+Pass 74: Inputs: 1 0 Outputs:  0.513073 Targets: 1 Net recent average error: 0.268277
+
+Pass 75: Inputs: 1 1 Outputs:  0.72832 Targets: 0 Net recent average error: 0.272832
+
+Pass 76: Inputs: 0 1 Outputs:  0.535539 Targets: 1 Net recent average error: 0.274729
+
+Pass 77: Inputs: 1 0 Outputs:  0.623683 Targets: 1 Net recent average error: 0.275735
+
+Pass 78: Inputs: 1 1 Outputs:  0.773487 Targets: 0 Net recent average error: 0.280664
+
+Pass 79: Inputs: 0 1 Outputs:  0.614161 Targets: 1 Net recent average error: 0.281705
+
+Pass 80: Inputs: 1 0 Outputs:  0.664487 Targets: 1 Net recent average error: 0.282238
+
+Pass 81: Inputs: 1 0 Outputs:  0.715811 Targets: 1 Net recent average error: 0.282257
+
+Pass 82: Inputs: 1 1 Outputs:  0.819504 Targets: 0 Net recent average error: 0.287576
+
+Pass 83: Inputs: 1 0 Outputs:  0.675476 Targets: 1 Net recent average error: 0.287942
+
+Pass 84: Inputs: 1 0 Outputs:  0.722771 Targets: 1 Net recent average error: 0.287836
+
+Pass 85: Inputs: 0 1 Outputs:  0.769569 Targets: 1 Net recent average error: 0.287268
+
+Pass 86: Inputs: 0 1 Outputs:  0.789634 Targets: 1 Net recent average error: 0.286506
+
+Pass 87: Inputs: 0 0 Outputs:  0.64672 Targets: 0 Net recent average error: 0.290073
+
+Pass 88: Inputs: 0 1 Outputs:  0.739888 Targets: 1 Net recent average error: 0.289776
+
+Pass 89: Inputs: 1 1 Outputs:  0.820876 Targets: 0 Net recent average error: 0.295034
+
+Pass 90: Inputs: 1 1 Outputs:  0.758541 Targets: 0 Net recent average error: 0.299624
+
+Pass 91: Inputs: 0 0 Outputs:  0.393845 Targets: 0 Net recent average error: 0.300557
+
+Pass 92: Inputs: 0 0 Outputs:  0.287608 Targets: 0 Net recent average error: 0.300428
+
+Pass 93: Inputs: 1 1 Outputs:  0.488648 Targets: 0 Net recent average error: 0.302292
+
+Pass 94: Inputs: 0 0 Outputs:  0.0426514 Targets: 0 Net recent average error: 0.299721
+
+Pass 95: Inputs: 1 0 Outputs:  0.176138 Targets: 1 Net recent average error: 0.304911
+
+Pass 96: Inputs: 0 0 Outputs:  0.3357 Targets: 0 Net recent average error: 0.305216
+
+Pass 97: Inputs: 1 1 Outputs:  0.533654 Targets: 0 Net recent average error: 0.307477
+
+Pass 98: Inputs: 1 0 Outputs:  0.2436 Targets: 1 Net recent average error: 0.311922
+
+Pass 99: Inputs: 0 0 Outputs:  0.350686 Targets: 0 Net recent average error: 0.312306
+
+Pass 100: Inputs: 1 0 Outputs:  0.448319 Targets: 1 Net recent average error: 0.314676
+
+Pass 101: Inputs: 0 0 Outputs:  0.410307 Targets: 0 Net recent average error: 0.315623
+
+Pass 102: Inputs: 1 1 Outputs:  0.613067 Targets: 0 Net recent average error: 0.318568
+
+Pass 103: Inputs: 1 0 Outputs:  0.34277 Targets: 1 Net recent average error: 0.321921
+
+Pass 104: Inputs: 1 1 Outputs:  0.663264 Targets: 0 Net recent average error: 0.325301
+
+Pass 105: Inputs: 1 1 Outputs:  0.516157 Targets: 0 Net recent average error: 0.32719
+
+Pass 106: Inputs: 0 0 Outputs:  0.0622231 Targets: 0 Net recent average error: 0.324567
+
+Pass 107: Inputs: 0 1 Outputs:  0.213944 Targets: 1 Net recent average error: 0.329136
+
+Pass 108: Inputs: 0 1 Outputs:  0.539717 Targets: 1 Net recent average error: 0.330434
+
+Pass 109: Inputs: 0 1 Outputs:  0.650024 Targets: 1 Net recent average error: 0.330628
+
+Pass 110: Inputs: 0 0 Outputs:  0.512791 Targets: 0 Net recent average error: 0.332431
+
+Pass 111: Inputs: 1 0 Outputs:  0.607141 Targets: 1 Net recent average error: 0.33303
+
+Pass 112: Inputs: 1 0 Outputs:  0.682156 Targets: 1 Net recent average error: 0.332879
+
+Pass 113: Inputs: 0 1 Outputs:  0.734276 Targets: 1 Net recent average error: 0.332215
+
+Pass 114: Inputs: 0 0 Outputs:  0.573276 Targets: 0 Net recent average error: 0.334601
+
+Pass 115: Inputs: 1 1 Outputs:  0.758865 Targets: 0 Net recent average error: 0.338802
+
+Pass 116: Inputs: 0 0 Outputs:  0.354859 Targets: 0 Net recent average error: 0.338961
+
+Pass 117: Inputs: 1 1 Outputs:  0.580135 Targets: 0 Net recent average error: 0.341349
+
+Pass 118: Inputs: 1 1 Outputs:  0.403997 Targets: 0 Net recent average error: 0.341969
+
+Pass 119: Inputs: 1 1 Outputs:  0.220755 Targets: 0 Net recent average error: 0.340769
+
+Pass 120: Inputs: 1 0 Outputs:  0.0110866 Targets: 1 Net recent average error: 0.347186
+
+Pass 121: Inputs: 0 1 Outputs:  0.468929 Targets: 1 Net recent average error: 0.349007
+
+Pass 122: Inputs: 1 1 Outputs:  0.697218 Targets: 0 Net recent average error: 0.352454
+
+Pass 123: Inputs: 0 0 Outputs:  0.267631 Targets: 0 Net recent average error: 0.351615
+
+Pass 124: Inputs: 1 1 Outputs:  0.491451 Targets: 0 Net recent average error: 0.352999
+
+Pass 125: Inputs: 1 0 Outputs:  0.209177 Targets: 1 Net recent average error: 0.357334
+
+Pass 126: Inputs: 0 0 Outputs:  0.319324 Targets: 0 Net recent average error: 0.356958
+
+Pass 127: Inputs: 1 1 Outputs:  0.538591 Targets: 0 Net recent average error: 0.358756
+
+Pass 128: Inputs: 1 1 Outputs:  0.355001 Targets: 0 Net recent average error: 0.358719
+
+Pass 129: Inputs: 1 0 Outputs:  0.0994828 Targets: 1 Net recent average error: 0.364083
+
+Pass 130: Inputs: 1 1 Outputs:  0.583605 Targets: 0 Net recent average error: 0.366257
+
+Pass 131: Inputs: 1 1 Outputs:  0.409976 Targets: 0 Net recent average error: 0.36669
+
+Pass 132: Inputs: 1 0 Outputs:  0.148772 Targets: 1 Net recent average error: 0.371487
+
+Pass 133: Inputs: 1 1 Outputs:  0.593457 Targets: 0 Net recent average error: 0.373685
+
+Pass 134: Inputs: 0 1 Outputs:  0.336677 Targets: 1 Net recent average error: 0.376552
+
+Pass 135: Inputs: 0 0 Outputs:  0.372254 Targets: 0 Net recent average error: 0.37651
+
+Pass 136: Inputs: 0 1 Outputs:  0.477634 Targets: 1 Net recent average error: 0.377954
+
+Pass 137: Inputs: 1 1 Outputs:  0.695216 Targets: 0 Net recent average error: 0.381095
+
+Pass 138: Inputs: 0 0 Outputs:  0.281873 Targets: 0 Net recent average error: 0.380113
+
+Pass 139: Inputs: 0 0 Outputs:  0.197171 Targets: 0 Net recent average error: 0.378301
+
+Pass 140: Inputs: 1 1 Outputs:  0.423497 Targets: 0 Net recent average error: 0.378749
+
+Pass 141: Inputs: 1 0 Outputs:  0.159922 Targets: 1 Net recent average error: 0.383317
+
+Pass 142: Inputs: 0 0 Outputs:  0.302464 Targets: 0 Net recent average error: 0.382516
+
+Pass 143: Inputs: 0 1 Outputs:  0.426264 Targets: 1 Net recent average error: 0.384409
+
+Pass 144: Inputs: 0 0 Outputs:  0.384955 Targets: 0 Net recent average error: 0.384415
+
+Pass 145: Inputs: 1 0 Outputs:  0.511904 Targets: 1 Net recent average error: 0.385441
+
+Pass 146: Inputs: 1 1 Outputs:  0.710037 Targets: 0 Net recent average error: 0.388655
+
+Pass 147: Inputs: 1 1 Outputs:  0.587816 Targets: 0 Net recent average error: 0.390627
+
+Pass 148: Inputs: 0 1 Outputs:  0.327189 Targets: 1 Net recent average error: 0.393421
+
+Pass 149: Inputs: 0 0 Outputs:  0.350734 Targets: 0 Net recent average error: 0.392998
+
+Pass 150: Inputs: 1 1 Outputs:  0.565913 Targets: 0 Net recent average error: 0.39471
+
+Pass 151: Inputs: 1 1 Outputs:  0.389113 Targets: 0 Net recent average error: 0.394655
+
+Pass 152: Inputs: 0 1 Outputs:  0.131423 Targets: 1 Net recent average error: 0.399347
+
+Pass 153: Inputs: 1 0 Outputs:  0.507049 Targets: 1 Net recent average error: 0.400274
+
+Pass 154: Inputs: 0 1 Outputs:  0.63402 Targets: 1 Net recent average error: 0.399934
+
+Pass 155: Inputs: 0 0 Outputs:  0.489598 Targets: 0 Net recent average error: 0.400822
+
+Pass 156: Inputs: 1 1 Outputs:  0.685541 Targets: 0 Net recent average error: 0.403641
+
+Pass 157: Inputs: 1 0 Outputs:  0.467173 Targets: 1 Net recent average error: 0.40492
+
+Pass 158: Inputs: 0 0 Outputs:  0.393804 Targets: 0 Net recent average error: 0.40481
+
+Pass 159: Inputs: 0 1 Outputs:  0.525697 Targets: 1 Net recent average error: 0.405498
+
+Pass 160: Inputs: 1 0 Outputs:  0.638744 Targets: 1 Net recent average error: 0.40506
+
+Pass 161: Inputs: 1 1 Outputs:  0.767068 Targets: 0 Net recent average error: 0.408644
+
+Pass 162: Inputs: 1 0 Outputs:  0.599355 Targets: 1 Net recent average error: 0.408565
+
+Pass 163: Inputs: 0 1 Outputs:  0.677181 Targets: 1 Net recent average error: 0.407716
+
+Pass 164: Inputs: 0 1 Outputs:  0.723438 Targets: 1 Net recent average error: 0.406418
+
+Pass 165: Inputs: 1 0 Outputs:  0.752425 Targets: 1 Net recent average error: 0.404845
+
+Pass 166: Inputs: 1 0 Outputs:  0.775558 Targets: 1 Net recent average error: 0.403059
+
+Pass 167: Inputs: 0 1 Outputs:  0.794768 Targets: 1 Net recent average error: 0.4011
+
+Pass 168: Inputs: 1 0 Outputs:  0.807333 Targets: 1 Net recent average error: 0.399036
+
+Pass 169: Inputs: 1 1 Outputs:  0.866861 Targets: 0 Net recent average error: 0.403668
+
+Pass 170: Inputs: 0 0 Outputs:  0.582653 Targets: 0 Net recent average error: 0.40544
+
+Pass 171: Inputs: 0 1 Outputs:  0.706174 Targets: 1 Net recent average error: 0.404335
+
+Pass 172: Inputs: 1 1 Outputs:  0.803137 Targets: 0 Net recent average error: 0.408284
+
+Pass 173: Inputs: 0 0 Outputs:  0.435718 Targets: 0 Net recent average error: 0.408556
+
+Pass 174: Inputs: 0 1 Outputs:  0.575685 Targets: 1 Net recent average error: 0.408712
+
+Pass 175: Inputs: 0 1 Outputs:  0.665351 Targets: 1 Net recent average error: 0.407978
+
+Pass 176: Inputs: 1 1 Outputs:  0.780261 Targets: 0 Net recent average error: 0.411664
+
+Pass 177: Inputs: 1 1 Outputs:  0.697063 Targets: 0 Net recent average error: 0.41449
+
+Pass 178: Inputs: 0 0 Outputs:  0.251265 Targets: 0 Net recent average error: 0.412874
+
+Pass 179: Inputs: 1 1 Outputs:  0.499964 Targets: 0 Net recent average error: 0.413736
+
+Pass 180: Inputs: 0 0 Outputs:  0.0237723 Targets: 0 Net recent average error: 0.409875
+
+Pass 181: Inputs: 0 1 Outputs:  0.223411 Targets: 1 Net recent average error: 0.413506
+
+Pass 182: Inputs: 0 0 Outputs:  0.296052 Targets: 0 Net recent average error: 0.412343
+
+Pass 183: Inputs: 0 1 Outputs:  0.4578 Targets: 1 Net recent average error: 0.413629
+
+Pass 184: Inputs: 1 1 Outputs:  0.685536 Targets: 0 Net recent average error: 0.416321
+
+Pass 185: Inputs: 1 1 Outputs:  0.552188 Targets: 0 Net recent average error: 0.417666
+
+Pass 186: Inputs: 1 1 Outputs:  0.373331 Targets: 0 Net recent average error: 0.417227
+
+Pass 187: Inputs: 0 1 Outputs:  0.129922 Targets: 1 Net recent average error: 0.421711
+
+Pass 188: Inputs: 0 0 Outputs:  0.273034 Targets: 0 Net recent average error: 0.420239
+
+Pass 189: Inputs: 0 1 Outputs:  0.434108 Targets: 1 Net recent average error: 0.421681
+
+Pass 190: Inputs: 0 0 Outputs:  0.359103 Targets: 0 Net recent average error: 0.421061
+
+Pass 191: Inputs: 1 0 Outputs:  0.503961 Targets: 1 Net recent average error: 0.421804
+
+Pass 192: Inputs: 1 0 Outputs:  0.628912 Targets: 1 Net recent average error: 0.421302
+
+Pass 193: Inputs: 0 0 Outputs:  0.462554 Targets: 0 Net recent average error: 0.42171
+
+Pass 194: Inputs: 1 0 Outputs:  0.610109 Targets: 1 Net recent average error: 0.421395
+
+Pass 195: Inputs: 0 1 Outputs:  0.690825 Targets: 1 Net recent average error: 0.420284
+
+Pass 196: Inputs: 1 1 Outputs:  0.792128 Targets: 0 Net recent average error: 0.423965
+
+Pass 197: Inputs: 1 1 Outputs:  0.716123 Targets: 0 Net recent average error: 0.426858
+
+Pass 198: Inputs: 0 1 Outputs:  0.522539 Targets: 1 Net recent average error: 0.427359
+
+Pass 199: Inputs: 0 1 Outputs:  0.640084 Targets: 1 Net recent average error: 0.426691
+
+Pass 200: Inputs: 0 0 Outputs:  0.455731 Targets: 0 Net recent average error: 0.426979
+
+Pass 201: Inputs: 1 1 Outputs:  0.69048 Targets: 0 Net recent average error: 0.429588
+
+Pass 202: Inputs: 0 0 Outputs:  0.215538 Targets: 0 Net recent average error: 0.427469
+
+Pass 203: Inputs: 1 0 Outputs:  0.40405 Targets: 1 Net recent average error: 0.429137
+
+Pass 204: Inputs: 0 0 Outputs:  0.328436 Targets: 0 Net recent average error: 0.42814
+
+Pass 205: Inputs: 1 0 Outputs:  0.509845 Targets: 1 Net recent average error: 0.428754
+
+Pass 206: Inputs: 0 0 Outputs:  0.363014 Targets: 0 Net recent average error: 0.428103
+
+Pass 207: Inputs: 1 0 Outputs:  0.552198 Targets: 1 Net recent average error: 0.428298
+
+Pass 208: Inputs: 0 0 Outputs:  0.372434 Targets: 0 Net recent average error: 0.427745
+
+Pass 209: Inputs: 0 1 Outputs:  0.579771 Targets: 1 Net recent average error: 0.42767
+
+Pass 210: Inputs: 0 0 Outputs:  0.370348 Targets: 0 Net recent average error: 0.427103
+
+Pass 211: Inputs: 1 1 Outputs:  0.680517 Targets: 0 Net recent average error: 0.429612
+
+Pass 212: Inputs: 1 1 Outputs:  0.54544 Targets: 0 Net recent average error: 0.430759
+
+Pass 213: Inputs: 1 0 Outputs:  0.261854 Targets: 1 Net recent average error: 0.433802
+
+Pass 214: Inputs: 0 0 Outputs:  0.236411 Targets: 0 Net recent average error: 0.431848
+
+Pass 215: Inputs: 1 1 Outputs:  0.579742 Targets: 0 Net recent average error: 0.433312
+
+Pass 216: Inputs: 0 0 Outputs:  0.015555 Targets: 0 Net recent average error: 0.429176
+
+Pass 217: Inputs: 1 0 Outputs:  0.300406 Targets: 1 Net recent average error: 0.431853
+
+Pass 218: Inputs: 1 1 Outputs:  0.644965 Targets: 0 Net recent average error: 0.433963
+
+Pass 219: Inputs: 0 1 Outputs:  0.397087 Targets: 1 Net recent average error: 0.435636
+
+Pass 220: Inputs: 0 1 Outputs:  0.58988 Targets: 1 Net recent average error: 0.435383
+
+Pass 221: Inputs: 1 1 Outputs:  0.745014 Targets: 0 Net recent average error: 0.438449
+
+Pass 222: Inputs: 1 0 Outputs:  0.555255 Targets: 1 Net recent average error: 0.438511
+
+Pass 223: Inputs: 0 0 Outputs:  0.366634 Targets: 0 Net recent average error: 0.4378
+
+Pass 224: Inputs: 0 0 Outputs:  0.268109 Targets: 0 Net recent average error: 0.43612
+
+Pass 225: Inputs: 0 1 Outputs:  0.512867 Targets: 1 Net recent average error: 0.436625
+
+Pass 226: Inputs: 1 0 Outputs:  0.629548 Targets: 1 Net recent average error: 0.435969
+
+Pass 227: Inputs: 1 1 Outputs:  0.769624 Targets: 0 Net recent average error: 0.439273
+
+Pass 228: Inputs: 1 1 Outputs:  0.681444 Targets: 0 Net recent average error: 0.441671
+
+Pass 229: Inputs: 1 1 Outputs:  0.547193 Targets: 0 Net recent average error: 0.442715
+
+Pass 230: Inputs: 0 1 Outputs:  0.277497 Targets: 1 Net recent average error: 0.445486
+
+Pass 231: Inputs: 1 1 Outputs:  0.632984 Targets: 0 Net recent average error: 0.447342
+
+Pass 232: Inputs: 0 1 Outputs:  0.39378 Targets: 1 Net recent average error: 0.448915
+
+Pass 233: Inputs: 1 1 Outputs:  0.663038 Targets: 0 Net recent average error: 0.451035
+
+Pass 234: Inputs: 0 1 Outputs:  0.442043 Targets: 1 Net recent average error: 0.452094
+
+Pass 235: Inputs: 1 0 Outputs:  0.593825 Targets: 1 Net recent average error: 0.451639
+
+Pass 236: Inputs: 0 0 Outputs:  0.400564 Targets: 0 Net recent average error: 0.451133
+
+Pass 237: Inputs: 1 1 Outputs:  0.679478 Targets: 0 Net recent average error: 0.453394
+
+Pass 238: Inputs: 0 1 Outputs:  0.46563 Targets: 1 Net recent average error: 0.454196
+
+Pass 239: Inputs: 0 1 Outputs:  0.615832 Targets: 1 Net recent average error: 0.453503
+
+Pass 240: Inputs: 0 0 Outputs:  0.394685 Targets: 0 Net recent average error: 0.45292
+
+Pass 241: Inputs: 0 1 Outputs:  0.611206 Targets: 1 Net recent average error: 0.452285
+
+Pass 242: Inputs: 1 0 Outputs:  0.668792 Targets: 1 Net recent average error: 0.451087
+
+Pass 243: Inputs: 1 0 Outputs:  0.716559 Targets: 1 Net recent average error: 0.449427
+
+Pass 244: Inputs: 0 1 Outputs:  0.760134 Targets: 1 Net recent average error: 0.447352
+
+Pass 245: Inputs: 0 1 Outputs:  0.781507 Targets: 1 Net recent average error: 0.445086
+
+Pass 246: Inputs: 1 1 Outputs:  0.846289 Targets: 0 Net recent average error: 0.449058
+
+Pass 247: Inputs: 0 0 Outputs:  0.460123 Targets: 0 Net recent average error: 0.449168
+
+Pass 248: Inputs: 0 1 Outputs:  0.674651 Targets: 1 Net recent average error: 0.447942
+
+Pass 249: Inputs: 0 0 Outputs:  0.411999 Targets: 0 Net recent average error: 0.447586
+
+Pass 250: Inputs: 0 1 Outputs:  0.651383 Targets: 1 Net recent average error: 0.446606
+
+Pass 251: Inputs: 0 0 Outputs:  0.375898 Targets: 0 Net recent average error: 0.445906
+
+Pass 252: Inputs: 0 0 Outputs:  0.275394 Targets: 0 Net recent average error: 0.444218
+
+Pass 253: Inputs: 0 1 Outputs:  0.578252 Targets: 1 Net recent average error: 0.443995
+
+Pass 254: Inputs: 1 1 Outputs:  0.74238 Targets: 0 Net recent average error: 0.44695
+
+Pass 255: Inputs: 0 1 Outputs:  0.553127 Targets: 1 Net recent average error: 0.446949
+
+Pass 256: Inputs: 1 1 Outputs:  0.728532 Targets: 0 Net recent average error: 0.449737
+
+Pass 257: Inputs: 1 0 Outputs:  0.511186 Targets: 1 Net recent average error: 0.450124
+
+Pass 258: Inputs: 1 1 Outputs:  0.723105 Targets: 0 Net recent average error: 0.452827
+
+Pass 259: Inputs: 0 1 Outputs:  0.527229 Targets: 1 Net recent average error: 0.453024
+
+Pass 260: Inputs: 1 0 Outputs:  0.621154 Targets: 1 Net recent average error: 0.45229
+
+Pass 261: Inputs: 1 1 Outputs:  0.769169 Targets: 0 Net recent average error: 0.455427
+
+Pass 262: Inputs: 1 1 Outputs:  0.681227 Targets: 0 Net recent average error: 0.457663
+
+Pass 263: Inputs: 0 0 Outputs:  0.117765 Targets: 0 Net recent average error: 0.454297
+
+Pass 264: Inputs: 0 0 Outputs:  0.0799962 Targets: 0 Net recent average error: 0.450591
+
+Pass 265: Inputs: 1 0 Outputs:  0.387 Targets: 1 Net recent average error: 0.452199
+
+Pass 266: Inputs: 0 0 Outputs:  0.2411 Targets: 0 Net recent average error: 0.450109
+
+Pass 267: Inputs: 1 0 Outputs:  0.522682 Targets: 1 Net recent average error: 0.450379
+
+Pass 268: Inputs: 0 0 Outputs:  0.28926 Targets: 0 Net recent average error: 0.448783
+
+Pass 269: Inputs: 1 0 Outputs:  0.573564 Targets: 1 Net recent average error: 0.448562
+
+Pass 270: Inputs: 1 1 Outputs:  0.746586 Targets: 0 Net recent average error: 0.451513
+
+Pass 271: Inputs: 0 1 Outputs:  0.56199 Targets: 1 Net recent average error: 0.451379
+
+Pass 272: Inputs: 0 1 Outputs:  0.657969 Targets: 1 Net recent average error: 0.450297
+
+Pass 273: Inputs: 1 0 Outputs:  0.697749 Targets: 1 Net recent average error: 0.448831
+
+Pass 274: Inputs: 1 1 Outputs:  0.807463 Targets: 0 Net recent average error: 0.452382
+
+Pass 275: Inputs: 0 1 Outputs:  0.671405 Targets: 1 Net recent average error: 0.451156
+
+Pass 276: Inputs: 0 1 Outputs:  0.719451 Targets: 1 Net recent average error: 0.449467
+
+Pass 277: Inputs: 1 0 Outputs:  0.738634 Targets: 1 Net recent average error: 0.447604
+
+Pass 278: Inputs: 1 1 Outputs:  0.83006 Targets: 0 Net recent average error: 0.451391
+
+Pass 279: Inputs: 0 0 Outputs:  0.372718 Targets: 0 Net recent average error: 0.450612
+
+Pass 280: Inputs: 0 0 Outputs:  0.271859 Targets: 0 Net recent average error: 0.448842
+
+Pass 281: Inputs: 1 1 Outputs:  0.672113 Targets: 0 Net recent average error: 0.451053
+
+Pass 282: Inputs: 1 1 Outputs:  0.534056 Targets: 0 Net recent average error: 0.451875
+
+Pass 283: Inputs: 0 0 Outputs:  -0.0885339 Targets: 0 Net recent average error: 0.448277
+
+Pass 284: Inputs: 1 0 Outputs:  0.278224 Targets: 1 Net recent average error: 0.450985
+
+Pass 285: Inputs: 0 1 Outputs:  0.557491 Targets: 1 Net recent average error: 0.450901
+
+Pass 286: Inputs: 0 1 Outputs:  0.655912 Targets: 1 Net recent average error: 0.449844
+
+Pass 287: Inputs: 1 1 Outputs:  0.773046 Targets: 0 Net recent average error: 0.453044
+
+Pass 288: Inputs: 1 0 Outputs:  0.601006 Targets: 1 Net recent average error: 0.452509
+
+Pass 289: Inputs: 0 0 Outputs:  0.333339 Targets: 0 Net recent average error: 0.451329
+
+Pass 290: Inputs: 1 1 Outputs:  0.699154 Targets: 0 Net recent average error: 0.453782
+
+Pass 291: Inputs: 0 1 Outputs:  0.490557 Targets: 1 Net recent average error: 0.454334
+
+Pass 292: Inputs: 0 1 Outputs:  0.626057 Targets: 1 Net recent average error: 0.453538
+
+Pass 293: Inputs: 0 1 Outputs:  0.692188 Targets: 1 Net recent average error: 0.452095
+
+Pass 294: Inputs: 1 0 Outputs:  0.71827 Targets: 1 Net recent average error: 0.450408
+
+Pass 295: Inputs: 1 0 Outputs:  0.749948 Targets: 1 Net recent average error: 0.448424
+
+Pass 296: Inputs: 0 0 Outputs:  0.457366 Targets: 0 Net recent average error: 0.448513
+
+Pass 297: Inputs: 0 0 Outputs:  0.347809 Targets: 0 Net recent average error: 0.447516
+
+Pass 298: Inputs: 0 1 Outputs:  0.665093 Targets: 1 Net recent average error: 0.446401
+
+Pass 299: Inputs: 0 0 Outputs:  0.313887 Targets: 0 Net recent average error: 0.445089
+
+Pass 300: Inputs: 0 1 Outputs:  0.659181 Targets: 1 Net recent average error: 0.444056
+
+Pass 301: Inputs: 1 0 Outputs:  0.695324 Targets: 1 Net recent average error: 0.442676
+
+Pass 302: Inputs: 1 1 Outputs:  0.812763 Targets: 0 Net recent average error: 0.446341
+
+Pass 303: Inputs: 1 1 Outputs:  0.749244 Targets: 0 Net recent average error: 0.44934
+
+Pass 304: Inputs: 0 1 Outputs:  0.565473 Targets: 1 Net recent average error: 0.449193
+
+Pass 305: Inputs: 0 1 Outputs:  0.659814 Targets: 1 Net recent average error: 0.448114
+
+Pass 306: Inputs: 0 1 Outputs:  0.712189 Targets: 1 Net recent average error: 0.446527
+
+Pass 307: Inputs: 1 1 Outputs:  0.806693 Targets: 0 Net recent average error: 0.450093
+
+Pass 308: Inputs: 1 1 Outputs:  0.739767 Targets: 0 Net recent average error: 0.452961
+
+Pass 309: Inputs: 0 0 Outputs:  0.135729 Targets: 0 Net recent average error: 0.44982
+
+Pass 310: Inputs: 0 1 Outputs:  0.522874 Targets: 1 Net recent average error: 0.45009
+
+Pass 311: Inputs: 0 0 Outputs:  0.216409 Targets: 0 Net recent average error: 0.447776
+
+Pass 312: Inputs: 0 1 Outputs:  0.592443 Targets: 1 Net recent average error: 0.447378
+
+Pass 313: Inputs: 0 0 Outputs:  0.241888 Targets: 0 Net recent average error: 0.445344
+
+Pass 314: Inputs: 0 0 Outputs:  0.165665 Targets: 0 Net recent average error: 0.442575
+
+Pass 315: Inputs: 0 1 Outputs:  0.587114 Targets: 1 Net recent average error: 0.442281
+
+Pass 316: Inputs: 1 1 Outputs:  0.744177 Targets: 0 Net recent average error: 0.44527
+
+Pass 317: Inputs: 0 0 Outputs:  0.0899287 Targets: 0 Net recent average error: 0.441751
+
+Pass 318: Inputs: 1 1 Outputs:  0.623271 Targets: 0 Net recent average error: 0.443549
+
+Pass 319: Inputs: 1 1 Outputs:  0.465341 Targets: 0 Net recent average error: 0.443764
+
+Pass 320: Inputs: 0 1 Outputs:  0.193982 Targets: 1 Net recent average error: 0.447351
+
+Pass 321: Inputs: 1 0 Outputs:  0.494575 Targets: 1 Net recent average error: 0.447926
+
+Pass 322: Inputs: 0 0 Outputs:  0.204155 Targets: 0 Net recent average error: 0.445513
+
+Pass 323: Inputs: 0 1 Outputs:  0.608604 Targets: 1 Net recent average error: 0.444977
+
+Pass 324: Inputs: 0 0 Outputs:  0.225824 Targets: 0 Net recent average error: 0.442807
+
+Pass 325: Inputs: 0 0 Outputs:  0.153123 Targets: 0 Net recent average error: 0.439939
+
+Pass 326: Inputs: 1 1 Outputs:  0.68513 Targets: 0 Net recent average error: 0.442366
+
+Pass 327: Inputs: 0 1 Outputs:  0.464537 Targets: 1 Net recent average error: 0.443288
+
+Pass 328: Inputs: 1 1 Outputs:  0.691159 Targets: 0 Net recent average error: 0.445742
+
+Pass 329: Inputs: 1 1 Outputs:  0.562085 Targets: 0 Net recent average error: 0.446894
+
+Pass 330: Inputs: 1 0 Outputs:  0.262196 Targets: 1 Net recent average error: 0.449774
+
+Pass 331: Inputs: 1 0 Outputs:  0.540332 Targets: 1 Net recent average error: 0.449872
+
+Pass 332: Inputs: 1 1 Outputs:  0.73633 Targets: 0 Net recent average error: 0.452709
+
+Pass 333: Inputs: 1 1 Outputs:  0.630254 Targets: 0 Net recent average error: 0.454467
+
+Pass 334: Inputs: 1 0 Outputs:  0.36673 Targets: 1 Net recent average error: 0.456237
+
+Pass 335: Inputs: 0 0 Outputs:  0.150255 Targets: 0 Net recent average error: 0.453207
+
+Pass 336: Inputs: 0 0 Outputs:  0.1007 Targets: 0 Net recent average error: 0.449717
+
+Pass 337: Inputs: 1 0 Outputs:  0.512764 Targets: 1 Net recent average error: 0.450089
+
+Pass 338: Inputs: 1 0 Outputs:  0.632166 Targets: 1 Net recent average error: 0.449274
+
+Pass 339: Inputs: 1 1 Outputs:  0.772302 Targets: 0 Net recent average error: 0.452473
+
+Pass 340: Inputs: 1 0 Outputs:  0.597305 Targets: 1 Net recent average error: 0.45198
+
+Pass 341: Inputs: 1 1 Outputs:  0.752587 Targets: 0 Net recent average error: 0.454956
+
+Pass 342: Inputs: 1 1 Outputs:  0.655065 Targets: 0 Net recent average error: 0.456937
+
+Pass 343: Inputs: 0 1 Outputs:  0.432695 Targets: 1 Net recent average error: 0.45803
+
+Pass 344: Inputs: 1 1 Outputs:  0.670992 Targets: 0 Net recent average error: 0.460139
+
+Pass 345: Inputs: 1 1 Outputs:  0.530868 Targets: 0 Net recent average error: 0.460839
+
+Pass 346: Inputs: 1 0 Outputs:  0.262479 Targets: 1 Net recent average error: 0.463578
+
+Pass 347: Inputs: 1 0 Outputs:  0.545586 Targets: 1 Net recent average error: 0.463488
+
+Pass 348: Inputs: 0 1 Outputs:  0.659731 Targets: 1 Net recent average error: 0.462268
+
+Pass 349: Inputs: 1 0 Outputs:  0.701142 Targets: 1 Net recent average error: 0.46065
+
+Pass 350: Inputs: 1 0 Outputs:  0.738294 Targets: 1 Net recent average error: 0.45868
+
+Pass 351: Inputs: 0 1 Outputs:  0.773666 Targets: 1 Net recent average error: 0.456379
+
+Pass 352: Inputs: 1 0 Outputs:  0.783084 Targets: 1 Net recent average error: 0.454009
+
+Pass 353: Inputs: 0 1 Outputs:  0.80743 Targets: 1 Net recent average error: 0.45142
+
+Pass 354: Inputs: 0 1 Outputs:  0.819372 Targets: 1 Net recent average error: 0.448739
+
+Pass 355: Inputs: 0 1 Outputs:  0.829397 Targets: 1 Net recent average error: 0.445985
+
+Pass 356: Inputs: 1 0 Outputs:  0.829731 Targets: 1 Net recent average error: 0.443255
+
+Pass 357: Inputs: 1 1 Outputs:  0.880932 Targets: 0 Net recent average error: 0.447589
+
+Pass 358: Inputs: 0 0 Outputs:  0.471637 Targets: 0 Net recent average error: 0.447827
+
+Pass 359: Inputs: 0 1 Outputs:  0.75778 Targets: 1 Net recent average error: 0.445791
+
+Pass 360: Inputs: 1 1 Outputs:  0.827247 Targets: 0 Net recent average error: 0.449568
+
+Pass 361: Inputs: 0 1 Outputs:  0.717051 Targets: 1 Net recent average error: 0.447918
+
+Pass 362: Inputs: 0 1 Outputs:  0.750278 Targets: 1 Net recent average error: 0.445956
+
+Pass 363: Inputs: 0 0 Outputs:  0.388704 Targets: 0 Net recent average error: 0.445389
+
+Pass 364: Inputs: 1 0 Outputs:  0.706194 Targets: 1 Net recent average error: 0.443888
+
+Pass 365: Inputs: 0 1 Outputs:  0.752778 Targets: 1 Net recent average error: 0.441941
+
+Pass 366: Inputs: 0 0 Outputs:  0.365769 Targets: 0 Net recent average error: 0.441187
+
+Pass 367: Inputs: 0 0 Outputs:  0.260046 Targets: 0 Net recent average error: 0.439393
+
+Pass 368: Inputs: 1 0 Outputs:  0.664871 Targets: 1 Net recent average error: 0.438361
+
+Pass 369: Inputs: 0 0 Outputs:  0.240754 Targets: 0 Net recent average error: 0.436404
+
+Pass 370: Inputs: 0 1 Outputs:  0.683119 Targets: 1 Net recent average error: 0.435221
+
+Pass 371: Inputs: 1 0 Outputs:  0.714854 Targets: 1 Net recent average error: 0.433735
+
+Pass 372: Inputs: 1 1 Outputs:  0.819097 Targets: 0 Net recent average error: 0.437551
+
+Pass 373: Inputs: 1 1 Outputs:  0.758823 Targets: 0 Net recent average error: 0.440732
+
+Pass 374: Inputs: 0 0 Outputs:  0.0650211 Targets: 0 Net recent average error: 0.437012
+
+Pass 375: Inputs: 0 0 Outputs:  0.0424442 Targets: 0 Net recent average error: 0.433105
+
+Pass 376: Inputs: 1 0 Outputs:  0.546323 Targets: 1 Net recent average error: 0.433309
+
+Pass 377: Inputs: 0 1 Outputs:  0.65796 Targets: 1 Net recent average error: 0.432405
+
+Pass 378: Inputs: 1 1 Outputs:  0.777524 Targets: 0 Net recent average error: 0.435822
+
+Pass 379: Inputs: 1 1 Outputs:  0.693781 Targets: 0 Net recent average error: 0.438376
+
+Pass 380: Inputs: 0 1 Outputs:  0.482174 Targets: 1 Net recent average error: 0.439163
+
+Pass 381: Inputs: 1 1 Outputs:  0.694568 Targets: 0 Net recent average error: 0.441692
+
+Pass 382: Inputs: 1 1 Outputs:  0.565244 Targets: 0 Net recent average error: 0.442915
+
+Pass 383: Inputs: 1 1 Outputs:  0.386667 Targets: 0 Net recent average error: 0.442358
+
+Pass 384: Inputs: 1 1 Outputs:  0.204745 Targets: 0 Net recent average error: 0.440005
+
+Pass 385: Inputs: 0 0 Outputs:  -0.322132 Targets: 0 Net recent average error: 0.438838
+
+Pass 386: Inputs: 0 1 Outputs:  0.134953 Targets: 1 Net recent average error: 0.443058
+
+Pass 387: Inputs: 0 0 Outputs:  0.0623208 Targets: 0 Net recent average error: 0.439288
+
+Pass 388: Inputs: 0 1 Outputs:  0.505638 Targets: 1 Net recent average error: 0.439834
+
+Pass 389: Inputs: 1 0 Outputs:  0.611476 Targets: 1 Net recent average error: 0.439326
+
+Pass 390: Inputs: 0 0 Outputs:  0.258514 Targets: 0 Net recent average error: 0.437536
+
+Pass 391: Inputs: 1 1 Outputs:  0.709838 Targets: 0 Net recent average error: 0.440232
+
+Pass 392: Inputs: 0 0 Outputs:  0.0507696 Targets: 0 Net recent average error: 0.436376
+
+Pass 393: Inputs: 0 0 Outputs:  0.0334691 Targets: 0 Net recent average error: 0.432386
+
+Pass 394: Inputs: 0 1 Outputs:  0.506135 Targets: 1 Net recent average error: 0.432995
+
+Pass 395: Inputs: 1 0 Outputs:  0.610588 Targets: 1 Net recent average error: 0.432564
+
+Pass 396: Inputs: 1 1 Outputs:  0.752558 Targets: 0 Net recent average error: 0.435732
+
+Pass 397: Inputs: 0 0 Outputs:  0.125391 Targets: 0 Net recent average error: 0.432659
+
+Pass 398: Inputs: 0 0 Outputs:  0.0827458 Targets: 0 Net recent average error: 0.429195
+
+Pass 399: Inputs: 1 1 Outputs:  0.60886 Targets: 0 Net recent average error: 0.430974
+
+Pass 400: Inputs: 0 1 Outputs:  0.384347 Targets: 1 Net recent average error: 0.432802
+
+Pass 401: Inputs: 0 1 Outputs:  0.591877 Targets: 1 Net recent average error: 0.432558
+
+Pass 402: Inputs: 1 1 Outputs:  0.722024 Targets: 0 Net recent average error: 0.435424
+
+Pass 403: Inputs: 0 0 Outputs:  0.0789197 Targets: 0 Net recent average error: 0.431894
+
+Pass 404: Inputs: 0 1 Outputs:  0.536984 Targets: 1 Net recent average error: 0.432202
+
+Pass 405: Inputs: 0 0 Outputs:  0.170825 Targets: 0 Net recent average error: 0.429614
+
+Pass 406: Inputs: 1 0 Outputs:  0.578852 Targets: 1 Net recent average error: 0.42953
+
+Pass 407: Inputs: 1 1 Outputs:  0.739144 Targets: 0 Net recent average error: 0.432596
+
+Pass 408: Inputs: 0 0 Outputs:  0.0934525 Targets: 0 Net recent average error: 0.429238
+
+Pass 409: Inputs: 1 1 Outputs:  0.611488 Targets: 0 Net recent average error: 0.431042
+
+Pass 410: Inputs: 1 1 Outputs:  0.443798 Targets: 0 Net recent average error: 0.431169
+
+Pass 411: Inputs: 1 1 Outputs:  0.251479 Targets: 0 Net recent average error: 0.42939
+
+Pass 412: Inputs: 1 0 Outputs:  0.0523252 Targets: 1 Net recent average error: 0.434521
+
+Pass 413: Inputs: 1 0 Outputs:  0.490141 Targets: 1 Net recent average error: 0.435267
+
+Pass 414: Inputs: 1 1 Outputs:  0.688884 Targets: 0 Net recent average error: 0.437778
+
+Pass 415: Inputs: 0 1 Outputs:  0.508621 Targets: 1 Net recent average error: 0.438309
+
+Pass 416: Inputs: 0 1 Outputs:  0.638061 Targets: 1 Net recent average error: 0.437553
+
+Pass 417: Inputs: 1 1 Outputs:  0.739012 Targets: 0 Net recent average error: 0.440537
+
+Pass 418: Inputs: 1 0 Outputs:  0.568896 Targets: 1 Net recent average error: 0.440444
+
+Pass 419: Inputs: 1 1 Outputs:  0.717924 Targets: 0 Net recent average error: 0.443191
+
+Pass 420: Inputs: 1 0 Outputs:  0.540255 Targets: 1 Net recent average error: 0.443355
+
+Pass 421: Inputs: 1 1 Outputs:  0.701055 Targets: 0 Net recent average error: 0.445907
+
+Pass 422: Inputs: 1 1 Outputs:  0.5707 Targets: 0 Net recent average error: 0.447142
+
+Pass 423: Inputs: 1 0 Outputs:  0.345972 Targets: 1 Net recent average error: 0.449191
+
+Pass 424: Inputs: 0 1 Outputs:  0.589871 Targets: 1 Net recent average error: 0.448804
+
+Pass 425: Inputs: 1 0 Outputs:  0.664074 Targets: 1 Net recent average error: 0.447686
+
+Pass 426: Inputs: 0 0 Outputs:  0.336731 Targets: 0 Net recent average error: 0.446588
+
+Pass 427: Inputs: 1 1 Outputs:  0.704331 Targets: 0 Net recent average error: 0.44914
+
+Pass 428: Inputs: 1 0 Outputs:  0.529124 Targets: 1 Net recent average error: 0.449355
+
+Pass 429: Inputs: 1 0 Outputs:  0.644859 Targets: 1 Net recent average error: 0.448422
+
+Pass 430: Inputs: 1 1 Outputs:  0.744394 Targets: 0 Net recent average error: 0.451353
+
+Pass 431: Inputs: 0 0 Outputs:  0.185408 Targets: 0 Net recent average error: 0.448719
+
+Pass 432: Inputs: 1 0 Outputs:  0.553673 Targets: 1 Net recent average error: 0.448696
+
+Pass 433: Inputs: 1 0 Outputs:  0.656205 Targets: 1 Net recent average error: 0.447657
+
+Pass 434: Inputs: 0 1 Outputs:  0.711328 Targets: 1 Net recent average error: 0.446083
+
+Pass 435: Inputs: 0 0 Outputs:  0.34938 Targets: 0 Net recent average error: 0.445126
+
+Pass 436: Inputs: 1 0 Outputs:  0.689676 Targets: 1 Net recent average error: 0.443791
+
+Pass 437: Inputs: 0 0 Outputs:  0.299671 Targets: 0 Net recent average error: 0.442364
+
+Pass 438: Inputs: 1 0 Outputs:  0.681106 Targets: 1 Net recent average error: 0.441141
+
+Pass 439: Inputs: 0 1 Outputs:  0.725255 Targets: 1 Net recent average error: 0.439494
+
+Pass 440: Inputs: 1 0 Outputs:  0.756134 Targets: 1 Net recent average error: 0.437557
+
+Pass 441: Inputs: 0 0 Outputs:  0.342092 Targets: 0 Net recent average error: 0.436612
+
+Pass 442: Inputs: 0 0 Outputs:  0.234771 Targets: 0 Net recent average error: 0.434613
+
+Pass 443: Inputs: 1 1 Outputs:  0.745924 Targets: 0 Net recent average error: 0.437696
+
+Pass 444: Inputs: 1 1 Outputs:  0.641082 Targets: 0 Net recent average error: 0.439709
+
+Pass 445: Inputs: 1 1 Outputs:  0.48208 Targets: 0 Net recent average error: 0.440129
+
+Pass 446: Inputs: 1 1 Outputs:  0.285719 Targets: 0 Net recent average error: 0.4386
+
+Pass 447: Inputs: 1 0 Outputs:  0.105501 Targets: 1 Net recent average error: 0.443114
+
+Pass 448: Inputs: 0 0 Outputs:  -0.00459799 Targets: 0 Net recent average error: 0.438772
+
+Pass 449: Inputs: 1 1 Outputs:  0.555074 Targets: 0 Net recent average error: 0.439924
+
+Pass 450: Inputs: 0 0 Outputs:  -0.138442 Targets: 0 Net recent average error: 0.436939
+
+Pass 451: Inputs: 1 1 Outputs:  0.407485 Targets: 0 Net recent average error: 0.436647
+
+Pass 452: Inputs: 0 0 Outputs:  -0.210917 Targets: 0 Net recent average error: 0.434412
+
+Pass 453: Inputs: 1 0 Outputs:  0.277634 Targets: 1 Net recent average error: 0.437263
+
+Pass 454: Inputs: 0 0 Outputs:  0.0949622 Targets: 0 Net recent average error: 0.433874
+
+Pass 455: Inputs: 0 1 Outputs:  0.509241 Targets: 1 Net recent average error: 0.434437
+
+Pass 456: Inputs: 0 1 Outputs:  0.641387 Targets: 1 Net recent average error: 0.433687
+
+Pass 457: Inputs: 1 1 Outputs:  0.745089 Targets: 0 Net recent average error: 0.43677
+
+Pass 458: Inputs: 1 1 Outputs:  0.637082 Targets: 0 Net recent average error: 0.438753
+
+Pass 459: Inputs: 1 0 Outputs:  0.463167 Targets: 1 Net recent average error: 0.439724
+
+Pass 460: Inputs: 1 0 Outputs:  0.621231 Targets: 1 Net recent average error: 0.439121
+
+Pass 461: Inputs: 1 1 Outputs:  0.708319 Targets: 0 Net recent average error: 0.441786
+
+Pass 462: Inputs: 0 0 Outputs:  0.126893 Targets: 0 Net recent average error: 0.438668
+
+Pass 463: Inputs: 0 0 Outputs:  0.0818287 Targets: 0 Net recent average error: 0.435135
+
+Pass 464: Inputs: 1 0 Outputs:  0.51923 Targets: 1 Net recent average error: 0.435587
+
+Pass 465: Inputs: 1 0 Outputs:  0.643452 Targets: 1 Net recent average error: 0.434804
+
+Pass 466: Inputs: 0 0 Outputs:  0.254465 Targets: 0 Net recent average error: 0.433019
+
+Pass 467: Inputs: 0 0 Outputs:  0.167853 Targets: 0 Net recent average error: 0.430393
+
+Pass 468: Inputs: 0 1 Outputs:  0.582899 Targets: 1 Net recent average error: 0.430262
+
+Pass 469: Inputs: 1 1 Outputs:  0.722805 Targets: 0 Net recent average error: 0.433158
+
+Pass 470: Inputs: 0 0 Outputs:  0.0857754 Targets: 0 Net recent average error: 0.429719
+
+Pass 471: Inputs: 0 1 Outputs:  0.52855 Targets: 1 Net recent average error: 0.430132
+
+Pass 472: Inputs: 0 0 Outputs:  0.178311 Targets: 0 Net recent average error: 0.427639
+
+Pass 473: Inputs: 1 0 Outputs:  0.638598 Targets: 1 Net recent average error: 0.426983
+
+Pass 474: Inputs: 1 0 Outputs:  0.70142 Targets: 1 Net recent average error: 0.425712
+
+Pass 475: Inputs: 1 1 Outputs:  0.763175 Targets: 0 Net recent average error: 0.429053
+
+Pass 476: Inputs: 1 0 Outputs:  0.648021 Targets: 1 Net recent average error: 0.42829
+
+Pass 477: Inputs: 0 1 Outputs:  0.676611 Targets: 1 Net recent average error: 0.427251
+
+Pass 478: Inputs: 1 1 Outputs:  0.769269 Targets: 0 Net recent average error: 0.430637
+
+Pass 479: Inputs: 0 1 Outputs:  0.628234 Targets: 1 Net recent average error: 0.430055
+
+Pass 480: Inputs: 1 0 Outputs:  0.722231 Targets: 1 Net recent average error: 0.428547
+
+Pass 481: Inputs: 1 0 Outputs:  0.754851 Targets: 1 Net recent average error: 0.426731
+
+Pass 482: Inputs: 1 1 Outputs:  0.79482 Targets: 0 Net recent average error: 0.430375
+
+Pass 483: Inputs: 1 0 Outputs:  0.703977 Targets: 1 Net recent average error: 0.429045
+
+Pass 484: Inputs: 1 1 Outputs:  0.75423 Targets: 0 Net recent average error: 0.432265
+
+Pass 485: Inputs: 1 1 Outputs:  0.64916 Targets: 0 Net recent average error: 0.434412
+
+Pass 486: Inputs: 1 0 Outputs:  0.504231 Targets: 1 Net recent average error: 0.43502
+
+Pass 487: Inputs: 0 0 Outputs:  0.165931 Targets: 0 Net recent average error: 0.432356
+
+Pass 488: Inputs: 0 1 Outputs:  0.550745 Targets: 1 Net recent average error: 0.432523
+
+Pass 489: Inputs: 0 1 Outputs:  0.661667 Targets: 1 Net recent average error: 0.43159
+
+Pass 490: Inputs: 1 0 Outputs:  0.745104 Targets: 1 Net recent average error: 0.429841
+
+Pass 491: Inputs: 0 0 Outputs:  0.326353 Targets: 0 Net recent average error: 0.428816
+
+Pass 492: Inputs: 1 0 Outputs:  0.72267 Targets: 1 Net recent average error: 0.427316
+
+Pass 493: Inputs: 0 1 Outputs:  0.725972 Targets: 1 Net recent average error: 0.425799
+
+Pass 494: Inputs: 1 0 Outputs:  0.783067 Targets: 1 Net recent average error: 0.423731
+
+Pass 495: Inputs: 1 1 Outputs:  0.813562 Targets: 0 Net recent average error: 0.42759
+
+Pass 496: Inputs: 0 0 Outputs:  0.246959 Targets: 0 Net recent average error: 0.425802
+
+Pass 497: Inputs: 1 0 Outputs:  0.693713 Targets: 1 Net recent average error: 0.424619
+
+Pass 498: Inputs: 0 0 Outputs:  0.215188 Targets: 0 Net recent average error: 0.422545
+
+Pass 499: Inputs: 0 1 Outputs:  0.660912 Targets: 1 Net recent average error: 0.421719
+
+Pass 500: Inputs: 0 0 Outputs:  0.204419 Targets: 0 Net recent average error: 0.419567
+
+Pass 501: Inputs: 1 0 Outputs:  0.712368 Targets: 1 Net recent average error: 0.418261
+
+Pass 502: Inputs: 1 0 Outputs:  0.748132 Targets: 1 Net recent average error: 0.416614
+
+Pass 503: Inputs: 1 0 Outputs:  0.77346 Targets: 1 Net recent average error: 0.414732
+
+Pass 504: Inputs: 0 0 Outputs:  0.249212 Targets: 0 Net recent average error: 0.413093
+
+Pass 505: Inputs: 0 1 Outputs:  0.725158 Targets: 1 Net recent average error: 0.411724
+
+Pass 506: Inputs: 1 1 Outputs:  0.808803 Targets: 0 Net recent average error: 0.415656
+
+Pass 507: Inputs: 1 1 Outputs:  0.737735 Targets: 0 Net recent average error: 0.418844
+
+Pass 508: Inputs: 0 0 Outputs:  -0.00771145 Targets: 0 Net recent average error: 0.414774
+
+Pass 509: Inputs: 0 0 Outputs:  -0.00469076 Targets: 0 Net recent average error: 0.410714
+
+Pass 510: Inputs: 0 0 Outputs:  -0.00285266 Targets: 0 Net recent average error: 0.406675
+
+Pass 511: Inputs: 1 1 Outputs:  0.62617 Targets: 0 Net recent average error: 0.408849
+
+Pass 512: Inputs: 1 1 Outputs:  0.453117 Targets: 0 Net recent average error: 0.409287
+
+Pass 513: Inputs: 1 1 Outputs:  0.247806 Targets: 0 Net recent average error: 0.407688
+
+Pass 514: Inputs: 1 1 Outputs:  0.0992396 Targets: 0 Net recent average error: 0.404634
+
+Pass 515: Inputs: 1 1 Outputs:  0.0343506 Targets: 0 Net recent average error: 0.400968
+
+Pass 516: Inputs: 0 0 Outputs:  -0.368266 Targets: 0 Net recent average error: 0.400644
+
+Pass 517: Inputs: 0 0 Outputs:  -0.266544 Targets: 0 Net recent average error: 0.399316
+
+Pass 518: Inputs: 1 1 Outputs:  0.207841 Targets: 0 Net recent average error: 0.397421
+
+Pass 519: Inputs: 1 0 Outputs:  0.164682 Targets: 1 Net recent average error: 0.401756
+
+Pass 520: Inputs: 1 1 Outputs:  0.50691 Targets: 0 Net recent average error: 0.402797
+
+Pass 521: Inputs: 1 1 Outputs:  0.297741 Targets: 0 Net recent average error: 0.401757
+
+Pass 522: Inputs: 0 1 Outputs:  0.115083 Targets: 1 Net recent average error: 0.406541
+
+Pass 523: Inputs: 0 1 Outputs:  0.554172 Targets: 1 Net recent average error: 0.40693
+
+Pass 524: Inputs: 1 1 Outputs:  0.687048 Targets: 0 Net recent average error: 0.409703
+
+Pass 525: Inputs: 0 1 Outputs:  0.526159 Targets: 1 Net recent average error: 0.410338
+
+Pass 526: Inputs: 0 0 Outputs:  0.244353 Targets: 0 Net recent average error: 0.408695
+
+Pass 527: Inputs: 0 0 Outputs:  0.156684 Targets: 0 Net recent average error: 0.4062
+
+Pass 528: Inputs: 0 1 Outputs:  0.563708 Targets: 1 Net recent average error: 0.406498
+
+Pass 529: Inputs: 1 0 Outputs:  0.695174 Targets: 1 Net recent average error: 0.405491
+
+Pass 530: Inputs: 1 1 Outputs:  0.734644 Targets: 0 Net recent average error: 0.40875
+
+Pass 531: Inputs: 0 0 Outputs:  0.145932 Targets: 0 Net recent average error: 0.406148
+
+Pass 532: Inputs: 1 0 Outputs:  0.600934 Targets: 1 Net recent average error: 0.406078
+
+Pass 533: Inputs: 1 1 Outputs:  0.671235 Targets: 0 Net recent average error: 0.408703
+
+Pass 534: Inputs: 1 0 Outputs:  0.5521 Targets: 1 Net recent average error: 0.409091
+
+Pass 535: Inputs: 1 1 Outputs:  0.63601 Targets: 0 Net recent average error: 0.411338
+
+Pass 536: Inputs: 1 1 Outputs:  0.459968 Targets: 0 Net recent average error: 0.411819
+
+Pass 537: Inputs: 0 1 Outputs:  0.261428 Targets: 1 Net recent average error: 0.415055
+
+Pass 538: Inputs: 0 0 Outputs:  0.159954 Targets: 0 Net recent average error: 0.412529
+
+Pass 539: Inputs: 0 1 Outputs:  0.547054 Targets: 1 Net recent average error: 0.412929
+
+Pass 540: Inputs: 0 0 Outputs:  0.216147 Targets: 0 Net recent average error: 0.410981
+
+Pass 541: Inputs: 0 1 Outputs:  0.617634 Targets: 1 Net recent average error: 0.410697
+
+Pass 542: Inputs: 0 1 Outputs:  0.695589 Targets: 1 Net recent average error: 0.409645
+
+Pass 543: Inputs: 0 1 Outputs:  0.739815 Targets: 1 Net recent average error: 0.408165
+
+Pass 544: Inputs: 1 0 Outputs:  0.776778 Targets: 1 Net recent average error: 0.406334
+
+Pass 545: Inputs: 0 1 Outputs:  0.787975 Targets: 1 Net recent average error: 0.40441
+
+Pass 546: Inputs: 1 1 Outputs:  0.815539 Targets: 0 Net recent average error: 0.408481
+
+Pass 547: Inputs: 0 0 Outputs:  0.287902 Targets: 0 Net recent average error: 0.407287
+
+Pass 548: Inputs: 1 0 Outputs:  0.700694 Targets: 1 Net recent average error: 0.406218
+
+Pass 549: Inputs: 0 0 Outputs:  0.237955 Targets: 0 Net recent average error: 0.404552
+
+Pass 550: Inputs: 1 1 Outputs:  0.704689 Targets: 0 Net recent average error: 0.407524
+
+Pass 551: Inputs: 1 1 Outputs:  0.565112 Targets: 0 Net recent average error: 0.409084
+
+Pass 552: Inputs: 1 0 Outputs:  0.408693 Targets: 1 Net recent average error: 0.410888
+
+Pass 553: Inputs: 1 1 Outputs:  0.588713 Targets: 0 Net recent average error: 0.412649
+
+Pass 554: Inputs: 0 1 Outputs:  0.40595 Targets: 1 Net recent average error: 0.414445
+
+Pass 555: Inputs: 0 0 Outputs:  0.120995 Targets: 0 Net recent average error: 0.411539
+
+Pass 556: Inputs: 1 0 Outputs:  0.610788 Targets: 1 Net recent average error: 0.411318
+
+Pass 557: Inputs: 1 0 Outputs:  0.691255 Targets: 1 Net recent average error: 0.410303
+
+Pass 558: Inputs: 1 0 Outputs:  0.736657 Targets: 1 Net recent average error: 0.408848
+
+Pass 559: Inputs: 1 0 Outputs:  0.766815 Targets: 1 Net recent average error: 0.407108
+
+Pass 560: Inputs: 1 1 Outputs:  0.780526 Targets: 0 Net recent average error: 0.410806
+
+Pass 561: Inputs: 1 1 Outputs:  0.685937 Targets: 0 Net recent average error: 0.41353
+
+Pass 562: Inputs: 0 1 Outputs:  0.541256 Targets: 1 Net recent average error: 0.413977
+
+Pass 563: Inputs: 1 1 Outputs:  0.659754 Targets: 0 Net recent average error: 0.416411
+
+Pass 564: Inputs: 0 1 Outputs:  0.515611 Targets: 1 Net recent average error: 0.417084
+
+Pass 565: Inputs: 0 1 Outputs:  0.655128 Targets: 1 Net recent average error: 0.416369
+
+Pass 566: Inputs: 0 0 Outputs:  0.264304 Targets: 0 Net recent average error: 0.414863
+
+Pass 567: Inputs: 0 1 Outputs:  0.667999 Targets: 1 Net recent average error: 0.414043
+
+Pass 568: Inputs: 0 0 Outputs:  0.23128 Targets: 0 Net recent average error: 0.412233
+
+Pass 569: Inputs: 0 0 Outputs:  0.139928 Targets: 0 Net recent average error: 0.409537
+
+Pass 570: Inputs: 1 1 Outputs:  0.651306 Targets: 0 Net recent average error: 0.411931
+
+Pass 571: Inputs: 0 1 Outputs:  0.50237 Targets: 1 Net recent average error: 0.412779
+
+Pass 572: Inputs: 0 1 Outputs:  0.649308 Targets: 1 Net recent average error: 0.412165
+
+Pass 573: Inputs: 0 1 Outputs:  0.713821 Targets: 1 Net recent average error: 0.410917
+
+Pass 574: Inputs: 1 0 Outputs:  0.742145 Targets: 1 Net recent average error: 0.409402
+
+Pass 575: Inputs: 1 0 Outputs:  0.770963 Targets: 1 Net recent average error: 0.407616
+
+Pass 576: Inputs: 1 0 Outputs:  0.792032 Targets: 1 Net recent average error: 0.405639
+
+Pass 577: Inputs: 1 0 Outputs:  0.808296 Targets: 1 Net recent average error: 0.403521
+
+Pass 578: Inputs: 0 0 Outputs:  0.342465 Targets: 0 Net recent average error: 0.402917
+
+Pass 579: Inputs: 1 1 Outputs:  0.787629 Targets: 0 Net recent average error: 0.406726
+
+Pass 580: Inputs: 1 1 Outputs:  0.697455 Targets: 0 Net recent average error: 0.409604
+
+Pass 581: Inputs: 1 0 Outputs:  0.571908 Targets: 1 Net recent average error: 0.409787
+
+Pass 582: Inputs: 0 0 Outputs:  0.0988681 Targets: 0 Net recent average error: 0.406709
+
+Pass 583: Inputs: 0 0 Outputs:  0.0565092 Targets: 0 Net recent average error: 0.403241
+
+Pass 584: Inputs: 1 0 Outputs:  0.641828 Targets: 1 Net recent average error: 0.402795
+
+Pass 585: Inputs: 1 1 Outputs:  0.699214 Targets: 0 Net recent average error: 0.40573
+
+Pass 586: Inputs: 1 0 Outputs:  0.584137 Targets: 1 Net recent average error: 0.40583
+
+Pass 587: Inputs: 0 1 Outputs:  0.661833 Targets: 1 Net recent average error: 0.40516
+
+Pass 588: Inputs: 1 0 Outputs:  0.732282 Targets: 1 Net recent average error: 0.4038
+
+Pass 589: Inputs: 0 1 Outputs:  0.752314 Targets: 1 Net recent average error: 0.402254
+
+Pass 590: Inputs: 1 0 Outputs:  0.787775 Targets: 1 Net recent average error: 0.400373
+
+Pass 591: Inputs: 0 0 Outputs:  0.274334 Targets: 0 Net recent average error: 0.399125
+
+Pass 592: Inputs: 1 1 Outputs:  0.763968 Targets: 0 Net recent average error: 0.402737
+
+Pass 593: Inputs: 0 1 Outputs:  0.66073 Targets: 1 Net recent average error: 0.402109
+
+Pass 594: Inputs: 0 1 Outputs:  0.720785 Targets: 1 Net recent average error: 0.400892
+
+Pass 595: Inputs: 0 0 Outputs:  0.176854 Targets: 0 Net recent average error: 0.398674
+
+Pass 596: Inputs: 0 0 Outputs:  0.0997757 Targets: 0 Net recent average error: 0.395714
+
+Pass 597: Inputs: 0 1 Outputs:  0.710038 Targets: 1 Net recent average error: 0.394667
+
+Pass 598: Inputs: 0 0 Outputs:  0.108759 Targets: 0 Net recent average error: 0.391836
+
+Pass 599: Inputs: 0 0 Outputs:  0.0595446 Targets: 0 Net recent average error: 0.388546
+
+Pass 600: Inputs: 1 0 Outputs:  0.723497 Targets: 1 Net recent average error: 0.387437
+
+Pass 601: Inputs: 0 1 Outputs:  0.753734 Targets: 1 Net recent average error: 0.386039
+
+Pass 602: Inputs: 1 0 Outputs:  0.781489 Targets: 1 Net recent average error: 0.384381
+
+Pass 603: Inputs: 0 0 Outputs:  0.151935 Targets: 0 Net recent average error: 0.382079
+
+Pass 604: Inputs: 1 1 Outputs:  0.790316 Targets: 0 Net recent average error: 0.386121
+
+Pass 605: Inputs: 1 1 Outputs:  0.701586 Targets: 0 Net recent average error: 0.389244
+
+Pass 606: Inputs: 1 1 Outputs:  0.555772 Targets: 0 Net recent average error: 0.390893
+
+Pass 607: Inputs: 1 0 Outputs:  0.396634 Targets: 1 Net recent average error: 0.392997
+
+Pass 608: Inputs: 1 0 Outputs:  0.617778 Targets: 1 Net recent average error: 0.39289
+
+Pass 609: Inputs: 1 1 Outputs:  0.672513 Targets: 0 Net recent average error: 0.395659
+
+Pass 610: Inputs: 0 1 Outputs:  0.523058 Targets: 1 Net recent average error: 0.396464
+
+Pass 611: Inputs: 0 0 Outputs:  0.0210891 Targets: 0 Net recent average error: 0.392747
+
+Pass 612: Inputs: 0 0 Outputs:  0.0114701 Targets: 0 Net recent average error: 0.388972
+
+Pass 613: Inputs: 0 1 Outputs:  0.652892 Targets: 1 Net recent average error: 0.388558
+
+Pass 614: Inputs: 0 0 Outputs:  0.0813441 Targets: 0 Net recent average error: 0.385516
+
+Pass 615: Inputs: 0 1 Outputs:  0.702083 Targets: 1 Net recent average error: 0.384648
+
+Pass 616: Inputs: 1 1 Outputs:  0.741765 Targets: 0 Net recent average error: 0.388184
+
+Pass 617: Inputs: 1 0 Outputs:  0.648768 Targets: 1 Net recent average error: 0.387818
+
+Pass 618: Inputs: 1 1 Outputs:  0.689363 Targets: 0 Net recent average error: 0.390804
+
+Pass 619: Inputs: 1 0 Outputs:  0.586827 Targets: 1 Net recent average error: 0.391025
+
+Pass 620: Inputs: 0 0 Outputs:  0.0449595 Targets: 0 Net recent average error: 0.387599
+
+Pass 621: Inputs: 0 0 Outputs:  0.0242643 Targets: 0 Net recent average error: 0.384002
+
+Pass 622: Inputs: 0 1 Outputs:  0.644752 Targets: 1 Net recent average error: 0.383717
+
+Pass 623: Inputs: 0 0 Outputs:  0.0918496 Targets: 0 Net recent average error: 0.380827
+
+Pass 624: Inputs: 0 0 Outputs:  0.0492019 Targets: 0 Net recent average error: 0.377544
+
+Pass 625: Inputs: 1 0 Outputs:  0.702875 Targets: 1 Net recent average error: 0.376748
+
+Pass 626: Inputs: 0 1 Outputs:  0.727908 Targets: 1 Net recent average error: 0.375711
+
+Pass 627: Inputs: 0 1 Outputs:  0.762993 Targets: 1 Net recent average error: 0.374338
+
+Pass 628: Inputs: 0 1 Outputs:  0.787417 Targets: 1 Net recent average error: 0.372737
+
+Pass 629: Inputs: 0 0 Outputs:  0.198567 Targets: 0 Net recent average error: 0.371012
+
+Pass 630: Inputs: 0 1 Outputs:  0.778131 Targets: 1 Net recent average error: 0.369535
+
+Pass 631: Inputs: 0 1 Outputs:  0.798517 Targets: 1 Net recent average error: 0.367872
+
+Pass 632: Inputs: 0 1 Outputs:  0.814242 Targets: 1 Net recent average error: 0.366068
+
+Pass 633: Inputs: 1 1 Outputs:  0.827281 Targets: 0 Net recent average error: 0.370635
+
+Pass 634: Inputs: 1 1 Outputs:  0.759949 Targets: 0 Net recent average error: 0.37449
+
+Pass 635: Inputs: 0 0 Outputs:  -0.00186878 Targets: 0 Net recent average error: 0.3708
+
+Pass 636: Inputs: 1 1 Outputs:  0.647337 Targets: 0 Net recent average error: 0.373538
+
+Pass 637: Inputs: 1 0 Outputs:  0.531304 Targets: 1 Net recent average error: 0.37448
+
+Pass 638: Inputs: 1 1 Outputs:  0.613817 Targets: 0 Net recent average error: 0.37685
+
+Pass 639: Inputs: 0 1 Outputs:  0.479872 Targets: 1 Net recent average error: 0.378269
+
+Pass 640: Inputs: 1 0 Outputs:  0.655481 Targets: 1 Net recent average error: 0.377934
+
+Pass 641: Inputs: 0 1 Outputs:  0.710152 Targets: 1 Net recent average error: 0.377062
+
+Pass 642: Inputs: 1 1 Outputs:  0.723059 Targets: 0 Net recent average error: 0.380488
+
+Pass 643: Inputs: 1 0 Outputs:  0.646818 Targets: 1 Net recent average error: 0.380218
+
+Pass 644: Inputs: 0 0 Outputs:  0.114886 Targets: 0 Net recent average error: 0.377591
+
+Pass 645: Inputs: 1 0 Outputs:  0.693623 Targets: 1 Net recent average error: 0.376886
+
+Pass 646: Inputs: 0 0 Outputs:  0.121552 Targets: 0 Net recent average error: 0.374357
+
+Pass 647: Inputs: 0 1 Outputs:  0.702749 Targets: 1 Net recent average error: 0.373594
+
+Pass 648: Inputs: 1 1 Outputs:  0.722674 Targets: 0 Net recent average error: 0.37705
+
+Pass 649: Inputs: 1 0 Outputs:  0.649505 Targets: 1 Net recent average error: 0.376787
+
+Pass 650: Inputs: 1 0 Outputs:  0.717374 Targets: 1 Net recent average error: 0.375855
+
+Pass 651: Inputs: 1 0 Outputs:  0.756877 Targets: 1 Net recent average error: 0.374541
+
+Pass 652: Inputs: 0 1 Outputs:  0.760933 Targets: 1 Net recent average error: 0.3732
+
+Pass 653: Inputs: 1 0 Outputs:  0.80465 Targets: 1 Net recent average error: 0.371439
+
+Pass 654: Inputs: 0 0 Outputs:  0.238837 Targets: 0 Net recent average error: 0.370126
+
+Pass 655: Inputs: 0 0 Outputs:  0.128221 Targets: 0 Net recent average error: 0.367731
+
+Pass 656: Inputs: 1 1 Outputs:  0.732997 Targets: 0 Net recent average error: 0.371347
+
+Pass 657: Inputs: 1 1 Outputs:  0.598405 Targets: 0 Net recent average error: 0.373595
+
+Pass 658: Inputs: 1 0 Outputs:  0.507929 Targets: 1 Net recent average error: 0.374768
+
+Pass 659: Inputs: 1 0 Outputs:  0.660009 Targets: 1 Net recent average error: 0.374424
+
+Pass 660: Inputs: 1 1 Outputs:  0.645982 Targets: 0 Net recent average error: 0.377113
+
+Pass 661: Inputs: 0 0 Outputs:  -0.0881753 Targets: 0 Net recent average error: 0.374252
+
+Pass 662: Inputs: 0 0 Outputs:  -0.0465312 Targets: 0 Net recent average error: 0.371007
+
+Pass 663: Inputs: 1 1 Outputs:  0.491638 Targets: 0 Net recent average error: 0.372202
+
+Pass 664: Inputs: 1 1 Outputs:  0.25905 Targets: 0 Net recent average error: 0.371081
+
+Pass 665: Inputs: 1 1 Outputs:  0.0881773 Targets: 0 Net recent average error: 0.36828
+
+Pass 666: Inputs: 1 1 Outputs:  0.0244911 Targets: 0 Net recent average error: 0.364876
+
+Pass 667: Inputs: 1 1 Outputs:  0.00662021 Targets: 0 Net recent average error: 0.361329
+
+Pass 668: Inputs: 0 0 Outputs:  -0.266347 Targets: 0 Net recent average error: 0.360389
+
+Pass 669: Inputs: 1 0 Outputs:  0.335782 Targets: 1 Net recent average error: 0.363397
+
+Pass 670: Inputs: 0 0 Outputs:  0.0739841 Targets: 0 Net recent average error: 0.360532
+
+Pass 671: Inputs: 1 0 Outputs:  0.615856 Targets: 1 Net recent average error: 0.360765
+
+Pass 672: Inputs: 0 0 Outputs:  0.134299 Targets: 0 Net recent average error: 0.358523
+
+Pass 673: Inputs: 1 1 Outputs:  0.508565 Targets: 0 Net recent average error: 0.360009
+
+Pass 674: Inputs: 1 0 Outputs:  0.520091 Targets: 1 Net recent average error: 0.361196
+
+Pass 675: Inputs: 0 1 Outputs:  0.530972 Targets: 1 Net recent average error: 0.362263
+
+Pass 676: Inputs: 1 0 Outputs:  0.767309 Targets: 1 Net recent average error: 0.360981
+
+Pass 677: Inputs: 0 0 Outputs:  0.248797 Targets: 0 Net recent average error: 0.35987
+
+Pass 678: Inputs: 0 1 Outputs:  0.655332 Targets: 1 Net recent average error: 0.359719
+
+Pass 679: Inputs: 0 0 Outputs:  0.210467 Targets: 0 Net recent average error: 0.358242
+
+Pass 680: Inputs: 0 0 Outputs:  0.109694 Targets: 0 Net recent average error: 0.355781
+
+Pass 681: Inputs: 1 1 Outputs:  0.634114 Targets: 0 Net recent average error: 0.358536
+
+Pass 682: Inputs: 0 0 Outputs:  -0.073751 Targets: 0 Net recent average error: 0.355717
+
+Pass 683: Inputs: 0 0 Outputs:  -0.037796 Targets: 0 Net recent average error: 0.352569
+
+Pass 684: Inputs: 1 0 Outputs:  0.644763 Targets: 1 Net recent average error: 0.352596
+
+Pass 685: Inputs: 1 0 Outputs:  0.7196 Targets: 1 Net recent average error: 0.351881
+
+Pass 686: Inputs: 0 1 Outputs:  0.654705 Targets: 1 Net recent average error: 0.351815
+
+Pass 687: Inputs: 0 0 Outputs:  0.194801 Targets: 0 Net recent average error: 0.350261
+
+Pass 688: Inputs: 0 1 Outputs:  0.687742 Targets: 1 Net recent average error: 0.349885
+
+Pass 689: Inputs: 1 1 Outputs:  0.719952 Targets: 0 Net recent average error: 0.353549
+
+Pass 690: Inputs: 1 0 Outputs:  0.717314 Targets: 1 Net recent average error: 0.352847
+
+Pass 691: Inputs: 1 1 Outputs:  0.623796 Targets: 0 Net recent average error: 0.35553
+
+Pass 692: Inputs: 1 1 Outputs:  0.412195 Targets: 0 Net recent average error: 0.356091
+
+Pass 693: Inputs: 1 1 Outputs:  0.176356 Targets: 0 Net recent average error: 0.354311
+
+Pass 694: Inputs: 0 1 Outputs:  0.185318 Targets: 1 Net recent average error: 0.358869
+
+Pass 695: Inputs: 0 0 Outputs:  0.104038 Targets: 0 Net recent average error: 0.356346
+
+Pass 696: Inputs: 0 0 Outputs:  0.051901 Targets: 0 Net recent average error: 0.353332
+
+Pass 697: Inputs: 0 1 Outputs:  0.588421 Targets: 1 Net recent average error: 0.353909
+
+Pass 698: Inputs: 0 1 Outputs:  0.697848 Targets: 1 Net recent average error: 0.353396
+
+Pass 699: Inputs: 0 1 Outputs:  0.749405 Targets: 1 Net recent average error: 0.352378
+
+Pass 700: Inputs: 0 0 Outputs:  0.235629 Targets: 0 Net recent average error: 0.351222
+
+Pass 701: Inputs: 1 0 Outputs:  0.773541 Targets: 1 Net recent average error: 0.349987
+
+Pass 702: Inputs: 0 1 Outputs:  0.766365 Targets: 1 Net recent average error: 0.348835
+
+Pass 703: Inputs: 1 0 Outputs:  0.817097 Targets: 1 Net recent average error: 0.347192
+
+Pass 704: Inputs: 1 0 Outputs:  0.830409 Targets: 1 Net recent average error: 0.345434
+
+Pass 705: Inputs: 1 1 Outputs:  0.775217 Targets: 0 Net recent average error: 0.349689
+
+Pass 706: Inputs: 0 0 Outputs:  0.13561 Targets: 0 Net recent average error: 0.34757
+
+Pass 707: Inputs: 0 1 Outputs:  0.705136 Targets: 1 Net recent average error: 0.347048
+
+Pass 708: Inputs: 0 0 Outputs:  0.124558 Targets: 0 Net recent average error: 0.344845
+
+Pass 709: Inputs: 0 0 Outputs:  0.0594211 Targets: 0 Net recent average error: 0.342019
+
+Pass 710: Inputs: 1 1 Outputs:  0.655783 Targets: 0 Net recent average error: 0.345125
+
+Pass 711: Inputs: 1 1 Outputs:  0.46021 Targets: 0 Net recent average error: 0.346265
+
+Pass 712: Inputs: 0 0 Outputs:  -0.210727 Targets: 0 Net recent average error: 0.344923
+
+Pass 713: Inputs: 1 1 Outputs:  0.278952 Targets: 0 Net recent average error: 0.34427
+
+Pass 714: Inputs: 0 1 Outputs:  0.298388 Targets: 1 Net recent average error: 0.347808
+
+Pass 715: Inputs: 1 1 Outputs:  0.488115 Targets: 0 Net recent average error: 0.349197
+
+Pass 716: Inputs: 1 1 Outputs:  0.238813 Targets: 0 Net recent average error: 0.348104
+
+Pass 717: Inputs: 1 0 Outputs:  0.347507 Targets: 1 Net recent average error: 0.351118
+
+Pass 718: Inputs: 1 0 Outputs:  0.651493 Targets: 1 Net recent average error: 0.351092
+
+Pass 719: Inputs: 1 1 Outputs:  0.542951 Targets: 0 Net recent average error: 0.352992
+
+Pass 720: Inputs: 0 1 Outputs:  0.501252 Targets: 1 Net recent average error: 0.354435
+
+Pass 721: Inputs: 0 0 Outputs:  0.186141 Targets: 0 Net recent average error: 0.352768
+
+Pass 722: Inputs: 0 1 Outputs:  0.63821 Targets: 1 Net recent average error: 0.352858
+
+Pass 723: Inputs: 0 0 Outputs:  0.179432 Targets: 0 Net recent average error: 0.351141
+
+Pass 724: Inputs: 0 0 Outputs:  0.0878315 Targets: 0 Net recent average error: 0.348534
+
+Pass 725: Inputs: 1 1 Outputs:  0.516773 Targets: 0 Net recent average error: 0.350199
+
+Pass 726: Inputs: 0 0 Outputs:  -0.084875 Targets: 0 Net recent average error: 0.347572
+
+Pass 727: Inputs: 0 1 Outputs:  0.516771 Targets: 1 Net recent average error: 0.348915
+
+Pass 728: Inputs: 0 1 Outputs:  0.683742 Targets: 1 Net recent average error: 0.348592
+
+Pass 729: Inputs: 1 1 Outputs:  0.585605 Targets: 0 Net recent average error: 0.350939
+
+Pass 730: Inputs: 1 0 Outputs:  0.572055 Targets: 1 Net recent average error: 0.351701
+
+Pass 731: Inputs: 0 0 Outputs:  0.15749 Targets: 0 Net recent average error: 0.349778
+
+Pass 732: Inputs: 1 1 Outputs:  0.46992 Targets: 0 Net recent average error: 0.350968
+
+Pass 733: Inputs: 1 0 Outputs:  0.493154 Targets: 1 Net recent average error: 0.352511
+
+Pass 734: Inputs: 0 1 Outputs:  0.650123 Targets: 1 Net recent average error: 0.352485
+
+Pass 735: Inputs: 0 1 Outputs:  0.730665 Targets: 1 Net recent average error: 0.351662
+
+Pass 736: Inputs: 0 1 Outputs:  0.772445 Targets: 1 Net recent average error: 0.350433
+
+Pass 737: Inputs: 1 0 Outputs:  0.797502 Targets: 1 Net recent average error: 0.348968
+
+Pass 738: Inputs: 0 0 Outputs:  0.306353 Targets: 0 Net recent average error: 0.348546
+
+Pass 739: Inputs: 1 1 Outputs:  0.637468 Targets: 0 Net recent average error: 0.351407
+
+Pass 740: Inputs: 0 0 Outputs:  0.0316414 Targets: 0 Net recent average error: 0.348241
+
+Pass 741: Inputs: 0 0 Outputs:  0.0145554 Targets: 0 Net recent average error: 0.344937
+
+Pass 742: Inputs: 0 1 Outputs:  0.621764 Targets: 1 Net recent average error: 0.345267
+
+Pass 743: Inputs: 1 0 Outputs:  0.70726 Targets: 1 Net recent average error: 0.344747
+
+Pass 744: Inputs: 0 1 Outputs:  0.760361 Targets: 1 Net recent average error: 0.343706
+
+Pass 745: Inputs: 0 1 Outputs:  0.791139 Targets: 1 Net recent average error: 0.342371
+
+Pass 746: Inputs: 0 0 Outputs:  0.233886 Targets: 0 Net recent average error: 0.341297
+
+Pass 747: Inputs: 0 0 Outputs:  0.111963 Targets: 0 Net recent average error: 0.339026
+
+Pass 748: Inputs: 1 1 Outputs:  0.615586 Targets: 0 Net recent average error: 0.341765
+
+Pass 749: Inputs: 0 0 Outputs:  -0.0754447 Targets: 0 Net recent average error: 0.339128
+
+Pass 750: Inputs: 1 1 Outputs:  0.400583 Targets: 0 Net recent average error: 0.339736
+
+Pass 751: Inputs: 0 1 Outputs:  0.464559 Targets: 1 Net recent average error: 0.341674
+
+Pass 752: Inputs: 1 0 Outputs:  0.632055 Targets: 1 Net recent average error: 0.341934
+
+Pass 753: Inputs: 0 0 Outputs:  0.118827 Targets: 0 Net recent average error: 0.339725
+
+Pass 754: Inputs: 0 0 Outputs:  0.053536 Targets: 0 Net recent average error: 0.336891
+
+Pass 755: Inputs: 0 1 Outputs:  0.71541 Targets: 1 Net recent average error: 0.336374
+
+Pass 756: Inputs: 0 0 Outputs:  0.0813646 Targets: 0 Net recent average error: 0.333849
+
+Pass 757: Inputs: 1 0 Outputs:  0.71515 Targets: 1 Net recent average error: 0.333364
+
+Pass 758: Inputs: 0 1 Outputs:  0.785191 Targets: 1 Net recent average error: 0.33219
+
+Pass 759: Inputs: 0 1 Outputs:  0.808252 Targets: 1 Net recent average error: 0.330799
+
+Pass 760: Inputs: 0 0 Outputs:  0.153931 Targets: 0 Net recent average error: 0.329048
+
+Pass 761: Inputs: 1 0 Outputs:  0.775549 Targets: 1 Net recent average error: 0.328013
+
+Pass 762: Inputs: 0 1 Outputs:  0.822799 Targets: 1 Net recent average error: 0.326519
+
+Pass 763: Inputs: 1 0 Outputs:  0.813449 Targets: 1 Net recent average error: 0.325134
+
+Pass 764: Inputs: 1 0 Outputs:  0.8289 Targets: 1 Net recent average error: 0.323608
+
+Pass 765: Inputs: 1 1 Outputs:  0.758953 Targets: 0 Net recent average error: 0.327919
+
+Pass 766: Inputs: 0 0 Outputs:  0.0689684 Targets: 0 Net recent average error: 0.325355
+
+Pass 767: Inputs: 0 0 Outputs:  0.0295557 Targets: 0 Net recent average error: 0.322426
+
+Pass 768: Inputs: 0 1 Outputs:  0.761625 Targets: 1 Net recent average error: 0.321594
+
+Pass 769: Inputs: 1 0 Outputs:  0.764786 Targets: 1 Net recent average error: 0.320739
+
+Pass 770: Inputs: 0 1 Outputs:  0.813917 Targets: 1 Net recent average error: 0.319406
+
+Pass 771: Inputs: 1 0 Outputs:  0.808028 Targets: 1 Net recent average error: 0.318144
+
+Pass 772: Inputs: 0 1 Outputs:  0.842226 Targets: 1 Net recent average error: 0.316556
+
+Pass 773: Inputs: 1 1 Outputs:  0.741987 Targets: 0 Net recent average error: 0.320768
+
+Pass 774: Inputs: 0 0 Outputs:  0.0565372 Targets: 0 Net recent average error: 0.318152
+
+Pass 775: Inputs: 0 0 Outputs:  0.0240407 Targets: 0 Net recent average error: 0.31524
+
+Pass 776: Inputs: 0 0 Outputs:  0.0101952 Targets: 0 Net recent average error: 0.31222
+
+Pass 777: Inputs: 1 0 Outputs:  0.722901 Targets: 1 Net recent average error: 0.311872
+
+Pass 778: Inputs: 0 0 Outputs:  0.0585636 Targets: 0 Net recent average error: 0.309364
+
+Pass 779: Inputs: 0 0 Outputs:  0.0245948 Targets: 0 Net recent average error: 0.306545
+
+Pass 780: Inputs: 0 0 Outputs:  0.0102995 Targets: 0 Net recent average error: 0.303611
+
+Pass 781: Inputs: 0 0 Outputs:  0.00431429 Targets: 0 Net recent average error: 0.300648
+
+Pass 782: Inputs: 0 1 Outputs:  0.769116 Targets: 1 Net recent average error: 0.299957
+
+Pass 783: Inputs: 1 1 Outputs:  0.646052 Targets: 0 Net recent average error: 0.303384
+
+Pass 784: Inputs: 0 1 Outputs:  0.669956 Targets: 1 Net recent average error: 0.303648
+
+Pass 785: Inputs: 0 0 Outputs:  -0.00489538 Targets: 0 Net recent average error: 0.30069
+
+Pass 786: Inputs: 0 1 Outputs:  0.742648 Targets: 1 Net recent average error: 0.300261
+
+Pass 787: Inputs: 0 1 Outputs:  0.780801 Targets: 1 Net recent average error: 0.299458
+
+Pass 788: Inputs: 0 0 Outputs:  0.0822303 Targets: 0 Net recent average error: 0.297308
+
+Pass 789: Inputs: 1 1 Outputs:  0.607667 Targets: 0 Net recent average error: 0.30038
+
+Pass 790: Inputs: 1 1 Outputs:  0.35989 Targets: 0 Net recent average error: 0.30097
+
+Pass 791: Inputs: 0 0 Outputs:  -0.185041 Targets: 0 Net recent average error: 0.299822
+
+Pass 792: Inputs: 0 1 Outputs:  0.562732 Targets: 1 Net recent average error: 0.301183
+
+Pass 793: Inputs: 1 1 Outputs:  0.37642 Targets: 0 Net recent average error: 0.301928
+
+Pass 794: Inputs: 1 0 Outputs:  0.441597 Targets: 1 Net recent average error: 0.304467
+
+Pass 795: Inputs: 1 0 Outputs:  0.686931 Targets: 1 Net recent average error: 0.304552
+
+Pass 796: Inputs: 0 1 Outputs:  0.779526 Targets: 1 Net recent average error: 0.30372
+
+Pass 797: Inputs: 0 0 Outputs:  0.222663 Targets: 0 Net recent average error: 0.302917
+
+Pass 798: Inputs: 0 1 Outputs:  0.771605 Targets: 1 Net recent average error: 0.302179
+
+Pass 799: Inputs: 1 0 Outputs:  0.763987 Targets: 1 Net recent average error: 0.301524
+
+Pass 800: Inputs: 0 1 Outputs:  0.822488 Targets: 1 Net recent average error: 0.300296
+
+Pass 801: Inputs: 0 0 Outputs:  0.203936 Targets: 0 Net recent average error: 0.299342
+
+Pass 802: Inputs: 1 0 Outputs:  0.778001 Targets: 1 Net recent average error: 0.298577
+
+Pass 803: Inputs: 1 0 Outputs:  0.804283 Targets: 1 Net recent average error: 0.297558
+
+Pass 804: Inputs: 0 0 Outputs:  0.153809 Targets: 0 Net recent average error: 0.296135
+
+Pass 805: Inputs: 1 1 Outputs:  0.656992 Targets: 0 Net recent average error: 0.299708
+
+Pass 806: Inputs: 1 1 Outputs:  0.423332 Targets: 0 Net recent average error: 0.300932
+
+Pass 807: Inputs: 0 0 Outputs:  -0.163148 Targets: 0 Net recent average error: 0.299568
+
+Pass 808: Inputs: 1 0 Outputs:  0.548821 Targets: 1 Net recent average error: 0.301069
+
+Pass 809: Inputs: 1 1 Outputs:  0.415358 Targets: 0 Net recent average error: 0.3022
+
+Pass 810: Inputs: 0 0 Outputs:  -0.053185 Targets: 0 Net recent average error: 0.299735
+
+Pass 811: Inputs: 0 0 Outputs:  -0.022944 Targets: 0 Net recent average error: 0.296994
+
+Pass 812: Inputs: 0 0 Outputs:  -0.00983595 Targets: 0 Net recent average error: 0.294151
+
+Pass 813: Inputs: 1 1 Outputs:  0.165937 Targets: 0 Net recent average error: 0.292882
+
+Pass 814: Inputs: 1 0 Outputs:  0.482181 Targets: 1 Net recent average error: 0.295109
+
+Pass 815: Inputs: 1 1 Outputs:  0.324947 Targets: 0 Net recent average error: 0.295404
+
+Pass 816: Inputs: 1 1 Outputs:  0.0796997 Targets: 0 Net recent average error: 0.293268
+
+Pass 817: Inputs: 1 0 Outputs:  0.521407 Targets: 1 Net recent average error: 0.295103
+
+Pass 818: Inputs: 0 0 Outputs:  0.142919 Targets: 0 Net recent average error: 0.293597
+
+Pass 819: Inputs: 1 0 Outputs:  0.676708 Targets: 1 Net recent average error: 0.293891
+
+Pass 820: Inputs: 1 0 Outputs:  0.750649 Targets: 1 Net recent average error: 0.29345
+
+Pass 821: Inputs: 1 0 Outputs:  0.788663 Targets: 1 Net recent average error: 0.292637
+
+Pass 822: Inputs: 0 1 Outputs:  0.733789 Targets: 1 Net recent average error: 0.292375
+
+Pass 823: Inputs: 1 0 Outputs:  0.839647 Targets: 1 Net recent average error: 0.291068
+
+Pass 824: Inputs: 0 1 Outputs:  0.792695 Targets: 1 Net recent average error: 0.290238
+
+Pass 825: Inputs: 0 0 Outputs:  0.315896 Targets: 0 Net recent average error: 0.290493
+
+Pass 826: Inputs: 1 1 Outputs:  0.563237 Targets: 0 Net recent average error: 0.293193
+
+Pass 827: Inputs: 1 1 Outputs:  0.265619 Targets: 0 Net recent average error: 0.29292
+
+Pass 828: Inputs: 0 1 Outputs:  0.465185 Targets: 1 Net recent average error: 0.295315
+
+Pass 829: Inputs: 1 0 Outputs:  0.750077 Targets: 1 Net recent average error: 0.294866
+
+Pass 830: Inputs: 0 0 Outputs:  0.171934 Targets: 0 Net recent average error: 0.293648
+
+Pass 831: Inputs: 1 1 Outputs:  0.401829 Targets: 0 Net recent average error: 0.294719
+
+Pass 832: Inputs: 0 0 Outputs:  -0.0335804 Targets: 0 Net recent average error: 0.292134
+
+Pass 833: Inputs: 0 0 Outputs:  -0.0139878 Targets: 0 Net recent average error: 0.28938
+
+Pass 834: Inputs: 0 1 Outputs:  0.555977 Targets: 1 Net recent average error: 0.290911
+
+Pass 835: Inputs: 0 0 Outputs:  0.124263 Targets: 0 Net recent average error: 0.289261
+
+Pass 836: Inputs: 0 1 Outputs:  0.69261 Targets: 1 Net recent average error: 0.289441
+
+Pass 837: Inputs: 1 1 Outputs:  0.439906 Targets: 0 Net recent average error: 0.29093
+
+Pass 838: Inputs: 0 0 Outputs:  0.00691866 Targets: 0 Net recent average error: 0.288118
+
+Pass 839: Inputs: 1 0 Outputs:  0.617864 Targets: 1 Net recent average error: 0.289049
+
+Pass 840: Inputs: 1 1 Outputs:  0.313905 Targets: 0 Net recent average error: 0.289295
+
+Pass 841: Inputs: 0 0 Outputs:  0.0148045 Targets: 0 Net recent average error: 0.286578
+
+Pass 842: Inputs: 1 1 Outputs:  0.0563076 Targets: 0 Net recent average error: 0.284298
+
+Pass 843: Inputs: 0 1 Outputs:  0.519542 Targets: 1 Net recent average error: 0.28624
+
+Pass 844: Inputs: 0 1 Outputs:  0.718341 Targets: 1 Net recent average error: 0.286195
+
+Pass 845: Inputs: 0 0 Outputs:  0.196756 Targets: 0 Net recent average error: 0.285309
+
+Pass 846: Inputs: 0 1 Outputs:  0.738745 Targets: 1 Net recent average error: 0.285071
+
+Pass 847: Inputs: 1 1 Outputs:  0.422351 Targets: 0 Net recent average error: 0.28643
+
+Pass 848: Inputs: 0 0 Outputs:  0.0255452 Targets: 0 Net recent average error: 0.283847
+
+Pass 849: Inputs: 0 0 Outputs:  0.0103643 Targets: 0 Net recent average error: 0.281139
+
+Pass 850: Inputs: 0 0 Outputs:  0.00420403 Targets: 0 Net recent average error: 0.278397
+
+Pass 851: Inputs: 0 1 Outputs:  0.631781 Targets: 1 Net recent average error: 0.279287
+
+Pass 852: Inputs: 1 0 Outputs:  0.689137 Targets: 1 Net recent average error: 0.279599
+
+Pass 853: Inputs: 1 1 Outputs:  0.399091 Targets: 0 Net recent average error: 0.280782
+
+Pass 854: Inputs: 0 0 Outputs:  0.0607923 Targets: 0 Net recent average error: 0.278604
+
+Pass 855: Inputs: 1 0 Outputs:  0.594067 Targets: 1 Net recent average error: 0.279865
+
+Pass 856: Inputs: 0 0 Outputs:  0.13632 Targets: 0 Net recent average error: 0.278444
+
+Pass 857: Inputs: 1 1 Outputs:  0.248798 Targets: 0 Net recent average error: 0.27815
+
+Pass 858: Inputs: 1 0 Outputs:  0.590147 Targets: 1 Net recent average error: 0.279454
+
+Pass 859: Inputs: 1 1 Outputs:  0.249382 Targets: 0 Net recent average error: 0.279156
+
+Pass 860: Inputs: 0 1 Outputs:  0.590979 Targets: 1 Net recent average error: 0.280442
+
+Pass 861: Inputs: 1 1 Outputs:  0.250935 Targets: 0 Net recent average error: 0.28015
+
+Pass 862: Inputs: 0 0 Outputs:  0.0694924 Targets: 0 Net recent average error: 0.278064
+
+Pass 863: Inputs: 1 1 Outputs:  0.00559245 Targets: 0 Net recent average error: 0.275367
+
+Pass 864: Inputs: 0 1 Outputs:  0.603941 Targets: 1 Net recent average error: 0.276562
+
+Pass 865: Inputs: 1 0 Outputs:  0.703824 Targets: 1 Net recent average error: 0.276756
+
+Pass 866: Inputs: 1 0 Outputs:  0.769446 Targets: 1 Net recent average error: 0.276298
+
+Pass 867: Inputs: 0 1 Outputs:  0.808969 Targets: 1 Net recent average error: 0.275454
+
+Pass 868: Inputs: 1 0 Outputs:  0.820021 Targets: 1 Net recent average error: 0.274509
+
+Pass 869: Inputs: 1 1 Outputs:  0.492526 Targets: 0 Net recent average error: 0.276667
+
+Pass 870: Inputs: 0 0 Outputs:  0.173416 Targets: 0 Net recent average error: 0.275645
+
+Pass 871: Inputs: 0 1 Outputs:  0.672636 Targets: 1 Net recent average error: 0.276157
+
+Pass 872: Inputs: 0 1 Outputs:  0.758516 Targets: 1 Net recent average error: 0.275814
+
+Pass 873: Inputs: 1 0 Outputs:  0.765495 Targets: 1 Net recent average error: 0.275405
+
+Pass 874: Inputs: 1 0 Outputs:  0.801825 Targets: 1 Net recent average error: 0.27464
+
+Pass 875: Inputs: 0 0 Outputs:  0.262694 Targets: 0 Net recent average error: 0.274522
+
+Pass 876: Inputs: 0 0 Outputs:  0.114119 Targets: 0 Net recent average error: 0.272934
+
+Pass 877: Inputs: 0 0 Outputs:  0.0442085 Targets: 0 Net recent average error: 0.270669
+
+Pass 878: Inputs: 1 0 Outputs:  0.760402 Targets: 1 Net recent average error: 0.270362
+
+Pass 879: Inputs: 0 1 Outputs:  0.804772 Targets: 1 Net recent average error: 0.269618
+
+Pass 880: Inputs: 1 1 Outputs:  0.470871 Targets: 0 Net recent average error: 0.27161
+
+Pass 881: Inputs: 0 1 Outputs:  0.690783 Targets: 1 Net recent average error: 0.271983
+
+Pass 882: Inputs: 0 0 Outputs:  0.0470603 Targets: 0 Net recent average error: 0.269756
+
+Pass 883: Inputs: 1 0 Outputs:  0.723087 Targets: 1 Net recent average error: 0.269827
+
+Pass 884: Inputs: 1 1 Outputs:  0.352387 Targets: 0 Net recent average error: 0.270644
+
+Pass 885: Inputs: 0 0 Outputs:  -0.0184252 Targets: 0 Net recent average error: 0.268147
+
+Pass 886: Inputs: 0 1 Outputs:  0.673692 Targets: 1 Net recent average error: 0.268723
+
+Pass 887: Inputs: 1 0 Outputs:  0.720606 Targets: 1 Net recent average error: 0.268828
+
+Pass 888: Inputs: 0 1 Outputs:  0.798782 Targets: 1 Net recent average error: 0.268159
+
+Pass 889: Inputs: 1 1 Outputs:  0.376165 Targets: 0 Net recent average error: 0.269228
+
+Pass 890: Inputs: 0 0 Outputs:  0.0615114 Targets: 0 Net recent average error: 0.267172
+
+Pass 891: Inputs: 1 0 Outputs:  0.649932 Targets: 1 Net recent average error: 0.267992
+
+Pass 892: Inputs: 0 1 Outputs:  0.761204 Targets: 1 Net recent average error: 0.267703
+
+Pass 893: Inputs: 0 0 Outputs:  0.153632 Targets: 0 Net recent average error: 0.266574
+
+Pass 894: Inputs: 1 0 Outputs:  0.757271 Targets: 1 Net recent average error: 0.266338
+
+Pass 895: Inputs: 0 1 Outputs:  0.804431 Targets: 1 Net recent average error: 0.265637
+
+Pass 896: Inputs: 1 0 Outputs:  0.815432 Targets: 1 Net recent average error: 0.264834
+
+Pass 897: Inputs: 0 1 Outputs:  0.841066 Targets: 1 Net recent average error: 0.263786
+
+Pass 898: Inputs: 0 1 Outputs:  0.85385 Targets: 1 Net recent average error: 0.262621
+
+Pass 899: Inputs: 0 1 Outputs:  0.863928 Targets: 1 Net recent average error: 0.261368
+
+Pass 900: Inputs: 0 1 Outputs:  0.872143 Targets: 1 Net recent average error: 0.260046
+
+Pass 901: Inputs: 0 0 Outputs:  0.224087 Targets: 0 Net recent average error: 0.25969
+
+Pass 902: Inputs: 0 0 Outputs:  0.0895923 Targets: 0 Net recent average error: 0.258006
+
+Pass 903: Inputs: 1 1 Outputs:  0.477074 Targets: 0 Net recent average error: 0.260175
+
+Pass 904: Inputs: 0 0 Outputs:  -0.0769319 Targets: 0 Net recent average error: 0.258361
+
+Pass 905: Inputs: 1 0 Outputs:  0.706384 Targets: 1 Net recent average error: 0.25871
+
+Pass 906: Inputs: 1 0 Outputs:  0.772865 Targets: 1 Net recent average error: 0.258397
+
+Pass 907: Inputs: 1 0 Outputs:  0.80684 Targets: 1 Net recent average error: 0.257751
+
+Pass 908: Inputs: 1 1 Outputs:  0.390837 Targets: 0 Net recent average error: 0.259069
+
+Pass 909: Inputs: 1 0 Outputs:  0.706844 Targets: 1 Net recent average error: 0.259407
+
+Pass 910: Inputs: 1 1 Outputs:  0.183594 Targets: 0 Net recent average error: 0.258656
+
+Pass 911: Inputs: 0 1 Outputs:  0.6686 Targets: 1 Net recent average error: 0.259376
+
+Pass 912: Inputs: 1 0 Outputs:  0.767104 Targets: 1 Net recent average error: 0.259114
+
+Pass 913: Inputs: 1 0 Outputs:  0.804564 Targets: 1 Net recent average error: 0.258484
+
+Pass 914: Inputs: 0 1 Outputs:  0.810426 Targets: 1 Net recent average error: 0.257801
+
+Pass 915: Inputs: 1 0 Outputs:  0.842796 Targets: 1 Net recent average error: 0.256805
+
+Pass 916: Inputs: 1 0 Outputs:  0.855497 Targets: 1 Net recent average error: 0.255693
+
+Pass 917: Inputs: 0 1 Outputs:  0.850934 Targets: 1 Net recent average error: 0.254638
+
+Pass 918: Inputs: 0 0 Outputs:  0.245957 Targets: 0 Net recent average error: 0.254552
+
+Pass 919: Inputs: 0 1 Outputs:  0.833546 Targets: 1 Net recent average error: 0.253679
+
+Pass 920: Inputs: 0 0 Outputs:  0.121847 Targets: 0 Net recent average error: 0.252374
+
+Pass 921: Inputs: 0 1 Outputs:  0.833174 Targets: 1 Net recent average error: 0.251527
+
+Pass 922: Inputs: 1 1 Outputs:  0.452241 Targets: 0 Net recent average error: 0.253514
+
+Pass 923: Inputs: 1 0 Outputs:  0.731896 Targets: 1 Net recent average error: 0.253659
+
+Pass 924: Inputs: 0 1 Outputs:  0.763512 Targets: 1 Net recent average error: 0.253489
+
+Pass 925: Inputs: 0 0 Outputs:  0.0574999 Targets: 0 Net recent average error: 0.251548
+
+Pass 926: Inputs: 0 0 Outputs:  0.0208161 Targets: 0 Net recent average error: 0.249264
+
+Pass 927: Inputs: 0 1 Outputs:  0.790775 Targets: 1 Net recent average error: 0.248867
+
+Pass 928: Inputs: 0 0 Outputs:  0.0414654 Targets: 0 Net recent average error: 0.246814
+
+Pass 929: Inputs: 1 1 Outputs:  0.314454 Targets: 0 Net recent average error: 0.247484
+
+Pass 930: Inputs: 1 0 Outputs:  0.707544 Targets: 1 Net recent average error: 0.247929
+
+Pass 931: Inputs: 1 0 Outputs:  0.775821 Targets: 1 Net recent average error: 0.247694
+
+Pass 932: Inputs: 1 0 Outputs:  0.809808 Targets: 1 Net recent average error: 0.247125
+
+Pass 933: Inputs: 1 1 Outputs:  0.28184 Targets: 0 Net recent average error: 0.247468
+
+Pass 934: Inputs: 0 1 Outputs:  0.694722 Targets: 1 Net recent average error: 0.248041
+
+Pass 935: Inputs: 0 1 Outputs:  0.773569 Targets: 1 Net recent average error: 0.247827
+
+Pass 936: Inputs: 1 1 Outputs:  0.233143 Targets: 0 Net recent average error: 0.247681
+
+Pass 937: Inputs: 0 0 Outputs:  0.0372206 Targets: 0 Net recent average error: 0.245597
+
+Pass 938: Inputs: 1 1 Outputs:  -0.0142686 Targets: 0 Net recent average error: 0.243307
+
+Pass 939: Inputs: 0 1 Outputs:  0.722922 Targets: 1 Net recent average error: 0.243641
+
+Pass 940: Inputs: 1 0 Outputs:  0.778489 Targets: 1 Net recent average error: 0.243422
+
+Pass 941: Inputs: 0 1 Outputs:  0.809949 Targets: 1 Net recent average error: 0.242894
+
+Pass 942: Inputs: 1 0 Outputs:  0.829247 Targets: 1 Net recent average error: 0.24218
+
+Pass 943: Inputs: 1 1 Outputs:  0.30724 Targets: 0 Net recent average error: 0.242824
+
+Pass 944: Inputs: 1 0 Outputs:  0.750148 Targets: 1 Net recent average error: 0.242893
+
+Pass 945: Inputs: 1 0 Outputs:  0.79796 Targets: 1 Net recent average error: 0.242489
+
+Pass 946: Inputs: 0 0 Outputs:  0.162762 Targets: 0 Net recent average error: 0.2417
+
+Pass 947: Inputs: 0 1 Outputs:  0.779434 Targets: 1 Net recent average error: 0.24149
+
+Pass 948: Inputs: 0 1 Outputs:  0.81392 Targets: 1 Net recent average error: 0.240942
+
+Pass 949: Inputs: 1 1 Outputs:  0.264695 Targets: 0 Net recent average error: 0.241177
+
+Pass 950: Inputs: 1 1 Outputs:  -0.00835187 Targets: 0 Net recent average error: 0.238872
+
+Pass 951: Inputs: 1 0 Outputs:  0.757853 Targets: 1 Net recent average error: 0.238904
+
+Pass 952: Inputs: 0 0 Outputs:  0.103873 Targets: 0 Net recent average error: 0.237567
+
+Pass 953: Inputs: 1 1 Outputs:  0.0692093 Targets: 0 Net recent average error: 0.2359
+
+Pass 954: Inputs: 0 0 Outputs:  0.0194605 Targets: 0 Net recent average error: 0.233757
+
+Pass 955: Inputs: 1 1 Outputs:  -0.0103893 Targets: 0 Net recent average error: 0.231546
+
+Pass 956: Inputs: 0 0 Outputs:  0.00970464 Targets: 0 Net recent average error: 0.229349
+
+Pass 957: Inputs: 1 0 Outputs:  0.758367 Targets: 1 Net recent average error: 0.229471
+
+Pass 958: Inputs: 1 0 Outputs:  0.801881 Targets: 1 Net recent average error: 0.22916
+
+Pass 959: Inputs: 1 1 Outputs:  0.158309 Targets: 0 Net recent average error: 0.228459
+
+Pass 960: Inputs: 0 1 Outputs:  0.731702 Targets: 1 Net recent average error: 0.228853
+
+Pass 961: Inputs: 0 1 Outputs:  0.790862 Targets: 1 Net recent average error: 0.228658
+
+Pass 962: Inputs: 0 1 Outputs:  0.821389 Targets: 1 Net recent average error: 0.228163
+
+Pass 963: Inputs: 1 0 Outputs:  0.846296 Targets: 1 Net recent average error: 0.227425
+
+Pass 964: Inputs: 1 0 Outputs:  0.859021 Targets: 1 Net recent average error: 0.22657
+
+Pass 965: Inputs: 0 1 Outputs:  0.858832 Targets: 1 Net recent average error: 0.225724
+
+Pass 966: Inputs: 1 1 Outputs:  0.340221 Targets: 0 Net recent average error: 0.226858
+
+Pass 967: Inputs: 1 1 Outputs:  -0.00588186 Targets: 0 Net recent average error: 0.22467
+
+Pass 968: Inputs: 1 1 Outputs:  0.000539177 Targets: 0 Net recent average error: 0.222451
+
+Pass 969: Inputs: 1 1 Outputs:  -5.03281e-05 Targets: 0 Net recent average error: 0.220249
+
+Pass 970: Inputs: 1 0 Outputs:  0.786884 Targets: 1 Net recent average error: 0.220178
+
+Pass 971: Inputs: 1 0 Outputs:  0.819133 Targets: 1 Net recent average error: 0.219789
+
+Pass 972: Inputs: 0 1 Outputs:  0.815942 Targets: 1 Net recent average error: 0.219435
+
+Pass 973: Inputs: 1 1 Outputs:  0.192935 Targets: 0 Net recent average error: 0.219173
+
+Pass 974: Inputs: 1 0 Outputs:  0.795925 Targets: 1 Net recent average error: 0.219023
+
+Pass 975: Inputs: 0 1 Outputs:  0.796933 Targets: 1 Net recent average error: 0.218865
+
+Pass 976: Inputs: 0 0 Outputs:  0.21583 Targets: 0 Net recent average error: 0.218835
+
+Pass 977: Inputs: 1 1 Outputs:  0.0692758 Targets: 0 Net recent average error: 0.217354
+
+Pass 978: Inputs: 0 1 Outputs:  0.769089 Targets: 1 Net recent average error: 0.217489
+
+Pass 979: Inputs: 0 1 Outputs:  0.809876 Targets: 1 Net recent average error: 0.217218
+
+Pass 980: Inputs: 0 0 Outputs:  0.134551 Targets: 0 Net recent average error: 0.216399
+
+Pass 981: Inputs: 1 0 Outputs:  0.817635 Targets: 1 Net recent average error: 0.216062
+
+Pass 982: Inputs: 0 0 Outputs:  0.0745906 Targets: 0 Net recent average error: 0.214662
+
+Pass 983: Inputs: 0 0 Outputs:  0.0261601 Targets: 0 Net recent average error: 0.212795
+
+Pass 984: Inputs: 0 0 Outputs:  0.00912387 Targets: 0 Net recent average error: 0.210779
+
+Pass 985: Inputs: 0 0 Outputs:  0.0031858 Targets: 0 Net recent average error: 0.208723
+
+Pass 986: Inputs: 1 1 Outputs:  0.140945 Targets: 0 Net recent average error: 0.208052
+
+Pass 987: Inputs: 1 0 Outputs:  0.77552 Targets: 1 Net recent average error: 0.208215
+
+Pass 988: Inputs: 0 0 Outputs:  0.00350783 Targets: 0 Net recent average error: 0.206188
+
+Pass 989: Inputs: 1 1 Outputs:  0.0673716 Targets: 0 Net recent average error: 0.204814
+
+Pass 990: Inputs: 0 1 Outputs:  0.76703 Targets: 1 Net recent average error: 0.205092
+
+Pass 991: Inputs: 1 1 Outputs:  0.0845925 Targets: 0 Net recent average error: 0.203899
+
+Pass 992: Inputs: 1 1 Outputs:  -0.0116487 Targets: 0 Net recent average error: 0.201996
+
+Pass 993: Inputs: 0 0 Outputs:  0.00675284 Targets: 0 Net recent average error: 0.200063
+
+Pass 994: Inputs: 1 1 Outputs:  -0.000297817 Targets: 0 Net recent average error: 0.198085
+
+Pass 995: Inputs: 1 0 Outputs:  0.790683 Targets: 1 Net recent average error: 0.198196
+
+Pass 996: Inputs: 1 0 Outputs:  0.821382 Targets: 1 Net recent average error: 0.198002
+
+Pass 997: Inputs: 1 1 Outputs:  0.131092 Targets: 0 Net recent average error: 0.19734
+
+Pass 998: Inputs: 1 0 Outputs:  0.800251 Targets: 1 Net recent average error: 0.197364
+
+Pass 999: Inputs: 0 0 Outputs:  0.0584782 Targets: 0 Net recent average error: 0.195989
+
+Pass 1000: Inputs: 0 1 Outputs:  0.787619 Targets: 1 Net recent average error: 0.196151
+
+Pass 1001: Inputs: 0 0 Outputs:  0.0554105 Targets: 0 Net recent average error: 0.194757
+
+Pass 1002: Inputs: 0 1 Outputs:  0.81241 Targets: 1 Net recent average error: 0.194686
+
+Pass 1003: Inputs: 1 0 Outputs:  0.847767 Targets: 1 Net recent average error: 0.194266
+
+Pass 1004: Inputs: 0 1 Outputs:  0.845719 Targets: 1 Net recent average error: 0.19387
+
+Pass 1005: Inputs: 1 1 Outputs:  0.24544 Targets: 0 Net recent average error: 0.194381
+
+Pass 1006: Inputs: 1 0 Outputs:  0.799897 Targets: 1 Net recent average error: 0.194437
+
+Pass 1007: Inputs: 1 1 Outputs:  0.0388534 Targets: 0 Net recent average error: 0.192897
+
+Pass 1008: Inputs: 1 1 Outputs:  -0.00621329 Targets: 0 Net recent average error: 0.191049
+
+Pass 1009: Inputs: 0 1 Outputs:  0.793669 Targets: 1 Net recent average error: 0.1912
+
+Pass 1010: Inputs: 1 1 Outputs:  0.0770022 Targets: 0 Net recent average error: 0.190069
+
+Pass 1011: Inputs: 1 1 Outputs:  -0.0131373 Targets: 0 Net recent average error: 0.188317
+
+Pass 1012: Inputs: 0 1 Outputs:  0.802906 Targets: 1 Net recent average error: 0.188404
+
+Pass 1013: Inputs: 1 0 Outputs:  0.835748 Targets: 1 Net recent average error: 0.188165
+
+Pass 1014: Inputs: 0 1 Outputs:  0.842399 Targets: 1 Net recent average error: 0.187863
+
+Pass 1015: Inputs: 1 1 Outputs:  0.165961 Targets: 0 Net recent average error: 0.187646
+
+Pass 1016: Inputs: 1 0 Outputs:  0.813439 Targets: 1 Net recent average error: 0.187635
+
+Pass 1017: Inputs: 1 1 Outputs:  0.0331741 Targets: 0 Net recent average error: 0.186106
+
+Pass 1018: Inputs: 1 0 Outputs:  0.826651 Targets: 1 Net recent average error: 0.185979
+
+Pass 1019: Inputs: 1 1 Outputs:  0.0483739 Targets: 0 Net recent average error: 0.184617
+
+Pass 1020: Inputs: 1 1 Outputs:  -0.00915032 Targets: 0 Net recent average error: 0.18288
+
+Pass 1021: Inputs: 0 0 Outputs:  0.12306 Targets: 0 Net recent average error: 0.182287
+
+Pass 1022: Inputs: 0 0 Outputs:  0.0437378 Targets: 0 Net recent average error: 0.180916
+
+Pass 1023: Inputs: 1 1 Outputs:  -0.0400494 Targets: 0 Net recent average error: 0.179521
+
+Pass 1024: Inputs: 0 0 Outputs:  0.0250782 Targets: 0 Net recent average error: 0.177992
+
+Pass 1025: Inputs: 1 0 Outputs:  0.820396 Targets: 1 Net recent average error: 0.178008
+
+Pass 1026: Inputs: 0 1 Outputs:  0.816825 Targets: 1 Net recent average error: 0.178059
+
+Pass 1027: Inputs: 1 0 Outputs:  0.855062 Targets: 1 Net recent average error: 0.177731
+
+Pass 1028: Inputs: 0 1 Outputs:  0.848327 Targets: 1 Net recent average error: 0.177473
+
+Pass 1029: Inputs: 1 1 Outputs:  0.198713 Targets: 0 Net recent average error: 0.177683
+
+Pass 1030: Inputs: 1 1 Outputs:  -0.0355001 Targets: 0 Net recent average error: 0.176276
+
+Pass 1031: Inputs: 0 1 Outputs:  0.813127 Targets: 1 Net recent average error: 0.17638
+
+Pass 1032: Inputs: 1 1 Outputs:  0.0697948 Targets: 0 Net recent average error: 0.175325
+
+Pass 1033: Inputs: 0 0 Outputs:  0.0640324 Targets: 0 Net recent average error: 0.174223
+
+Pass 1034: Inputs: 1 1 Outputs:  -0.0295556 Targets: 0 Net recent average error: 0.172791
+
+Pass 1035: Inputs: 0 1 Outputs:  0.81507 Targets: 1 Net recent average error: 0.172911
+
+Pass 1036: Inputs: 0 0 Outputs:  0.0563225 Targets: 0 Net recent average error: 0.171757
+
+Pass 1037: Inputs: 0 0 Outputs:  0.0193072 Targets: 0 Net recent average error: 0.170247
+
+Pass 1038: Inputs: 0 0 Outputs:  0.00660964 Targets: 0 Net recent average error: 0.168627
+
+Pass 1039: Inputs: 1 1 Outputs:  0.0469092 Targets: 0 Net recent average error: 0.167422
+
+Pass 1040: Inputs: 0 1 Outputs:  0.81178 Targets: 1 Net recent average error: 0.167628
+
+Pass 1041: Inputs: 1 1 Outputs:  0.055381 Targets: 0 Net recent average error: 0.166517
+
+Pass 1042: Inputs: 0 0 Outputs:  0.0046149 Targets: 0 Net recent average error: 0.164914
+
+Pass 1043: Inputs: 0 1 Outputs:  0.817662 Targets: 1 Net recent average error: 0.165086
+
+Pass 1044: Inputs: 1 0 Outputs:  0.831961 Targets: 1 Net recent average error: 0.165115
+
+Pass 1045: Inputs: 0 0 Outputs:  0.0500106 Targets: 0 Net recent average error: 0.163976
+
+Pass 1046: Inputs: 1 0 Outputs:  0.843309 Targets: 1 Net recent average error: 0.163904
+
+Pass 1047: Inputs: 0 0 Outputs:  0.0364544 Targets: 0 Net recent average error: 0.162642
+
+Pass 1048: Inputs: 1 0 Outputs:  0.853329 Targets: 1 Net recent average error: 0.162484
+
+Pass 1049: Inputs: 1 1 Outputs:  0.163025 Targets: 0 Net recent average error: 0.162489
+
+Pass 1050: Inputs: 1 1 Outputs:  -0.0328013 Targets: 0 Net recent average error: 0.161205
+
+Pass 1051: Inputs: 0 0 Outputs:  -0.00311241 Targets: 0 Net recent average error: 0.15964
+
+Pass 1052: Inputs: 1 0 Outputs:  0.829063 Targets: 1 Net recent average error: 0.159751
+
+Pass 1053: Inputs: 1 1 Outputs:  0.0598846 Targets: 0 Net recent average error: 0.158763
+
+Pass 1054: Inputs: 1 1 Outputs:  -0.0124841 Targets: 0 Net recent average error: 0.157314
+
+Pass 1055: Inputs: 1 0 Outputs:  0.833424 Targets: 1 Net recent average error: 0.157406
+
+Pass 1056: Inputs: 0 1 Outputs:  0.835146 Targets: 1 Net recent average error: 0.15748
+
+Pass 1057: Inputs: 1 0 Outputs:  0.861524 Targets: 1 Net recent average error: 0.157292
+
+Pass 1058: Inputs: 1 0 Outputs:  0.871582 Targets: 1 Net recent average error: 0.157006
+
+Pass 1059: Inputs: 0 0 Outputs:  0.082039 Targets: 0 Net recent average error: 0.156264
+
+Pass 1060: Inputs: 1 1 Outputs:  0.149686 Targets: 0 Net recent average error: 0.156198
+
+Pass 1061: Inputs: 0 0 Outputs:  -0.00924775 Targets: 0 Net recent average error: 0.154743
+
+Pass 1062: Inputs: 0 0 Outputs:  -0.00316591 Targets: 0 Net recent average error: 0.153243
+
+Pass 1063: Inputs: 1 1 Outputs:  -0.0290981 Targets: 0 Net recent average error: 0.152014
+
+Pass 1064: Inputs: 0 0 Outputs:  0.00596123 Targets: 0 Net recent average error: 0.150567
+
+Pass 1065: Inputs: 0 1 Outputs:  0.822057 Targets: 1 Net recent average error: 0.150839
+
+Pass 1066: Inputs: 1 0 Outputs:  0.85382 Targets: 1 Net recent average error: 0.150792
+
+Pass 1067: Inputs: 1 1 Outputs:  0.102575 Targets: 0 Net recent average error: 0.150315
+
+Pass 1068: Inputs: 0 0 Outputs:  0.0185756 Targets: 0 Net recent average error: 0.149011
+
+Pass 1069: Inputs: 1 1 Outputs:  -0.027617 Targets: 0 Net recent average error: 0.147809
+
+Pass 1070: Inputs: 1 0 Outputs:  0.843053 Targets: 1 Net recent average error: 0.147899
+
+Pass 1071: Inputs: 1 1 Outputs:  0.0509042 Targets: 0 Net recent average error: 0.146939
+
+Pass 1072: Inputs: 1 0 Outputs:  0.843431 Targets: 1 Net recent average error: 0.147034
+
+Pass 1073: Inputs: 0 1 Outputs:  0.834606 Targets: 1 Net recent average error: 0.147216
+
+Pass 1074: Inputs: 1 1 Outputs:  0.0855965 Targets: 0 Net recent average error: 0.146606
+
+Pass 1075: Inputs: 0 0 Outputs:  0.0398996 Targets: 0 Net recent average error: 0.145549
+
+Pass 1076: Inputs: 1 0 Outputs:  0.840725 Targets: 1 Net recent average error: 0.145685
+
+Pass 1077: Inputs: 1 0 Outputs:  0.855926 Targets: 1 Net recent average error: 0.145669
+
+Pass 1078: Inputs: 1 1 Outputs:  0.055668 Targets: 0 Net recent average error: 0.144778
+
+Pass 1079: Inputs: 0 0 Outputs:  0.0364587 Targets: 0 Net recent average error: 0.143706
+
+Pass 1080: Inputs: 0 1 Outputs:  0.819593 Targets: 1 Net recent average error: 0.144069
+
+Pass 1081: Inputs: 1 1 Outputs:  0.0392017 Targets: 0 Net recent average error: 0.143031
+
+Pass 1082: Inputs: 0 1 Outputs:  0.829574 Targets: 1 Net recent average error: 0.143302
+
+Pass 1083: Inputs: 1 1 Outputs:  0.0457243 Targets: 0 Net recent average error: 0.142336
+
+Pass 1084: Inputs: 1 1 Outputs:  -0.0111036 Targets: 0 Net recent average error: 0.141037
+
+Pass 1085: Inputs: 0 0 Outputs:  0.0427998 Targets: 0 Net recent average error: 0.140064
+
+Pass 1086: Inputs: 0 1 Outputs:  0.832557 Targets: 1 Net recent average error: 0.140335
+
+Pass 1087: Inputs: 0 0 Outputs:  0.0366765 Targets: 0 Net recent average error: 0.139309
+
+Pass 1088: Inputs: 0 1 Outputs:  0.846099 Targets: 1 Net recent average error: 0.139453
+
+Pass 1089: Inputs: 1 0 Outputs:  0.865888 Targets: 1 Net recent average error: 0.1394
+
+Pass 1090: Inputs: 0 0 Outputs:  0.045619 Targets: 0 Net recent average error: 0.138472
+
+Pass 1091: Inputs: 1 0 Outputs:  0.870562 Targets: 1 Net recent average error: 0.138382
+
+Pass 1092: Inputs: 1 1 Outputs:  0.135797 Targets: 0 Net recent average error: 0.138357
+
+Pass 1093: Inputs: 0 1 Outputs:  0.829983 Targets: 1 Net recent average error: 0.13867
+
+Pass 1094: Inputs: 0 0 Outputs:  0.0183359 Targets: 0 Net recent average error: 0.137479
+
+Pass 1095: Inputs: 0 1 Outputs:  0.846588 Targets: 1 Net recent average error: 0.137637
+
+Pass 1096: Inputs: 1 0 Outputs:  0.863497 Targets: 1 Net recent average error: 0.137625
+
+Pass 1097: Inputs: 0 1 Outputs:  0.867991 Targets: 1 Net recent average error: 0.13757
+
+Pass 1098: Inputs: 1 1 Outputs:  0.130066 Targets: 0 Net recent average error: 0.137495
+
+Pass 1099: Inputs: 1 0 Outputs:  0.84571 Targets: 1 Net recent average error: 0.137662
+
+Pass 1100: Inputs: 0 0 Outputs:  0.0409262 Targets: 0 Net recent average error: 0.136704
+
+Pass 1101: Inputs: 1 0 Outputs:  0.855291 Targets: 1 Net recent average error: 0.136783
+
+Pass 1102: Inputs: 0 0 Outputs:  0.0303593 Targets: 0 Net recent average error: 0.13573
+
+Pass 1103: Inputs: 0 1 Outputs:  0.853171 Targets: 1 Net recent average error: 0.135839
+
+Pass 1104: Inputs: 0 1 Outputs:  0.865641 Targets: 1 Net recent average error: 0.135825
+
+Pass 1105: Inputs: 1 1 Outputs:  0.10994 Targets: 0 Net recent average error: 0.135568
+
+Pass 1106: Inputs: 1 1 Outputs:  -0.0297068 Targets: 0 Net recent average error: 0.13452
+
+Pass 1107: Inputs: 1 1 Outputs:  0.00716427 Targets: 0 Net recent average error: 0.133259
+
+Pass 1108: Inputs: 0 0 Outputs:  0.0205312 Targets: 0 Net recent average error: 0.132143
+
+Pass 1109: Inputs: 0 1 Outputs:  0.84965 Targets: 1 Net recent average error: 0.132324
+
+Pass 1110: Inputs: 1 1 Outputs:  0.0366619 Targets: 0 Net recent average error: 0.131376
+
+Pass 1111: Inputs: 0 0 Outputs:  0.0161134 Targets: 0 Net recent average error: 0.130235
+
+Pass 1112: Inputs: 0 1 Outputs:  0.85108 Targets: 1 Net recent average error: 0.13042
+
+Pass 1113: Inputs: 0 1 Outputs:  0.864105 Targets: 1 Net recent average error: 0.130474
+
+Pass 1114: Inputs: 0 1 Outputs:  0.874104 Targets: 1 Net recent average error: 0.130429
+
+Pass 1115: Inputs: 1 1 Outputs:  0.0955073 Targets: 0 Net recent average error: 0.130083
+
+Pass 1116: Inputs: 1 1 Outputs:  -0.0266419 Targets: 0 Net recent average error: 0.129059
+
+Pass 1117: Inputs: 0 1 Outputs:  0.865062 Targets: 1 Net recent average error: 0.129117
+
+Pass 1118: Inputs: 1 0 Outputs:  0.863601 Targets: 1 Net recent average error: 0.129189
+
+Pass 1119: Inputs: 0 0 Outputs:  0.0635043 Targets: 0 Net recent average error: 0.128539
+
+Pass 1120: Inputs: 0 1 Outputs:  0.875357 Targets: 1 Net recent average error: 0.128501
+
+Pass 1121: Inputs: 0 1 Outputs:  0.883121 Targets: 1 Net recent average error: 0.128385
+
+Pass 1122: Inputs: 1 1 Outputs:  0.119542 Targets: 0 Net recent average error: 0.128298
+
+Pass 1123: Inputs: 1 1 Outputs:  -0.0338679 Targets: 0 Net recent average error: 0.127363
+
+Pass 1124: Inputs: 0 1 Outputs:  0.869306 Targets: 1 Net recent average error: 0.127396
+
+Pass 1125: Inputs: 1 0 Outputs:  0.862929 Targets: 1 Net recent average error: 0.127492
+
+Pass 1126: Inputs: 0 0 Outputs:  0.05263 Targets: 0 Net recent average error: 0.12675
+
+Pass 1127: Inputs: 1 1 Outputs:  0.0656915 Targets: 0 Net recent average error: 0.126146
+
+Pass 1128: Inputs: 1 0 Outputs:  0.849793 Targets: 1 Net recent average error: 0.126384
+
+Pass 1129: Inputs: 0 0 Outputs:  0.0195228 Targets: 0 Net recent average error: 0.125326
+
+Pass 1130: Inputs: 0 0 Outputs:  0.00646429 Targets: 0 Net recent average error: 0.124149
+
+Pass 1131: Inputs: 1 1 Outputs:  0.0187864 Targets: 0 Net recent average error: 0.123106
+
+Pass 1132: Inputs: 1 1 Outputs:  -0.00516924 Targets: 0 Net recent average error: 0.121938
+
+Pass 1133: Inputs: 1 1 Outputs:  0.00138329 Targets: 0 Net recent average error: 0.120745
+
+Pass 1134: Inputs: 0 0 Outputs:  -0.00141531 Targets: 0 Net recent average error: 0.119563
+
+Pass 1135: Inputs: 0 0 Outputs:  -0.000470718 Targets: 0 Net recent average error: 0.118384
+
+Pass 1136: Inputs: 0 0 Outputs:  -0.000156525 Targets: 0 Net recent average error: 0.117214
+
+Pass 1137: Inputs: 1 1 Outputs:  0.000108387 Targets: 0 Net recent average error: 0.116054
+
+Pass 1138: Inputs: 1 0 Outputs:  0.856443 Targets: 1 Net recent average error: 0.116326
+
+Pass 1139: Inputs: 0 1 Outputs:  0.873821 Targets: 1 Net recent average error: 0.116424
+
+Pass 1140: Inputs: 0 1 Outputs:  0.881942 Targets: 1 Net recent average error: 0.11644
+
+Pass 1141: Inputs: 0 1 Outputs:  0.888623 Targets: 1 Net recent average error: 0.11639
+
+Pass 1142: Inputs: 0 1 Outputs:  0.894248 Targets: 1 Net recent average error: 0.116285
+
+Pass 1143: Inputs: 0 0 Outputs:  0.0597329 Targets: 0 Net recent average error: 0.115725
+
+Pass 1144: Inputs: 1 0 Outputs:  0.882119 Targets: 1 Net recent average error: 0.115746
+
+Pass 1145: Inputs: 1 1 Outputs:  0.157368 Targets: 0 Net recent average error: 0.116158
+
+Pass 1146: Inputs: 1 0 Outputs:  0.84862 Targets: 1 Net recent average error: 0.116507
+
+Pass 1147: Inputs: 0 1 Outputs:  0.870777 Targets: 1 Net recent average error: 0.116633
+
+Pass 1148: Inputs: 1 1 Outputs:  0.0311346 Targets: 0 Net recent average error: 0.115786
+
+Pass 1149: Inputs: 1 1 Outputs:  -0.00907559 Targets: 0 Net recent average error: 0.11473
+
+Pass 1150: Inputs: 0 0 Outputs:  0.0195577 Targets: 0 Net recent average error: 0.113788
+
+Pass 1151: Inputs: 1 1 Outputs:  -0.00206026 Targets: 0 Net recent average error: 0.112681
+
+Pass 1152: Inputs: 1 1 Outputs:  0.00057759 Targets: 0 Net recent average error: 0.111571
+
+Pass 1153: Inputs: 1 0 Outputs:  0.861598 Targets: 1 Net recent average error: 0.111837
+
+Pass 1154: Inputs: 1 0 Outputs:  0.872293 Targets: 1 Net recent average error: 0.111994
+
+Pass 1155: Inputs: 1 0 Outputs:  0.880755 Targets: 1 Net recent average error: 0.112066
+
+Pass 1156: Inputs: 1 0 Outputs:  0.887675 Targets: 1 Net recent average error: 0.112069
+
+Pass 1157: Inputs: 0 0 Outputs:  0.0566723 Targets: 0 Net recent average error: 0.11152
+
+Pass 1158: Inputs: 0 0 Outputs:  0.0185291 Targets: 0 Net recent average error: 0.110599
+
+Pass 1159: Inputs: 0 0 Outputs:  0.00605775 Targets: 0 Net recent average error: 0.109564
+
+Pass 1160: Inputs: 1 0 Outputs:  0.88625 Targets: 1 Net recent average error: 0.109606
+
+Pass 1161: Inputs: 0 1 Outputs:  0.891375 Targets: 1 Net recent average error: 0.109596
+
+Pass 1162: Inputs: 0 1 Outputs:  0.896636 Targets: 1 Net recent average error: 0.109534
+
+Pass 1163: Inputs: 0 1 Outputs:  0.901176 Targets: 1 Net recent average error: 0.109428
+
+Pass 1164: Inputs: 1 1 Outputs:  0.191708 Targets: 0 Net recent average error: 0.110243
+
+Pass 1165: Inputs: 1 0 Outputs:  0.857564 Targets: 1 Net recent average error: 0.110562
+
+Pass 1166: Inputs: 0 1 Outputs:  0.869823 Targets: 1 Net recent average error: 0.110756
+
+Pass 1167: Inputs: 1 1 Outputs:  0.0161146 Targets: 0 Net recent average error: 0.109819
+
+Pass 1168: Inputs: 1 1 Outputs:  -0.00481162 Targets: 0 Net recent average error: 0.108779
+
+Pass 1169: Inputs: 1 1 Outputs:  0.00140334 Targets: 0 Net recent average error: 0.107716
+
+Pass 1170: Inputs: 0 1 Outputs:  0.875832 Targets: 1 Net recent average error: 0.107879
+
+Pass 1171: Inputs: 1 1 Outputs:  0.0301075 Targets: 0 Net recent average error: 0.107109
+
+Pass 1172: Inputs: 1 1 Outputs:  -0.0091807 Targets: 0 Net recent average error: 0.106139
+
+Pass 1173: Inputs: 1 1 Outputs:  0.00268493 Targets: 0 Net recent average error: 0.105115
+
+Pass 1174: Inputs: 0 1 Outputs:  0.878164 Targets: 1 Net recent average error: 0.105281
+
+Pass 1175: Inputs: 1 1 Outputs:  0.0286247 Targets: 0 Net recent average error: 0.104522
+
+Pass 1176: Inputs: 0 1 Outputs:  0.878977 Targets: 1 Net recent average error: 0.104685
+
+Pass 1177: Inputs: 1 1 Outputs:  0.020245 Targets: 0 Net recent average error: 0.103849
+
+Pass 1178: Inputs: 1 1 Outputs:  -0.00621666 Targets: 0 Net recent average error: 0.102882
+
+Pass 1179: Inputs: 0 1 Outputs:  0.88313 Targets: 1 Net recent average error: 0.103021
+
+Pass 1180: Inputs: 0 1 Outputs:  0.889791 Targets: 1 Net recent average error: 0.103092
+
+Pass 1181: Inputs: 0 0 Outputs:  0.0620758 Targets: 0 Net recent average error: 0.102686
+
+Pass 1182: Inputs: 1 1 Outputs:  0.0387094 Targets: 0 Net recent average error: 0.102052
+
+Pass 1183: Inputs: 1 1 Outputs:  -0.0120788 Targets: 0 Net recent average error: 0.101162
+
+Pass 1184: Inputs: 1 1 Outputs:  0.00357873 Targets: 0 Net recent average error: 0.100195
+
+Pass 1185: Inputs: 1 1 Outputs:  -0.00108075 Targets: 0 Net recent average error: 0.0992141
+
+Pass 1186: Inputs: 1 0 Outputs:  0.86944 Targets: 1 Net recent average error: 0.0995244
+
+Pass 1187: Inputs: 1 1 Outputs:  0.0341698 Targets: 0 Net recent average error: 0.0988774
+
+Pass 1188: Inputs: 1 0 Outputs:  0.870081 Targets: 1 Net recent average error: 0.0991847
+
+Pass 1189: Inputs: 0 1 Outputs:  0.88739 Targets: 1 Net recent average error: 0.0993176
+
+Pass 1190: Inputs: 1 0 Outputs:  0.883752 Targets: 1 Net recent average error: 0.0994853
+
+Pass 1191: Inputs: 0 1 Outputs:  0.897685 Targets: 1 Net recent average error: 0.0995133
+
+Pass 1192: Inputs: 0 1 Outputs:  0.902188 Targets: 1 Net recent average error: 0.0994964
+
+Pass 1193: Inputs: 0 0 Outputs:  0.0700649 Targets: 0 Net recent average error: 0.099205
+
+Pass 1194: Inputs: 0 0 Outputs:  0.0227629 Targets: 0 Net recent average error: 0.0984482
+
+Pass 1195: Inputs: 0 0 Outputs:  0.00737789 Targets: 0 Net recent average error: 0.0975465
+
+Pass 1196: Inputs: 0 1 Outputs:  0.898093 Targets: 1 Net recent average error: 0.0975897
+
+Pass 1197: Inputs: 1 0 Outputs:  0.891652 Targets: 1 Net recent average error: 0.0976962
+
+Pass 1198: Inputs: 0 0 Outputs:  0.0203567 Targets: 0 Net recent average error: 0.0969304
+
+Pass 1199: Inputs: 1 0 Outputs:  0.895231 Targets: 1 Net recent average error: 0.0970081
+
+Pass 1200: Inputs: 0 1 Outputs:  0.907473 Targets: 1 Net recent average error: 0.0969637
+
+Pass 1201: Inputs: 1 1 Outputs:  0.170338 Targets: 0 Net recent average error: 0.0976902
+
+Pass 1202: Inputs: 1 1 Outputs:  -0.0548246 Targets: 0 Net recent average error: 0.0972658
+
+Pass 1203: Inputs: 0 0 Outputs:  -0.00494521 Targets: 0 Net recent average error: 0.0963517
+
+Pass 1204: Inputs: 0 1 Outputs:  0.887822 Targets: 1 Net recent average error: 0.0965084
+
+Pass 1205: Inputs: 1 1 Outputs:  0.0417284 Targets: 0 Net recent average error: 0.095966
+
+Pass 1206: Inputs: 1 0 Outputs:  0.871784 Targets: 1 Net recent average error: 0.0962853
+
+Pass 1207: Inputs: 1 0 Outputs:  0.880573 Targets: 1 Net recent average error: 0.0965144
+
+Pass 1208: Inputs: 0 0 Outputs:  0.0235372 Targets: 0 Net recent average error: 0.0957919
+
+Pass 1209: Inputs: 1 1 Outputs:  0.042489 Targets: 0 Net recent average error: 0.0952641
+
+Pass 1210: Inputs: 0 0 Outputs:  -0.00219799 Targets: 0 Net recent average error: 0.0943427
+
+Pass 1211: Inputs: 0 0 Outputs:  -0.000717038 Targets: 0 Net recent average error: 0.0934157
+
+Pass 1212: Inputs: 0 1 Outputs:  0.883533 Targets: 1 Net recent average error: 0.0936439
+
+Pass 1213: Inputs: 1 1 Outputs:  0.0139047 Targets: 0 Net recent average error: 0.0928544
+
+Pass 1214: Inputs: 0 0 Outputs:  0.00758206 Targets: 0 Net recent average error: 0.0920102
+
+Pass 1215: Inputs: 1 1 Outputs:  -0.00618457 Targets: 0 Net recent average error: 0.0911604
+
+Pass 1216: Inputs: 0 1 Outputs:  0.887766 Targets: 1 Net recent average error: 0.0913691
+
+Pass 1217: Inputs: 0 1 Outputs:  0.893715 Targets: 1 Net recent average error: 0.0915167
+
+Pass 1218: Inputs: 1 0 Outputs:  0.88675 Targets: 1 Net recent average error: 0.0917319
+
+Pass 1219: Inputs: 0 0 Outputs:  0.0336567 Targets: 0 Net recent average error: 0.0911569
+
+Pass 1220: Inputs: 0 0 Outputs:  0.0108532 Targets: 0 Net recent average error: 0.0903618
+
+Pass 1221: Inputs: 0 1 Outputs:  0.899083 Targets: 1 Net recent average error: 0.0904663
+
+Pass 1222: Inputs: 0 1 Outputs:  0.903404 Targets: 1 Net recent average error: 0.090527
+
+Pass 1223: Inputs: 1 1 Outputs:  0.104649 Targets: 0 Net recent average error: 0.0906668
+
+Pass 1224: Inputs: 1 1 Outputs:  -0.035514 Targets: 0 Net recent average error: 0.0901208
+
+Pass 1225: Inputs: 1 0 Outputs:  0.879505 Targets: 1 Net recent average error: 0.0904215
+
+Pass 1226: Inputs: 0 1 Outputs:  0.897815 Targets: 1 Net recent average error: 0.090538
+
+Pass 1227: Inputs: 1 0 Outputs:  0.890469 Targets: 1 Net recent average error: 0.090726
+
+Pass 1228: Inputs: 0 1 Outputs:  0.905885 Targets: 1 Net recent average error: 0.0907596
+
+Pass 1229: Inputs: 0 0 Outputs:  0.0402884 Targets: 0 Net recent average error: 0.0902599
+
+Pass 1230: Inputs: 1 1 Outputs:  0.0940382 Targets: 0 Net recent average error: 0.0902973
+
+Pass 1231: Inputs: 1 1 Outputs:  -0.0321898 Targets: 0 Net recent average error: 0.089722
+
+Pass 1232: Inputs: 1 1 Outputs:  0.00994594 Targets: 0 Net recent average error: 0.0889321
+
+Pass 1233: Inputs: 1 1 Outputs:  -0.00323916 Targets: 0 Net recent average error: 0.0880837
+
+Pass 1234: Inputs: 0 1 Outputs:  0.892326 Targets: 1 Net recent average error: 0.0882776
+
+Pass 1235: Inputs: 0 1 Outputs:  0.897611 Targets: 1 Net recent average error: 0.0884173
+
+Pass 1236: Inputs: 1 0 Outputs:  0.887672 Targets: 1 Net recent average error: 0.0886541
+
+Pass 1237: Inputs: 0 1 Outputs:  0.905906 Targets: 1 Net recent average error: 0.0887079
+
+Pass 1238: Inputs: 0 0 Outputs:  0.0323348 Targets: 0 Net recent average error: 0.0881498
+
+Pass 1239: Inputs: 1 0 Outputs:  0.893846 Targets: 1 Net recent average error: 0.088328
+
+Pass 1240: Inputs: 0 0 Outputs:  0.019458 Targets: 0 Net recent average error: 0.0876462
+
+Pass 1241: Inputs: 1 0 Outputs:  0.897332 Targets: 1 Net recent average error: 0.0877949
+
+Pass 1242: Inputs: 1 1 Outputs:  0.12137 Targets: 0 Net recent average error: 0.0881273
+
+Pass 1243: Inputs: 0 0 Outputs:  -0.0132095 Targets: 0 Net recent average error: 0.0873856
+
+Pass 1244: Inputs: 0 0 Outputs:  -0.0042962 Targets: 0 Net recent average error: 0.0865629
+
+Pass 1245: Inputs: 1 0 Outputs:  0.876157 Targets: 1 Net recent average error: 0.086932
+
+Pass 1246: Inputs: 1 0 Outputs:  0.884239 Targets: 1 Net recent average error: 0.0872174
+
+Pass 1247: Inputs: 1 1 Outputs:  0.0196849 Targets: 0 Net recent average error: 0.0865488
+
+Pass 1248: Inputs: 0 0 Outputs:  0.0171478 Targets: 0 Net recent average error: 0.0858617
+
+Pass 1249: Inputs: 0 1 Outputs:  0.89245 Targets: 1 Net recent average error: 0.0860764
+
+Pass 1250: Inputs: 1 1 Outputs:  0.0128145 Targets: 0 Net recent average error: 0.085351
+
+Pass 1251: Inputs: 1 1 Outputs:  -0.00434101 Targets: 0 Net recent average error: 0.0845489
+
+Pass 1252: Inputs: 0 1 Outputs:  0.896007 Targets: 1 Net recent average error: 0.0847415
+
+Pass 1253: Inputs: 1 1 Outputs:  0.0233646 Targets: 0 Net recent average error: 0.0841338
+
+Pass 1254: Inputs: 1 1 Outputs:  -0.00803154 Targets: 0 Net recent average error: 0.0833803
+
+Pass 1255: Inputs: 0 0 Outputs:  0.0183397 Targets: 0 Net recent average error: 0.0827363
+
+Pass 1256: Inputs: 1 1 Outputs:  -0.00147495 Targets: 0 Net recent average error: 0.0819317
+
+Pass 1257: Inputs: 1 1 Outputs:  0.000493091 Targets: 0 Net recent average error: 0.0811254
+
+Pass 1258: Inputs: 1 0 Outputs:  0.885789 Targets: 1 Net recent average error: 0.081453
+
+Pass 1259: Inputs: 0 0 Outputs:  0.0166004 Targets: 0 Net recent average error: 0.0808109
+
+Pass 1260: Inputs: 1 0 Outputs:  0.890714 Targets: 1 Net recent average error: 0.0810928
+
+Pass 1261: Inputs: 0 1 Outputs:  0.902789 Targets: 1 Net recent average error: 0.0812524
+
+Pass 1262: Inputs: 0 0 Outputs:  0.0226824 Targets: 0 Net recent average error: 0.0806725
+
+Pass 1263: Inputs: 1 1 Outputs:  0.0609809 Targets: 0 Net recent average error: 0.0804776
+
+Pass 1264: Inputs: 1 0 Outputs:  0.883832 Targets: 1 Net recent average error: 0.0808309
+
+Pass 1265: Inputs: 1 0 Outputs:  0.89054 Targets: 1 Net recent average error: 0.0811144
+
+Pass 1266: Inputs: 0 0 Outputs:  0.0138223 Targets: 0 Net recent average error: 0.0804481
+
+Pass 1267: Inputs: 0 1 Outputs:  0.899469 Targets: 1 Net recent average error: 0.080647
+
+Pass 1268: Inputs: 1 1 Outputs:  0.0475949 Targets: 0 Net recent average error: 0.0803197
+
+Pass 1269: Inputs: 1 0 Outputs:  0.887851 Targets: 1 Net recent average error: 0.0806349
+
+Pass 1270: Inputs: 0 1 Outputs:  0.898085 Targets: 1 Net recent average error: 0.0808456
+
+Pass 1271: Inputs: 0 0 Outputs:  0.0204519 Targets: 0 Net recent average error: 0.0802476
+
+Pass 1272: Inputs: 0 0 Outputs:  0.00654347 Targets: 0 Net recent average error: 0.0795179
+
+Pass 1273: Inputs: 1 0 Outputs:  0.895042 Targets: 1 Net recent average error: 0.0797697
+
+Pass 1274: Inputs: 1 0 Outputs:  0.900011 Targets: 1 Net recent average error: 0.0799699
+
+Pass 1275: Inputs: 1 1 Outputs:  0.0666697 Targets: 0 Net recent average error: 0.0798382
+
+Pass 1276: Inputs: 0 1 Outputs:  0.893089 Targets: 1 Net recent average error: 0.0801063
+
+Pass 1277: Inputs: 0 0 Outputs:  0.0131929 Targets: 0 Net recent average error: 0.0794438
+
+Pass 1278: Inputs: 0 0 Outputs:  0.00422689 Targets: 0 Net recent average error: 0.0786991
+
+Pass 1279: Inputs: 0 0 Outputs:  0.00135658 Targets: 0 Net recent average error: 0.0779333
+
+Pass 1280: Inputs: 0 0 Outputs:  0.000435665 Targets: 0 Net recent average error: 0.077166
+
+Pass 1281: Inputs: 1 1 Outputs:  -0.00535886 Targets: 0 Net recent average error: 0.076455
+
+Pass 1282: Inputs: 0 1 Outputs:  0.897909 Targets: 1 Net recent average error: 0.0767088
+
+Pass 1283: Inputs: 1 1 Outputs:  0.0231787 Targets: 0 Net recent average error: 0.0761788
+
+Pass 1284: Inputs: 0 1 Outputs:  0.897777 Targets: 1 Net recent average error: 0.0764367
+
+Pass 1285: Inputs: 1 0 Outputs:  0.895535 Targets: 1 Net recent average error: 0.0767142
+
+Pass 1286: Inputs: 0 1 Outputs:  0.905703 Targets: 1 Net recent average error: 0.0768883
+
+Pass 1287: Inputs: 1 0 Outputs:  0.903221 Targets: 1 Net recent average error: 0.0770852
+
+Pass 1288: Inputs: 0 1 Outputs:  0.911986 Targets: 1 Net recent average error: 0.0771934
+
+Pass 1289: Inputs: 1 0 Outputs:  0.909399 Targets: 1 Net recent average error: 0.0773262
+
+Pass 1290: Inputs: 0 0 Outputs:  0.049827 Targets: 0 Net recent average error: 0.0770539
+
+Pass 1291: Inputs: 1 0 Outputs:  0.909021 Targets: 1 Net recent average error: 0.0771918
+
+Pass 1292: Inputs: 1 1 Outputs:  0.111841 Targets: 0 Net recent average error: 0.0775349
+
+Pass 1293: Inputs: 1 0 Outputs:  0.889433 Targets: 1 Net recent average error: 0.0778619
+
+Pass 1294: Inputs: 1 0 Outputs:  0.895304 Targets: 1 Net recent average error: 0.0781276
+
+Pass 1295: Inputs: 0 1 Outputs:  0.901401 Targets: 1 Net recent average error: 0.0783303
+
+Pass 1296: Inputs: 1 1 Outputs:  0.0252505 Targets: 0 Net recent average error: 0.0778047
+
+Pass 1297: Inputs: 1 1 Outputs:  -0.00933454 Targets: 0 Net recent average error: 0.0771268
+
+Pass 1298: Inputs: 1 1 Outputs:  0.00333692 Targets: 0 Net recent average error: 0.0763962
+
+Pass 1299: Inputs: 1 0 Outputs:  0.899384 Targets: 1 Net recent average error: 0.076636
+
+Pass 1300: Inputs: 0 1 Outputs:  0.904855 Targets: 1 Net recent average error: 0.0768193
+
+Pass 1301: Inputs: 0 1 Outputs:  0.908647 Targets: 1 Net recent average error: 0.0769632
+
+Pass 1302: Inputs: 1 0 Outputs:  0.908989 Targets: 1 Net recent average error: 0.0771023
+
+Pass 1303: Inputs: 1 0 Outputs:  0.912289 Targets: 1 Net recent average error: 0.0772073
+
+Pass 1304: Inputs: 1 1 Outputs:  0.0889239 Targets: 0 Net recent average error: 0.0773233
+
+Pass 1305: Inputs: 0 1 Outputs:  0.899203 Targets: 1 Net recent average error: 0.0775557
+
+Pass 1306: Inputs: 0 0 Outputs:  0.0428221 Targets: 0 Net recent average error: 0.0772118
+
+Pass 1307: Inputs: 0 1 Outputs:  0.900318 Targets: 1 Net recent average error: 0.0774343
+
+Pass 1308: Inputs: 0 1 Outputs:  0.90469 Targets: 1 Net recent average error: 0.0776113
+
+Pass 1309: Inputs: 0 0 Outputs:  0.0291587 Targets: 0 Net recent average error: 0.0771316
+
+Pass 1310: Inputs: 1 1 Outputs:  0.00982601 Targets: 0 Net recent average error: 0.0764652
+
+Pass 1311: Inputs: 0 0 Outputs:  0.00706508 Targets: 0 Net recent average error: 0.075778
+
+Pass 1312: Inputs: 1 1 Outputs:  -0.00521203 Targets: 0 Net recent average error: 0.0750794
+
+Pass 1313: Inputs: 0 1 Outputs:  0.904849 Targets: 1 Net recent average error: 0.0752781
+
+Pass 1314: Inputs: 0 0 Outputs:  0.0108098 Targets: 0 Net recent average error: 0.0746398
+
+Pass 1315: Inputs: 0 1 Outputs:  0.907823 Targets: 1 Net recent average error: 0.0748134
+
+Pass 1316: Inputs: 0 0 Outputs:  0.0103945 Targets: 0 Net recent average error: 0.0741756
+
+Pass 1317: Inputs: 1 0 Outputs:  0.903681 Targets: 1 Net recent average error: 0.0743949
+
+Pass 1318: Inputs: 0 1 Outputs:  0.913091 Targets: 1 Net recent average error: 0.0745188
+
+Pass 1319: Inputs: 0 0 Outputs:  0.0170087 Targets: 0 Net recent average error: 0.0739494
+
+Pass 1320: Inputs: 0 1 Outputs:  0.914787 Targets: 1 Net recent average error: 0.0740609
+
+Pass 1321: Inputs: 0 0 Outputs:  0.0113453 Targets: 0 Net recent average error: 0.0734399
+
+Pass 1322: Inputs: 0 0 Outputs:  0.00358694 Targets: 0 Net recent average error: 0.0727483
+
+Pass 1323: Inputs: 0 0 Outputs:  0.00113593 Targets: 0 Net recent average error: 0.0720393
+
+Pass 1324: Inputs: 0 1 Outputs:  0.916396 Targets: 1 Net recent average error: 0.0721538
+
+Pass 1325: Inputs: 1 0 Outputs:  0.911414 Targets: 1 Net recent average error: 0.0723165
+
+Pass 1326: Inputs: 0 0 Outputs:  0.0124818 Targets: 0 Net recent average error: 0.0717241
+
+Pass 1327: Inputs: 1 0 Outputs:  0.913584 Targets: 1 Net recent average error: 0.0718695
+
+Pass 1328: Inputs: 0 0 Outputs:  0.0100083 Targets: 0 Net recent average error: 0.0712571
+
+Pass 1329: Inputs: 0 1 Outputs:  0.921333 Targets: 1 Net recent average error: 0.0713304
+
+Pass 1330: Inputs: 1 1 Outputs:  0.130194 Targets: 0 Net recent average error: 0.0719132
+
+Pass 1331: Inputs: 0 1 Outputs:  0.899597 Targets: 1 Net recent average error: 0.0721953
+
+Pass 1332: Inputs: 0 0 Outputs:  -0.0127724 Targets: 0 Net recent average error: 0.071607
+
+Pass 1333: Inputs: 0 0 Outputs:  -0.00407982 Targets: 0 Net recent average error: 0.0709384
+
+Pass 1334: Inputs: 0 0 Outputs:  -0.00129974 Targets: 0 Net recent average error: 0.0702489
+
+Pass 1335: Inputs: 0 0 Outputs:  -0.000413754 Targets: 0 Net recent average error: 0.0695574
+
+Pass 1336: Inputs: 0 0 Outputs:  -0.000131683 Targets: 0 Net recent average error: 0.0688701
+
+Pass 1337: Inputs: 0 1 Outputs:  0.905514 Targets: 1 Net recent average error: 0.0691237
+
+Pass 1338: Inputs: 1 1 Outputs:  -0.00784744 Targets: 0 Net recent average error: 0.068517
+
+Pass 1339: Inputs: 1 1 Outputs:  0.00291475 Targets: 0 Net recent average error: 0.0678675
+
+Pass 1340: Inputs: 1 1 Outputs:  -0.00109492 Targets: 0 Net recent average error: 0.0672063
+
+Pass 1341: Inputs: 0 1 Outputs:  0.910364 Targets: 1 Net recent average error: 0.0674284
+
+Pass 1342: Inputs: 1 1 Outputs:  0.0170567 Targets: 0 Net recent average error: 0.0669297
+
+Pass 1343: Inputs: 1 1 Outputs:  -0.00651403 Targets: 0 Net recent average error: 0.0663315
+
+Pass 1344: Inputs: 1 0 Outputs:  0.901008 Targets: 1 Net recent average error: 0.0666549
+
+Pass 1345: Inputs: 0 1 Outputs:  0.914349 Targets: 1 Net recent average error: 0.066843
+
+Pass 1346: Inputs: 0 0 Outputs:  0.0267719 Targets: 0 Net recent average error: 0.0664462
+
+Pass 1347: Inputs: 0 0 Outputs:  0.0084415 Targets: 0 Net recent average error: 0.0658719
+
+Pass 1348: Inputs: 0 0 Outputs:  0.00266902 Targets: 0 Net recent average error: 0.0652461
+
+Pass 1349: Inputs: 0 0 Outputs:  0.000844986 Targets: 0 Net recent average error: 0.0646085
+
+Pass 1350: Inputs: 0 0 Outputs:  0.000267636 Targets: 0 Net recent average error: 0.0639715
+
+Pass 1351: Inputs: 1 0 Outputs:  0.904543 Targets: 1 Net recent average error: 0.0642832
+
+Pass 1352: Inputs: 1 1 Outputs:  0.0485553 Targets: 0 Net recent average error: 0.0641275
+
+Pass 1353: Inputs: 0 0 Outputs:  -0.00333799 Targets: 0 Net recent average error: 0.0635256
+
+Pass 1354: Inputs: 1 1 Outputs:  -0.0183171 Targets: 0 Net recent average error: 0.063078
+
+Pass 1355: Inputs: 0 0 Outputs:  0.00294299 Targets: 0 Net recent average error: 0.0624826
+
+Pass 1356: Inputs: 0 0 Outputs:  0.00093254 Targets: 0 Net recent average error: 0.0618732
+
+Pass 1357: Inputs: 1 0 Outputs:  0.902309 Targets: 1 Net recent average error: 0.0622278
+
+Pass 1358: Inputs: 1 0 Outputs:  0.906444 Targets: 1 Net recent average error: 0.062538
+
+Pass 1359: Inputs: 1 0 Outputs:  0.910075 Targets: 1 Net recent average error: 0.0628092
+
+Pass 1360: Inputs: 0 1 Outputs:  0.918539 Targets: 1 Net recent average error: 0.0629938
+
+Pass 1361: Inputs: 1 1 Outputs:  0.0749645 Targets: 0 Net recent average error: 0.0631124
+
+Pass 1362: Inputs: 1 0 Outputs:  0.900591 Targets: 1 Net recent average error: 0.0634717
+
+Pass 1363: Inputs: 1 0 Outputs:  0.904974 Targets: 1 Net recent average error: 0.0637841
+
+Pass 1364: Inputs: 1 0 Outputs:  0.908803 Targets: 1 Net recent average error: 0.0640556
+
+Pass 1365: Inputs: 1 1 Outputs:  0.0267128 Targets: 0 Net recent average error: 0.0636858
+
+Pass 1366: Inputs: 1 1 Outputs:  -0.0105797 Targets: 0 Net recent average error: 0.06316
+
+Pass 1367: Inputs: 0 0 Outputs:  0.0288058 Targets: 0 Net recent average error: 0.0628199
+
+Pass 1368: Inputs: 0 0 Outputs:  0.00907293 Targets: 0 Net recent average error: 0.0622877
+
+Pass 1369: Inputs: 0 0 Outputs:  0.00286567 Targets: 0 Net recent average error: 0.0616994
+
+Pass 1370: Inputs: 0 1 Outputs:  0.909253 Targets: 1 Net recent average error: 0.061987
+
+Pass 1371: Inputs: 0 1 Outputs:  0.912588 Targets: 1 Net recent average error: 0.0622387
+
+Pass 1372: Inputs: 1 1 Outputs:  0.0282966 Targets: 0 Net recent average error: 0.0619027
+
+Pass 1373: Inputs: 0 0 Outputs:  0.00767138 Targets: 0 Net recent average error: 0.0613657
+
+Pass 1374: Inputs: 1 0 Outputs:  0.904703 Targets: 1 Net recent average error: 0.0617017
+
+Pass 1375: Inputs: 1 0 Outputs:  0.908562 Targets: 1 Net recent average error: 0.0619961
+
+Pass 1376: Inputs: 0 1 Outputs:  0.914747 Targets: 1 Net recent average error: 0.0622264
+
+Pass 1377: Inputs: 0 1 Outputs:  0.917521 Targets: 1 Net recent average error: 0.0624269
+
+Pass 1378: Inputs: 0 1 Outputs:  0.92003 Targets: 1 Net recent average error: 0.0626006
+
+Pass 1379: Inputs: 0 0 Outputs:  0.0333662 Targets: 0 Net recent average error: 0.0623111
+
+Pass 1380: Inputs: 1 1 Outputs:  0.0592695 Targets: 0 Net recent average error: 0.062281
+
+Pass 1381: Inputs: 0 1 Outputs:  0.90952 Targets: 1 Net recent average error: 0.0625602
+
+Pass 1382: Inputs: 0 0 Outputs:  0.00403347 Targets: 0 Net recent average error: 0.0619807
+
+Pass 1383: Inputs: 1 1 Outputs:  -0.0079377 Targets: 0 Net recent average error: 0.0614457
+
+Pass 1384: Inputs: 0 0 Outputs:  0.0030005 Targets: 0 Net recent average error: 0.060867
+
+Pass 1385: Inputs: 0 1 Outputs:  0.913773 Targets: 1 Net recent average error: 0.0611181
+
+Pass 1386: Inputs: 0 1 Outputs:  0.916638 Targets: 1 Net recent average error: 0.0613383
+
+Pass 1387: Inputs: 0 0 Outputs:  0.0127566 Targets: 0 Net recent average error: 0.0608573
+
+Pass 1388: Inputs: 0 1 Outputs:  0.918372 Targets: 1 Net recent average error: 0.061063
+
+Pass 1389: Inputs: 1 1 Outputs:  0.0437436 Targets: 0 Net recent average error: 0.0608915
+
+Pass 1390: Inputs: 1 0 Outputs:  0.904212 Targets: 1 Net recent average error: 0.061237
+
+Pass 1391: Inputs: 1 1 Outputs:  0.00144332 Targets: 0 Net recent average error: 0.060645
+
+Pass 1392: Inputs: 1 0 Outputs:  0.907884 Targets: 1 Net recent average error: 0.0609566
+
+Pass 1393: Inputs: 1 1 Outputs:  0.0172881 Targets: 0 Net recent average error: 0.0605242
+
+Pass 1394: Inputs: 1 0 Outputs:  0.908108 Targets: 1 Net recent average error: 0.0608348
+
+Pass 1395: Inputs: 1 1 Outputs:  0.0108036 Targets: 0 Net recent average error: 0.0603394
+
+Pass 1396: Inputs: 0 1 Outputs:  0.915052 Targets: 1 Net recent average error: 0.0605831
+
+Pass 1397: Inputs: 1 1 Outputs:  0.0108335 Targets: 0 Net recent average error: 0.0600905
+
+Pass 1398: Inputs: 0 0 Outputs:  0.0180675 Targets: 0 Net recent average error: 0.0596744
+
+Pass 1399: Inputs: 0 1 Outputs:  0.914658 Targets: 1 Net recent average error: 0.0599286
+
+Pass 1400: Inputs: 1 0 Outputs:  0.910402 Targets: 1 Net recent average error: 0.0602223
+
+Pass 1401: Inputs: 0 1 Outputs:  0.919565 Targets: 1 Net recent average error: 0.0604225
+
+Pass 1402: Inputs: 0 0 Outputs:  0.0234798 Targets: 0 Net recent average error: 0.0600567
+
+Pass 1403: Inputs: 1 1 Outputs:  0.0324511 Targets: 0 Net recent average error: 0.0597834
+
+Pass 1404: Inputs: 1 0 Outputs:  0.907669 Targets: 1 Net recent average error: 0.0601056
+
+Pass 1405: Inputs: 1 1 Outputs:  0.0046062 Targets: 0 Net recent average error: 0.0595561
+
+Pass 1406: Inputs: 0 0 Outputs:  0.0061348 Targets: 0 Net recent average error: 0.0590272
+
+Pass 1407: Inputs: 0 1 Outputs:  0.91582 Targets: 1 Net recent average error: 0.0592762
+
+Pass 1408: Inputs: 1 1 Outputs:  0.0117173 Targets: 0 Net recent average error: 0.0588054
+
+Pass 1409: Inputs: 0 1 Outputs:  0.916467 Targets: 1 Net recent average error: 0.0590502
+
+Pass 1410: Inputs: 1 0 Outputs:  0.91175 Targets: 1 Net recent average error: 0.0593393
+
+Pass 1411: Inputs: 0 1 Outputs:  0.921105 Targets: 1 Net recent average error: 0.0595329
+
+Pass 1412: Inputs: 1 0 Outputs:  0.916552 Targets: 1 Net recent average error: 0.0597697
+
+Pass 1413: Inputs: 0 1 Outputs:  0.925023 Targets: 1 Net recent average error: 0.0599203
+
+Pass 1414: Inputs: 0 1 Outputs:  0.926919 Targets: 1 Net recent average error: 0.0600506
+
+Pass 1415: Inputs: 0 1 Outputs:  0.928672 Targets: 1 Net recent average error: 0.0601622
+
+Pass 1416: Inputs: 1 1 Outputs:  0.0884154 Targets: 0 Net recent average error: 0.060442
+
+Pass 1417: Inputs: 0 1 Outputs:  0.915827 Targets: 1 Net recent average error: 0.0606769
+
+Pass 1418: Inputs: 1 1 Outputs:  -0.0231108 Targets: 0 Net recent average error: 0.060305
+
+Pass 1419: Inputs: 1 0 Outputs:  0.913669 Targets: 1 Net recent average error: 0.0605627
+
+Pass 1420: Inputs: 0 1 Outputs:  0.924254 Targets: 1 Net recent average error: 0.060713
+
+Pass 1421: Inputs: 1 1 Outputs:  0.0372831 Targets: 0 Net recent average error: 0.060481
+
+Pass 1422: Inputs: 0 1 Outputs:  0.920127 Targets: 1 Net recent average error: 0.060673
+
+Pass 1423: Inputs: 1 0 Outputs:  0.913167 Targets: 1 Net recent average error: 0.060932
+
+Pass 1424: Inputs: 1 1 Outputs:  0.0137895 Targets: 0 Net recent average error: 0.0604653
+
+Pass 1425: Inputs: 0 1 Outputs:  0.922081 Targets: 1 Net recent average error: 0.0606381
+
+Pass 1426: Inputs: 1 1 Outputs:  0.0071023 Targets: 0 Net recent average error: 0.060108
+
+Pass 1427: Inputs: 1 1 Outputs:  -0.00296286 Targets: 0 Net recent average error: 0.0595422
+
+Pass 1428: Inputs: 1 1 Outputs:  0.00122425 Targets: 0 Net recent average error: 0.0589648
+
+Pass 1429: Inputs: 0 1 Outputs:  0.923367 Targets: 1 Net recent average error: 0.0591398
+
+Pass 1430: Inputs: 0 1 Outputs:  0.925416 Targets: 1 Net recent average error: 0.0592927
+
+Pass 1431: Inputs: 0 1 Outputs:  0.927303 Targets: 1 Net recent average error: 0.0594254
+
+Pass 1432: Inputs: 1 0 Outputs:  0.918935 Targets: 1 Net recent average error: 0.0596397
+
+Pass 1433: Inputs: 1 1 Outputs:  0.0491856 Targets: 0 Net recent average error: 0.0595362
+
+Pass 1434: Inputs: 0 0 Outputs:  0.0555796 Targets: 0 Net recent average error: 0.059497
+
+Pass 1435: Inputs: 1 0 Outputs:  0.908541 Targets: 1 Net recent average error: 0.0598134
+
+Pass 1436: Inputs: 1 0 Outputs:  0.912053 Targets: 1 Net recent average error: 0.060092
+
+Pass 1437: Inputs: 0 1 Outputs:  0.923372 Targets: 1 Net recent average error: 0.0602557
+
+Pass 1438: Inputs: 0 0 Outputs:  0.035229 Targets: 0 Net recent average error: 0.0600079
+
+Pass 1439: Inputs: 0 0 Outputs:  0.0109623 Targets: 0 Net recent average error: 0.0595223
+
+Pass 1440: Inputs: 0 0 Outputs:  0.00342163 Targets: 0 Net recent average error: 0.0589669
+
+Pass 1441: Inputs: 1 1 Outputs:  0.00270622 Targets: 0 Net recent average error: 0.0584098
+
+Pass 1442: Inputs: 0 0 Outputs:  0.000487233 Targets: 0 Net recent average error: 0.0578363
+
+Pass 1443: Inputs: 1 1 Outputs:  -0.00123153 Targets: 0 Net recent average error: 0.0572759
+
+Pass 1444: Inputs: 0 0 Outputs:  0.000417285 Targets: 0 Net recent average error: 0.0567129
+
+Pass 1445: Inputs: 0 0 Outputs:  0.000130586 Targets: 0 Net recent average error: 0.0561527
+
+Pass 1446: Inputs: 0 0 Outputs:  4.08692e-05 Targets: 0 Net recent average error: 0.0555972
+
+Pass 1447: Inputs: 0 0 Outputs:  1.2791e-05 Targets: 0 Net recent average error: 0.0550468
+
+Pass 1448: Inputs: 1 1 Outputs:  0.000381395 Targets: 0 Net recent average error: 0.0545056
+
+Pass 1449: Inputs: 0 1 Outputs:  0.921931 Targets: 1 Net recent average error: 0.0547389
+
+Pass 1450: Inputs: 0 1 Outputs:  0.924084 Targets: 1 Net recent average error: 0.0549485
+
+Pass 1451: Inputs: 0 1 Outputs:  0.926061 Targets: 1 Net recent average error: 0.0551366
+
+Pass 1452: Inputs: 1 1 Outputs:  0.0365254 Targets: 0 Net recent average error: 0.0549523
+
+Pass 1453: Inputs: 1 1 Outputs:  -0.015709 Targets: 0 Net recent average error: 0.0545637
+
+Pass 1454: Inputs: 1 0 Outputs:  0.913923 Targets: 1 Net recent average error: 0.0548758
+
+Pass 1455: Inputs: 0 1 Outputs:  0.926396 Targets: 1 Net recent average error: 0.0550612
+
+Pass 1456: Inputs: 0 1 Outputs:  0.928201 Targets: 1 Net recent average error: 0.0552269
+
+Pass 1457: Inputs: 0 0 Outputs:  0.0243537 Targets: 0 Net recent average error: 0.0549212
+
+Pass 1458: Inputs: 0 1 Outputs:  0.928448 Targets: 1 Net recent average error: 0.0550859
+
+Pass 1459: Inputs: 0 1 Outputs:  0.930098 Targets: 1 Net recent average error: 0.0552326
+
+Pass 1460: Inputs: 1 0 Outputs:  0.92068 Targets: 1 Net recent average error: 0.0554711
+
+Pass 1461: Inputs: 1 0 Outputs:  0.922963 Targets: 1 Net recent average error: 0.0556846
+
+Pass 1462: Inputs: 1 0 Outputs:  0.925052 Targets: 1 Net recent average error: 0.0558753
+
+Pass 1463: Inputs: 0 1 Outputs:  0.93549 Targets: 1 Net recent average error: 0.0559608
+
+Pass 1464: Inputs: 0 1 Outputs:  0.936695 Targets: 1 Net recent average error: 0.0560335
+
+Pass 1465: Inputs: 0 1 Outputs:  0.937833 Targets: 1 Net recent average error: 0.0560943
+
+Pass 1466: Inputs: 1 0 Outputs:  0.929776 Targets: 1 Net recent average error: 0.0562342
+
+Pass 1467: Inputs: 0 0 Outputs:  0.0443466 Targets: 0 Net recent average error: 0.0561165
+
+Pass 1468: Inputs: 0 0 Outputs:  0.0136555 Targets: 0 Net recent average error: 0.0556961
+
+Pass 1469: Inputs: 0 1 Outputs:  0.936918 Targets: 1 Net recent average error: 0.0557692
+
+Pass 1470: Inputs: 1 0 Outputs:  0.92894 Targets: 1 Net recent average error: 0.0559206
+
+Pass 1471: Inputs: 1 0 Outputs:  0.930566 Targets: 1 Net recent average error: 0.0560544
+
+Pass 1472: Inputs: 1 0 Outputs:  0.93208 Targets: 1 Net recent average error: 0.0561719
+
+Pass 1473: Inputs: 1 1 Outputs:  0.162061 Targets: 0 Net recent average error: 0.0572203
+
+Pass 1474: Inputs: 0 0 Outputs:  -0.0159716 Targets: 0 Net recent average error: 0.0568119
+
+Pass 1475: Inputs: 0 1 Outputs:  0.917519 Targets: 1 Net recent average error: 0.057066
+
+Pass 1476: Inputs: 1 1 Outputs:  -0.0536627 Targets: 0 Net recent average error: 0.0570323
+
+Pass 1477: Inputs: 0 1 Outputs:  0.928572 Targets: 1 Net recent average error: 0.0571748
+
+Pass 1478: Inputs: 1 0 Outputs:  0.920043 Targets: 1 Net recent average error: 0.0574004
+
+Pass 1479: Inputs: 0 1 Outputs:  0.931675 Targets: 1 Net recent average error: 0.0575086
+
+Pass 1480: Inputs: 1 0 Outputs:  0.923577 Targets: 1 Net recent average error: 0.0576958
+
+Pass 1481: Inputs: 1 1 Outputs:  0.0683853 Targets: 0 Net recent average error: 0.0578017
+
+Pass 1482: Inputs: 0 1 Outputs:  0.92401 Targets: 1 Net recent average error: 0.0579818
+
+Pass 1483: Inputs: 1 1 Outputs:  -0.0181014 Targets: 0 Net recent average error: 0.0575869
+
+Pass 1484: Inputs: 1 0 Outputs:  0.91858 Targets: 1 Net recent average error: 0.0578229
+
+Pass 1485: Inputs: 0 1 Outputs:  0.930344 Targets: 1 Net recent average error: 0.05794
+
+Pass 1486: Inputs: 1 1 Outputs:  0.0322075 Targets: 0 Net recent average error: 0.0576853
+
+Pass 1487: Inputs: 0 1 Outputs:  0.927024 Targets: 1 Net recent average error: 0.0578367
+
+Pass 1488: Inputs: 1 0 Outputs:  0.918174 Targets: 1 Net recent average error: 0.0580742
+
+Pass 1489: Inputs: 1 1 Outputs:  0.0116817 Targets: 0 Net recent average error: 0.0576148
+
+Pass 1490: Inputs: 1 1 Outputs:  -0.00506199 Targets: 0 Net recent average error: 0.0570945
+
+Pass 1491: Inputs: 0 1 Outputs:  0.92937 Targets: 1 Net recent average error: 0.0572285
+
+Pass 1492: Inputs: 1 0 Outputs:  0.920895 Targets: 1 Net recent average error: 0.0574451
+
+Pass 1493: Inputs: 0 1 Outputs:  0.932399 Targets: 1 Net recent average error: 0.0575457
+
+Pass 1494: Inputs: 0 0 Outputs:  0.0474295 Targets: 0 Net recent average error: 0.0574455
+
+Pass 1495: Inputs: 0 0 Outputs:  0.0146215 Targets: 0 Net recent average error: 0.0570215
+
+Pass 1496: Inputs: 0 1 Outputs:  0.930335 Targets: 1 Net recent average error: 0.0571467
+
+Pass 1497: Inputs: 1 1 Outputs:  0.0332265 Targets: 0 Net recent average error: 0.0569099
+
+Pass 1498: Inputs: 0 0 Outputs:  0.00141269 Targets: 0 Net recent average error: 0.0563604
+
+Pass 1499: Inputs: 1 0 Outputs:  0.915753 Targets: 1 Net recent average error: 0.0566365
+
+Pass 1500: Inputs: 1 1 Outputs:  0.00034316 Targets: 0 Net recent average error: 0.0560791
+
+Pass 1501: Inputs: 1 0 Outputs:  0.918472 Targets: 1 Net recent average error: 0.0563311
+
+Pass 1502: Inputs: 0 1 Outputs:  0.929961 Targets: 1 Net recent average error: 0.0564668
+
+Pass 1503: Inputs: 1 0 Outputs:  0.922254 Targets: 1 Net recent average error: 0.0566775
+
+Pass 1504: Inputs: 0 0 Outputs:  0.0204888 Targets: 0 Net recent average error: 0.0563192
+
+Pass 1505: Inputs: 0 0 Outputs:  0.00631605 Targets: 0 Net recent average error: 0.0558241
+
+Pass 1506: Inputs: 0 1 Outputs:  0.93138 Targets: 1 Net recent average error: 0.0559508
+
+Pass 1507: Inputs: 1 1 Outputs:  0.0420883 Targets: 0 Net recent average error: 0.0558136
+
+Pass 1508: Inputs: 0 1 Outputs:  0.926508 Targets: 1 Net recent average error: 0.0559886
+
+Pass 1509: Inputs: 0 1 Outputs:  0.928332 Targets: 1 Net recent average error: 0.0561438
+
+Pass 1510: Inputs: 0 1 Outputs:  0.930021 Targets: 1 Net recent average error: 0.0562808
+
+Pass 1511: Inputs: 1 1 Outputs:  0.0141455 Targets: 0 Net recent average error: 0.0558636
+
+Pass 1512: Inputs: 0 0 Outputs:  0.00655077 Targets: 0 Net recent average error: 0.0553754
+
+Pass 1513: Inputs: 1 1 Outputs:  -0.00759858 Targets: 0 Net recent average error: 0.0549023
+
+Pass 1514: Inputs: 1 1 Outputs:  0.00326897 Targets: 0 Net recent average error: 0.0543911
+
+Pass 1515: Inputs: 1 0 Outputs:  0.918681 Targets: 1 Net recent average error: 0.0546577
+
+Pass 1516: Inputs: 0 0 Outputs:  0.00831009 Targets: 0 Net recent average error: 0.0541988
+
+Pass 1517: Inputs: 0 0 Outputs:  0.00256798 Targets: 0 Net recent average error: 0.0536877
+
+Pass 1518: Inputs: 0 0 Outputs:  0.0007947 Targets: 0 Net recent average error: 0.053164
+
+Pass 1519: Inputs: 1 1 Outputs:  0.0103932 Targets: 0 Net recent average error: 0.0527405
+
+Pass 1520: Inputs: 1 1 Outputs:  -0.00455182 Targets: 0 Net recent average error: 0.0522634
+
+Pass 1521: Inputs: 1 0 Outputs:  0.919423 Targets: 1 Net recent average error: 0.0525437
+
+Pass 1522: Inputs: 1 1 Outputs:  0.0159919 Targets: 0 Net recent average error: 0.0521818
+
+Pass 1523: Inputs: 1 0 Outputs:  0.919106 Targets: 1 Net recent average error: 0.0524661
+
+Pass 1524: Inputs: 0 1 Outputs:  0.930346 Targets: 1 Net recent average error: 0.0526363
+
+Pass 1525: Inputs: 1 1 Outputs:  0.017458 Targets: 0 Net recent average error: 0.052288
+
+Pass 1526: Inputs: 0 1 Outputs:  0.929301 Targets: 1 Net recent average error: 0.0524702
+
+Pass 1527: Inputs: 0 1 Outputs:  0.930929 Targets: 1 Net recent average error: 0.0526346
+
+Pass 1528: Inputs: 0 0 Outputs:  0.0145506 Targets: 0 Net recent average error: 0.0522575
+
+Pass 1529: Inputs: 0 0 Outputs:  0.00448597 Targets: 0 Net recent average error: 0.0517846
+
+Pass 1530: Inputs: 1 0 Outputs:  0.921177 Targets: 1 Net recent average error: 0.0520523
+
+Pass 1531: Inputs: 0 0 Outputs:  0.00643743 Targets: 0 Net recent average error: 0.0516006
+
+Pass 1532: Inputs: 0 1 Outputs:  0.932407 Targets: 1 Net recent average error: 0.051759
+
+Pass 1533: Inputs: 0 1 Outputs:  0.933823 Targets: 1 Net recent average error: 0.0519017
+
+Pass 1534: Inputs: 1 1 Outputs:  0.0404057 Targets: 0 Net recent average error: 0.0517879
+
+Pass 1535: Inputs: 1 0 Outputs:  0.918417 Targets: 1 Net recent average error: 0.0520829
+
+Pass 1536: Inputs: 1 1 Outputs:  -0.00391662 Targets: 0 Net recent average error: 0.051606
+
+Pass 1537: Inputs: 0 1 Outputs:  0.931376 Targets: 1 Net recent average error: 0.0517745
+
+Pass 1538: Inputs: 1 1 Outputs:  0.0118111 Targets: 0 Net recent average error: 0.0513788
+
+Pass 1539: Inputs: 0 0 Outputs:  0.00837977 Targets: 0 Net recent average error: 0.0509531
+
+Pass 1540: Inputs: 0 0 Outputs:  0.00258639 Targets: 0 Net recent average error: 0.0504742
+
+Pass 1541: Inputs: 1 0 Outputs:  0.920124 Targets: 1 Net recent average error: 0.0507653
+
+Pass 1542: Inputs: 0 1 Outputs:  0.931966 Targets: 1 Net recent average error: 0.0509363
+
+Pass 1543: Inputs: 1 0 Outputs:  0.923687 Targets: 1 Net recent average error: 0.0511876
+
+Pass 1544: Inputs: 0 0 Outputs:  0.0145435 Targets: 0 Net recent average error: 0.0508247
+
+Pass 1545: Inputs: 1 0 Outputs:  0.924879 Targets: 1 Net recent average error: 0.0510653
+
+Pass 1546: Inputs: 1 0 Outputs:  0.926856 Targets: 1 Net recent average error: 0.0512839
+
+Pass 1547: Inputs: 0 1 Outputs:  0.936253 Targets: 1 Net recent average error: 0.0514073
+
+Pass 1548: Inputs: 0 1 Outputs:  0.937442 Targets: 1 Net recent average error: 0.0515177
+
+Pass 1549: Inputs: 0 0 Outputs:  0.0200275 Targets: 0 Net recent average error: 0.0512059
+
+Pass 1550: Inputs: 1 0 Outputs:  0.929386 Targets: 1 Net recent average error: 0.0513981
+
+Pass 1551: Inputs: 1 1 Outputs:  0.0734652 Targets: 0 Net recent average error: 0.0516166
+
+Pass 1552: Inputs: 0 0 Outputs:  -0.0054882 Targets: 0 Net recent average error: 0.0511598
+
+Pass 1553: Inputs: 1 0 Outputs:  0.919344 Targets: 1 Net recent average error: 0.0514519
+
+Pass 1554: Inputs: 0 1 Outputs:  0.929804 Targets: 1 Net recent average error: 0.0516375
+
+Pass 1555: Inputs: 1 1 Outputs:  -0.00840724 Targets: 0 Net recent average error: 0.0512095
+
+Pass 1556: Inputs: 0 1 Outputs:  0.932636 Targets: 1 Net recent average error: 0.0513694
+
+Pass 1557: Inputs: 0 1 Outputs:  0.934051 Targets: 1 Net recent average error: 0.0515138
+
+Pass 1558: Inputs: 0 0 Outputs:  0.016745 Targets: 0 Net recent average error: 0.0511695
+
+Pass 1559: Inputs: 0 0 Outputs:  0.0051385 Targets: 0 Net recent average error: 0.0507138
+
+Pass 1560: Inputs: 0 0 Outputs:  0.00158087 Targets: 0 Net recent average error: 0.0502273
+
+Pass 1561: Inputs: 1 0 Outputs:  0.925245 Targets: 1 Net recent average error: 0.0504701
+
+Pass 1562: Inputs: 1 0 Outputs:  0.927199 Targets: 1 Net recent average error: 0.0506912
+
+Pass 1563: Inputs: 0 1 Outputs:  0.936444 Targets: 1 Net recent average error: 0.0508186
+
+Pass 1564: Inputs: 0 0 Outputs:  0.0126971 Targets: 0 Net recent average error: 0.0504412
+
+Pass 1565: Inputs: 0 1 Outputs:  0.936967 Targets: 1 Net recent average error: 0.0505658
+
+Pass 1566: Inputs: 1 1 Outputs:  0.0562483 Targets: 0 Net recent average error: 0.0506221
+
+Pass 1567: Inputs: 1 1 Outputs:  -0.0262131 Targets: 0 Net recent average error: 0.0503804
+
+Pass 1568: Inputs: 0 1 Outputs:  0.933896 Targets: 1 Net recent average error: 0.0505361
+
+Pass 1569: Inputs: 1 0 Outputs:  0.926392 Targets: 1 Net recent average error: 0.0507645
+
+Pass 1570: Inputs: 1 0 Outputs:  0.928261 Targets: 1 Net recent average error: 0.0509722
+
+Pass 1571: Inputs: 0 1 Outputs:  0.93746 Targets: 1 Net recent average error: 0.0510867
+
+Pass 1572: Inputs: 1 1 Outputs:  0.0523559 Targets: 0 Net recent average error: 0.0510993
+
+Pass 1573: Inputs: 1 0 Outputs:  0.922476 Targets: 1 Net recent average error: 0.0513609
+
+Pass 1574: Inputs: 1 1 Outputs:  -0.0114377 Targets: 0 Net recent average error: 0.0509657
+
+Pass 1575: Inputs: 0 0 Outputs:  0.0122904 Targets: 0 Net recent average error: 0.0505827
+
+Pass 1576: Inputs: 0 1 Outputs:  0.933522 Targets: 1 Net recent average error: 0.0507401
+
+Pass 1577: Inputs: 1 0 Outputs:  0.926865 Targets: 1 Net recent average error: 0.0509618
+
+Pass 1578: Inputs: 0 0 Outputs:  0.0117766 Targets: 0 Net recent average error: 0.0505739
+
+Pass 1579: Inputs: 1 0 Outputs:  0.928015 Targets: 1 Net recent average error: 0.0507859
+
+Pass 1580: Inputs: 0 0 Outputs:  0.00783239 Targets: 0 Net recent average error: 0.0503606
+
+Pass 1581: Inputs: 0 0 Outputs:  0.00240006 Targets: 0 Net recent average error: 0.0498857
+
+Pass 1582: Inputs: 0 1 Outputs:  0.935971 Targets: 1 Net recent average error: 0.0500258
+
+Pass 1583: Inputs: 0 1 Outputs:  0.937185 Targets: 1 Net recent average error: 0.0501524
+
+Pass 1584: Inputs: 1 0 Outputs:  0.93104 Targets: 1 Net recent average error: 0.0503386
+
+Pass 1585: Inputs: 0 1 Outputs:  0.939295 Targets: 1 Net recent average error: 0.0504412
+
+Pass 1586: Inputs: 1 0 Outputs:  0.933393 Targets: 1 Net recent average error: 0.0506013
+
+Pass 1587: Inputs: 1 1 Outputs:  0.075931 Targets: 0 Net recent average error: 0.0508521
+
+Pass 1588: Inputs: 0 0 Outputs:  0.00181584 Targets: 0 Net recent average error: 0.0503666
+
+Pass 1589: Inputs: 1 1 Outputs:  -0.0365075 Targets: 0 Net recent average error: 0.0502294
+
+Pass 1590: Inputs: 0 0 Outputs:  0.00808474 Targets: 0 Net recent average error: 0.0498121
+
+Pass 1591: Inputs: 1 1 Outputs:  0.0142362 Targets: 0 Net recent average error: 0.0494599
+
+Pass 1592: Inputs: 0 1 Outputs:  0.933256 Targets: 1 Net recent average error: 0.049631
+
+Pass 1593: Inputs: 1 0 Outputs:  0.926985 Targets: 1 Net recent average error: 0.0498625
+
+Pass 1594: Inputs: 0 1 Outputs:  0.935792 Targets: 1 Net recent average error: 0.0500046
+
+Pass 1595: Inputs: 0 1 Outputs:  0.937024 Targets: 1 Net recent average error: 0.050133
+
+Pass 1596: Inputs: 1 1 Outputs:  0.032247 Targets: 0 Net recent average error: 0.0499559
+
+Pass 1597: Inputs: 1 0 Outputs:  0.925629 Targets: 1 Net recent average error: 0.0501976
+
+Pass 1598: Inputs: 1 1 Outputs:  -0.00302381 Targets: 0 Net recent average error: 0.0497306
+
+Pass 1599: Inputs: 0 1 Outputs:  0.935333 Targets: 1 Net recent average error: 0.0498784
+
+Pass 1600: Inputs: 1 1 Outputs:  0.0104396 Targets: 0 Net recent average error: 0.049488
+
+Pass 1601: Inputs: 1 1 Outputs:  -0.004823 Targets: 0 Net recent average error: 0.0490457
+
+Pass 1602: Inputs: 1 0 Outputs:  0.928171 Targets: 1 Net recent average error: 0.0492713
+
+Pass 1603: Inputs: 1 1 Outputs:  0.0134878 Targets: 0 Net recent average error: 0.048917
+
+Pass 1604: Inputs: 0 1 Outputs:  0.935038 Targets: 1 Net recent average error: 0.0490759
+
+Pass 1605: Inputs: 1 0 Outputs:  0.928835 Targets: 1 Net recent average error: 0.0492946
+
+Pass 1606: Inputs: 0 1 Outputs:  0.937392 Targets: 1 Net recent average error: 0.0494264
+
+Pass 1607: Inputs: 1 0 Outputs:  0.931447 Targets: 1 Net recent average error: 0.0496158
+
+Pass 1608: Inputs: 1 0 Outputs:  0.932971 Targets: 1 Net recent average error: 0.0497882
+
+Pass 1609: Inputs: 0 1 Outputs:  0.940399 Targets: 1 Net recent average error: 0.0498853
+
+Pass 1610: Inputs: 0 0 Outputs:  0.0374945 Targets: 0 Net recent average error: 0.0497627
+
+Pass 1611: Inputs: 1 1 Outputs:  0.0425853 Targets: 0 Net recent average error: 0.0496916
+
+Pass 1612: Inputs: 1 0 Outputs:  0.926581 Targets: 1 Net recent average error: 0.0499265
+
+Pass 1613: Inputs: 0 0 Outputs:  0.00683211 Targets: 0 Net recent average error: 0.0494998
+
+Pass 1614: Inputs: 1 0 Outputs:  0.928058 Targets: 1 Net recent average error: 0.049722
+
+Pass 1615: Inputs: 1 0 Outputs:  0.92982 Targets: 1 Net recent average error: 0.0499246
+
+Pass 1616: Inputs: 1 1 Outputs:  0.0121712 Targets: 0 Net recent average error: 0.0495508
+
+Pass 1617: Inputs: 0 1 Outputs:  0.93494 Targets: 1 Net recent average error: 0.0497044
+
+Pass 1618: Inputs: 0 1 Outputs:  0.936234 Targets: 1 Net recent average error: 0.0498436
+
+Pass 1619: Inputs: 0 0 Outputs:  0.0146387 Targets: 0 Net recent average error: 0.049495
+
+Pass 1620: Inputs: 1 0 Outputs:  0.930709 Targets: 1 Net recent average error: 0.049691
+
+Pass 1621: Inputs: 1 0 Outputs:  0.93228 Targets: 1 Net recent average error: 0.0498695
+
+Pass 1622: Inputs: 0 0 Outputs:  0.0121254 Targets: 0 Net recent average error: 0.0494958
+
+Pass 1623: Inputs: 0 1 Outputs:  0.938027 Targets: 1 Net recent average error: 0.0496194
+
+Pass 1624: Inputs: 1 1 Outputs:  0.0357301 Targets: 0 Net recent average error: 0.0494818
+
+Pass 1625: Inputs: 0 1 Outputs:  0.934191 Targets: 1 Net recent average error: 0.0496435
+
+Pass 1626: Inputs: 1 0 Outputs:  0.929566 Targets: 1 Net recent average error: 0.0498493
+
+Pass 1627: Inputs: 1 0 Outputs:  0.931223 Targets: 1 Net recent average error: 0.0500367
+
+Pass 1628: Inputs: 0 0 Outputs:  0.0108702 Targets: 0 Net recent average error: 0.049649
+
+Pass 1629: Inputs: 1 0 Outputs:  0.932163 Targets: 1 Net recent average error: 0.049829
+
+Pass 1630: Inputs: 1 1 Outputs:  0.0213863 Targets: 0 Net recent average error: 0.0495474
+
+Pass 1631: Inputs: 1 1 Outputs:  -0.0101681 Targets: 0 Net recent average error: 0.0491575
+
+Pass 1632: Inputs: 1 1 Outputs:  0.00470517 Targets: 0 Net recent average error: 0.0487174
+
+Pass 1633: Inputs: 0 1 Outputs:  0.935786 Targets: 1 Net recent average error: 0.0488708
+
+Pass 1634: Inputs: 1 0 Outputs:  0.932212 Targets: 1 Net recent average error: 0.0490581
+
+Pass 1635: Inputs: 1 0 Outputs:  0.933686 Targets: 1 Net recent average error: 0.049229
+
+Pass 1636: Inputs: 0 0 Outputs:  0.0144846 Targets: 0 Net recent average error: 0.048885
+
+Pass 1637: Inputs: 1 1 Outputs:  0.0234961 Targets: 0 Net recent average error: 0.0486336
+
+Pass 1638: Inputs: 1 1 Outputs:  -0.0112178 Targets: 0 Net recent average error: 0.0482632
+
+Pass 1639: Inputs: 1 1 Outputs:  0.00519944 Targets: 0 Net recent average error: 0.0478368
+
+Pass 1640: Inputs: 1 1 Outputs:  -0.00244686 Targets: 0 Net recent average error: 0.0473874
+
+Pass 1641: Inputs: 1 0 Outputs:  0.932073 Targets: 1 Net recent average error: 0.0475907
+
+Pass 1642: Inputs: 0 1 Outputs:  0.937067 Targets: 1 Net recent average error: 0.0477427
+
+Pass 1643: Inputs: 1 1 Outputs:  0.0199067 Targets: 0 Net recent average error: 0.047467
+
+Pass 1644: Inputs: 1 1 Outputs:  -0.00950663 Targets: 0 Net recent average error: 0.0470912
+
+Pass 1645: Inputs: 1 0 Outputs:  0.932907 Targets: 1 Net recent average error: 0.0472892
+
+Pass 1646: Inputs: 1 1 Outputs:  0.0142928 Targets: 0 Net recent average error: 0.0469625
+
+Pass 1647: Inputs: 0 1 Outputs:  0.935776 Targets: 1 Net recent average error: 0.0471335
+
+Pass 1648: Inputs: 1 0 Outputs:  0.933176 Targets: 1 Net recent average error: 0.0473284
+
+Pass 1649: Inputs: 0 1 Outputs:  0.937966 Targets: 1 Net recent average error: 0.047474
+
+Pass 1650: Inputs: 1 1 Outputs:  0.0204396 Targets: 0 Net recent average error: 0.0472063
+
+Pass 1651: Inputs: 1 0 Outputs:  0.932458 Targets: 1 Net recent average error: 0.0474077
+
+Pass 1652: Inputs: 0 0 Outputs:  0.0165197 Targets: 0 Net recent average error: 0.0471019
+
+Pass 1653: Inputs: 0 0 Outputs:  0.00502404 Targets: 0 Net recent average error: 0.0466852
+
+Pass 1654: Inputs: 1 0 Outputs:  0.932749 Targets: 1 Net recent average error: 0.0468889
+
+Pass 1655: Inputs: 1 1 Outputs:  0.0056305 Targets: 0 Net recent average error: 0.0464804
+
+Pass 1656: Inputs: 0 0 Outputs:  0.00405946 Targets: 0 Net recent average error: 0.0460604
+
+Pass 1657: Inputs: 1 1 Outputs:  -0.00351329 Targets: 0 Net recent average error: 0.0456391
+
+Pass 1658: Inputs: 1 1 Outputs:  0.00165539 Targets: 0 Net recent average error: 0.0452036
+
+Pass 1659: Inputs: 0 1 Outputs:  0.936368 Targets: 1 Net recent average error: 0.0453861
+
+Pass 1660: Inputs: 0 0 Outputs:  0.00496228 Targets: 0 Net recent average error: 0.0449858
+
+Pass 1661: Inputs: 1 1 Outputs:  0.00705568 Targets: 0 Net recent average error: 0.0446103
+
+Pass 1662: Inputs: 0 1 Outputs:  0.936354 Targets: 1 Net recent average error: 0.0447988
+
+Pass 1663: Inputs: 0 1 Outputs:  0.937573 Targets: 1 Net recent average error: 0.0449733
+
+Pass 1664: Inputs: 0 0 Outputs:  0.00661567 Targets: 0 Net recent average error: 0.0445935
+
+Pass 1665: Inputs: 1 0 Outputs:  0.934438 Targets: 1 Net recent average error: 0.0448011
+
+Pass 1666: Inputs: 1 1 Outputs:  0.0221167 Targets: 0 Net recent average error: 0.0445765
+
+Pass 1667: Inputs: 1 0 Outputs:  0.932567 Targets: 1 Net recent average error: 0.0448028
+
+Pass 1668: Inputs: 0 1 Outputs:  0.937213 Targets: 1 Net recent average error: 0.0449809
+
+Pass 1669: Inputs: 0 1 Outputs:  0.938385 Targets: 1 Net recent average error: 0.0451456
+
+Pass 1670: Inputs: 0 1 Outputs:  0.939491 Targets: 1 Net recent average error: 0.0452977
+
+Pass 1671: Inputs: 1 1 Outputs:  0.024292 Targets: 0 Net recent average error: 0.0450897
+
+Pass 1672: Inputs: 1 0 Outputs:  0.933006 Targets: 1 Net recent average error: 0.0453066
+
+Pass 1673: Inputs: 0 1 Outputs:  0.938214 Targets: 1 Net recent average error: 0.0454698
+
+Pass 1674: Inputs: 1 0 Outputs:  0.935277 Targets: 1 Net recent average error: 0.0456604
+
+Pass 1675: Inputs: 1 1 Outputs:  0.0156534 Targets: 0 Net recent average error: 0.0453633
+
+Pass 1676: Inputs: 0 1 Outputs:  0.938085 Targets: 1 Net recent average error: 0.0455272
+
+Pass 1677: Inputs: 1 0 Outputs:  0.935182 Targets: 1 Net recent average error: 0.0457182
+
+Pass 1678: Inputs: 0 0 Outputs:  0.0226178 Targets: 0 Net recent average error: 0.0454895
+
+Pass 1679: Inputs: 0 1 Outputs:  0.938937 Targets: 1 Net recent average error: 0.0456436
+
+Pass 1680: Inputs: 1 1 Outputs:  0.013596 Targets: 0 Net recent average error: 0.0453263
+
+Pass 1681: Inputs: 0 1 Outputs:  0.938195 Targets: 1 Net recent average error: 0.0454895
+
+Pass 1682: Inputs: 0 0 Outputs:  0.0102794 Targets: 0 Net recent average error: 0.0451409
+
+Pass 1683: Inputs: 0 0 Outputs:  0.00312163 Targets: 0 Net recent average error: 0.0447248
+
+Pass 1684: Inputs: 1 1 Outputs:  -0.000976681 Targets: 0 Net recent average error: 0.0442917
+
+Pass 1685: Inputs: 0 1 Outputs:  0.938771 Targets: 1 Net recent average error: 0.0444594
+
+Pass 1686: Inputs: 1 0 Outputs:  0.935248 Targets: 1 Net recent average error: 0.0446603
+
+Pass 1687: Inputs: 0 1 Outputs:  0.9407 Targets: 1 Net recent average error: 0.0448053
+
+Pass 1688: Inputs: 0 1 Outputs:  0.941685 Targets: 1 Net recent average error: 0.044939
+
+Pass 1689: Inputs: 1 1 Outputs:  0.03315 Targets: 0 Net recent average error: 0.0448223
+
+Pass 1690: Inputs: 0 0 Outputs:  0.00651963 Targets: 0 Net recent average error: 0.0444431
+
+Pass 1691: Inputs: 1 0 Outputs:  0.932913 Targets: 1 Net recent average error: 0.0446673
+
+Pass 1692: Inputs: 0 1 Outputs:  0.938869 Targets: 1 Net recent average error: 0.0448303
+
+Pass 1693: Inputs: 1 0 Outputs:  0.93518 Targets: 1 Net recent average error: 0.0450282
+
+Pass 1694: Inputs: 0 0 Outputs:  0.0121725 Targets: 0 Net recent average error: 0.0447029
+
+Pass 1695: Inputs: 1 1 Outputs:  0.00716093 Targets: 0 Net recent average error: 0.0443312
+
+Pass 1696: Inputs: 0 1 Outputs:  0.939252 Targets: 1 Net recent average error: 0.0444937
+
+Pass 1697: Inputs: 1 1 Outputs:  0.00462173 Targets: 0 Net recent average error: 0.0440989
+
+Pass 1698: Inputs: 0 0 Outputs:  0.00431677 Targets: 0 Net recent average error: 0.0437051
+
+Pass 1699: Inputs: 0 1 Outputs:  0.939491 Targets: 1 Net recent average error: 0.0438714
+
+Pass 1700: Inputs: 0 0 Outputs:  0.00433644 Targets: 0 Net recent average error: 0.04348
+
+Pass 1701: Inputs: 0 0 Outputs:  0.00131667 Targets: 0 Net recent average error: 0.0430625
+
+Pass 1702: Inputs: 0 1 Outputs:  0.940263 Targets: 1 Net recent average error: 0.0432276
+
+Pass 1703: Inputs: 0 0 Outputs:  0.00334957 Targets: 0 Net recent average error: 0.0428328
+
+Pass 1704: Inputs: 0 1 Outputs:  0.941108 Targets: 1 Net recent average error: 0.0429918
+
+Pass 1705: Inputs: 1 1 Outputs:  0.0185108 Targets: 0 Net recent average error: 0.0427494
+
+Pass 1706: Inputs: 1 1 Outputs:  -0.00910121 Targets: 0 Net recent average error: 0.0424163
+
+Pass 1707: Inputs: 1 0 Outputs:  0.935245 Targets: 1 Net recent average error: 0.0426374
+
+Pass 1708: Inputs: 1 1 Outputs:  0.0136436 Targets: 0 Net recent average error: 0.0423504
+
+Pass 1709: Inputs: 0 0 Outputs:  0.00254949 Targets: 0 Net recent average error: 0.0419563
+
+Pass 1710: Inputs: 0 1 Outputs:  0.939782 Targets: 1 Net recent average error: 0.0421371
+
+Pass 1711: Inputs: 1 1 Outputs:  0.000740791 Targets: 0 Net recent average error: 0.0417273
+
+Pass 1712: Inputs: 1 0 Outputs:  0.935153 Targets: 1 Net recent average error: 0.0419562
+
+Pass 1713: Inputs: 1 1 Outputs:  0.00894022 Targets: 0 Net recent average error: 0.0416293
+
+Pass 1714: Inputs: 0 1 Outputs:  0.940397 Targets: 1 Net recent average error: 0.0418072
+
+Pass 1715: Inputs: 0 1 Outputs:  0.941402 Targets: 1 Net recent average error: 0.0419735
+
+Pass 1716: Inputs: 0 0 Outputs:  0.0109922 Targets: 0 Net recent average error: 0.0416667
+
+Pass 1717: Inputs: 0 1 Outputs:  0.941829 Targets: 1 Net recent average error: 0.0418302
+
+Pass 1718: Inputs: 0 1 Outputs:  0.94276 Targets: 1 Net recent average error: 0.0419827
+
+Pass 1719: Inputs: 0 0 Outputs:  0.00883725 Targets: 0 Net recent average error: 0.0416546
+
+Pass 1720: Inputs: 0 0 Outputs:  0.00267404 Targets: 0 Net recent average error: 0.0412686
+
+Pass 1721: Inputs: 0 1 Outputs:  0.943106 Targets: 1 Net recent average error: 0.0414233
+
+Pass 1722: Inputs: 0 0 Outputs:  0.00348917 Targets: 0 Net recent average error: 0.0410477
+
+Pass 1723: Inputs: 0 1 Outputs:  0.943812 Targets: 1 Net recent average error: 0.0411976
+
+Pass 1724: Inputs: 1 1 Outputs:  0.0343347 Targets: 0 Net recent average error: 0.0411297
+
+Pass 1725: Inputs: 1 1 Outputs:  -0.0171723 Targets: 0 Net recent average error: 0.0408925
+
+Pass 1726: Inputs: 0 1 Outputs:  0.942489 Targets: 1 Net recent average error: 0.041057
+
+Pass 1727: Inputs: 0 0 Outputs:  0.00281441 Targets: 0 Net recent average error: 0.0406784
+
+Pass 1728: Inputs: 0 1 Outputs:  0.943255 Targets: 1 Net recent average error: 0.0408375
+
+Pass 1729: Inputs: 1 0 Outputs:  0.936944 Targets: 1 Net recent average error: 0.0410575
+
+Pass 1730: Inputs: 0 1 Outputs:  0.944861 Targets: 1 Net recent average error: 0.0411969
+
+Pass 1731: Inputs: 0 1 Outputs:  0.94565 Targets: 1 Net recent average error: 0.0413271
+
+Pass 1732: Inputs: 0 0 Outputs:  0.0117322 Targets: 0 Net recent average error: 0.0410341
+
+Pass 1733: Inputs: 0 0 Outputs:  0.00354024 Targets: 0 Net recent average error: 0.0406629
+
+Pass 1734: Inputs: 0 0 Outputs:  0.00107057 Targets: 0 Net recent average error: 0.0402709
+
+Pass 1735: Inputs: 1 1 Outputs:  0.0406601 Targets: 0 Net recent average error: 0.0402747
+
+Pass 1736: Inputs: 1 0 Outputs:  0.932728 Targets: 1 Net recent average error: 0.040542
+
+Pass 1737: Inputs: 1 0 Outputs:  0.934196 Targets: 1 Net recent average error: 0.0407921
+
+Pass 1738: Inputs: 0 1 Outputs:  0.942331 Targets: 1 Net recent average error: 0.0409592
+
+Pass 1739: Inputs: 0 0 Outputs:  0.00191589 Targets: 0 Net recent average error: 0.0405727
+
+Pass 1740: Inputs: 0 1 Outputs:  0.943149 Targets: 1 Net recent average error: 0.0407338
+
+Pass 1741: Inputs: 0 0 Outputs:  0.00325443 Targets: 0 Net recent average error: 0.0403627
+
+Pass 1742: Inputs: 0 0 Outputs:  0.000985034 Targets: 0 Net recent average error: 0.0399729
+
+Pass 1743: Inputs: 0 1 Outputs:  0.943821 Targets: 1 Net recent average error: 0.0401333
+
+Pass 1744: Inputs: 0 1 Outputs:  0.944659 Targets: 1 Net recent average error: 0.0402839
+
+Pass 1745: Inputs: 1 1 Outputs:  0.0259799 Targets: 0 Net recent average error: 0.0401423
+
+Pass 1746: Inputs: 0 0 Outputs:  0.000112161 Targets: 0 Net recent average error: 0.0397459
+
+Pass 1747: Inputs: 0 0 Outputs:  3.40165e-05 Targets: 0 Net recent average error: 0.0393527
+
+Pass 1748: Inputs: 1 1 Outputs:  -0.013062 Targets: 0 Net recent average error: 0.0390924
+
+Pass 1749: Inputs: 1 0 Outputs:  0.936143 Targets: 1 Net recent average error: 0.0393376
+
+Pass 1750: Inputs: 0 1 Outputs:  0.944632 Targets: 1 Net recent average error: 0.0394964
+
+Pass 1751: Inputs: 1 1 Outputs:  0.0221686 Targets: 0 Net recent average error: 0.0393248
+
+Pass 1752: Inputs: 0 0 Outputs:  0.0039821 Targets: 0 Net recent average error: 0.0389749
+
+Pass 1753: Inputs: 0 0 Outputs:  0.00120588 Targets: 0 Net recent average error: 0.0386009
+
+Pass 1754: Inputs: 1 0 Outputs:  0.934623 Targets: 1 Net recent average error: 0.038866
+
+Pass 1755: Inputs: 0 1 Outputs:  0.943282 Targets: 1 Net recent average error: 0.0390428
+
+Pass 1756: Inputs: 0 0 Outputs:  0.00651434 Targets: 0 Net recent average error: 0.0387207
+
+Pass 1757: Inputs: 0 1 Outputs:  0.943845 Targets: 1 Net recent average error: 0.0388933
+
+Pass 1758: Inputs: 1 1 Outputs:  0.0100025 Targets: 0 Net recent average error: 0.0386073
+
+Pass 1759: Inputs: 1 1 Outputs:  -0.00498033 Targets: 0 Net recent average error: 0.0382743
+
+Pass 1760: Inputs: 0 1 Outputs:  0.944067 Targets: 1 Net recent average error: 0.0384492
+
+Pass 1761: Inputs: 1 0 Outputs:  0.936967 Targets: 1 Net recent average error: 0.0386926
+
+Pass 1762: Inputs: 0 1 Outputs:  0.945632 Targets: 1 Net recent average error: 0.0388478
+
+Pass 1763: Inputs: 1 0 Outputs:  0.938792 Targets: 1 Net recent average error: 0.0390692
+
+Pass 1764: Inputs: 0 0 Outputs:  0.0148944 Targets: 0 Net recent average error: 0.0388298
+
+Pass 1765: Inputs: 0 1 Outputs:  0.94641 Targets: 1 Net recent average error: 0.038976
+
+Pass 1766: Inputs: 0 1 Outputs:  0.947135 Targets: 1 Net recent average error: 0.0391135
+
+Pass 1767: Inputs: 1 1 Outputs:  0.0425192 Targets: 0 Net recent average error: 0.0391472
+
+Pass 1768: Inputs: 0 1 Outputs:  0.942682 Targets: 1 Net recent average error: 0.0393271
+
+Pass 1769: Inputs: 0 1 Outputs:  0.943578 Targets: 1 Net recent average error: 0.0394964
+
+Pass 1770: Inputs: 0 1 Outputs:  0.944432 Targets: 1 Net recent average error: 0.0396555
+
+Pass 1771: Inputs: 0 1 Outputs:  0.945246 Targets: 1 Net recent average error: 0.039805
+
+Pass 1772: Inputs: 0 1 Outputs:  0.946024 Targets: 1 Net recent average error: 0.0399453
+
+Pass 1773: Inputs: 1 0 Outputs:  0.937698 Targets: 1 Net recent average error: 0.0401666
+
+Pass 1774: Inputs: 0 0 Outputs:  0.0164086 Targets: 0 Net recent average error: 0.0399314
+
+Pass 1775: Inputs: 0 1 Outputs:  0.946746 Targets: 1 Net recent average error: 0.0400633
+
+Pass 1776: Inputs: 1 0 Outputs:  0.938638 Targets: 1 Net recent average error: 0.0402742
+
+Pass 1777: Inputs: 1 0 Outputs:  0.939757 Targets: 1 Net recent average error: 0.0404719
+
+Pass 1778: Inputs: 1 0 Outputs:  0.940813 Targets: 1 Net recent average error: 0.0406572
+
+Pass 1779: Inputs: 1 1 Outputs:  0.0483023 Targets: 0 Net recent average error: 0.0407329
+
+Pass 1780: Inputs: 0 0 Outputs:  0.00626722 Targets: 0 Net recent average error: 0.0403917
+
+Pass 1781: Inputs: 0 1 Outputs:  0.943337 Targets: 1 Net recent average error: 0.0405528
+
+Pass 1782: Inputs: 0 0 Outputs:  0.00454827 Targets: 0 Net recent average error: 0.0401963
+
+Pass 1783: Inputs: 0 0 Outputs:  0.00137381 Targets: 0 Net recent average error: 0.0398119
+
+Pass 1784: Inputs: 1 0 Outputs:  0.935186 Targets: 1 Net recent average error: 0.0400594
+
+Pass 1785: Inputs: 0 1 Outputs:  0.944727 Targets: 1 Net recent average error: 0.0402101
+
+Pass 1786: Inputs: 0 0 Outputs:  0.00637048 Targets: 0 Net recent average error: 0.039875
+
+Pass 1787: Inputs: 1 1 Outputs:  -0.00555415 Targets: 0 Net recent average error: 0.0395352
+
+Pass 1788: Inputs: 0 1 Outputs:  0.945907 Targets: 1 Net recent average error: 0.0396793
+
+Pass 1789: Inputs: 1 0 Outputs:  0.938237 Targets: 1 Net recent average error: 0.039898
+
+Pass 1790: Inputs: 0 0 Outputs:  0.0085843 Targets: 0 Net recent average error: 0.039588
+
+Pass 1791: Inputs: 1 1 Outputs:  0.0160115 Targets: 0 Net recent average error: 0.0393545
+
+Pass 1792: Inputs: 1 0 Outputs:  0.936723 Targets: 1 Net recent average error: 0.0395914
+
+Pass 1793: Inputs: 0 1 Outputs:  0.945804 Targets: 1 Net recent average error: 0.039736
+
+Pass 1794: Inputs: 1 0 Outputs:  0.938572 Targets: 1 Net recent average error: 0.0399508
+
+Pass 1795: Inputs: 1 1 Outputs:  0.0157531 Targets: 0 Net recent average error: 0.0397112
+
+Pass 1796: Inputs: 0 1 Outputs:  0.945371 Targets: 1 Net recent average error: 0.0398589
+
+Pass 1797: Inputs: 0 1 Outputs:  0.946148 Targets: 1 Net recent average error: 0.0399974
+
+Pass 1798: Inputs: 1 1 Outputs:  0.00495836 Targets: 0 Net recent average error: 0.0396505
+
+Pass 1799: Inputs: 1 0 Outputs:  0.938083 Targets: 1 Net recent average error: 0.039871
+
+Pass 1800: Inputs: 1 0 Outputs:  0.939239 Targets: 1 Net recent average error: 0.0400778
+
+Pass 1801: Inputs: 1 1 Outputs:  0.0143648 Targets: 0 Net recent average error: 0.0398232
+
+Pass 1802: Inputs: 0 1 Outputs:  0.945973 Targets: 1 Net recent average error: 0.0399638
+
+Pass 1803: Inputs: 0 1 Outputs:  0.946726 Targets: 1 Net recent average error: 0.0400956
+
+Pass 1804: Inputs: 0 0 Outputs:  0.0167654 Targets: 0 Net recent average error: 0.0398646
+
+Pass 1805: Inputs: 0 0 Outputs:  0.00503426 Targets: 0 Net recent average error: 0.0395198
+
+Pass 1806: Inputs: 0 0 Outputs:  0.00151599 Targets: 0 Net recent average error: 0.0391435
+
+Pass 1807: Inputs: 0 1 Outputs:  0.946422 Targets: 1 Net recent average error: 0.0392864
+
+Pass 1808: Inputs: 1 1 Outputs:  0.00699349 Targets: 0 Net recent average error: 0.0389667
+
+Pass 1809: Inputs: 1 0 Outputs:  0.938044 Targets: 1 Net recent average error: 0.0391943
+
+Pass 1810: Inputs: 0 0 Outputs:  0.00455296 Targets: 0 Net recent average error: 0.0388513
+
+Pass 1811: Inputs: 1 0 Outputs:  0.938976 Targets: 1 Net recent average error: 0.0390708
+
+Pass 1812: Inputs: 1 1 Outputs:  0.0124773 Targets: 0 Net recent average error: 0.0388075
+
+Pass 1813: Inputs: 1 0 Outputs:  0.938379 Targets: 1 Net recent average error: 0.0390334
+
+Pass 1814: Inputs: 0 0 Outputs:  0.00498579 Targets: 0 Net recent average error: 0.0386963
+
+Pass 1815: Inputs: 1 1 Outputs:  0.00111782 Targets: 0 Net recent average error: 0.0383242
+
+Pass 1816: Inputs: 0 1 Outputs:  0.946369 Targets: 1 Net recent average error: 0.0384758
+
+Pass 1817: Inputs: 0 0 Outputs:  0.00365596 Targets: 0 Net recent average error: 0.038131
+
+Pass 1818: Inputs: 1 1 Outputs:  0.00505187 Targets: 0 Net recent average error: 0.0378035
+
+Pass 1819: Inputs: 1 1 Outputs:  -0.00257003 Targets: 0 Net recent average error: 0.0374547
+
+Pass 1820: Inputs: 1 1 Outputs:  0.00129898 Targets: 0 Net recent average error: 0.0370967
+
+Pass 1821: Inputs: 0 0 Outputs:  0.00033529 Targets: 0 Net recent average error: 0.0367327
+
+Pass 1822: Inputs: 0 0 Outputs:  0.000101043 Targets: 0 Net recent average error: 0.03637
+
+Pass 1823: Inputs: 0 0 Outputs:  3.04528e-05 Targets: 0 Net recent average error: 0.0360102
+
+Pass 1824: Inputs: 0 0 Outputs:  9.17815e-06 Targets: 0 Net recent average error: 0.0356538
+
+Pass 1825: Inputs: 1 1 Outputs:  -0.000754781 Targets: 0 Net recent average error: 0.0353083
+
+Pass 1826: Inputs: 0 0 Outputs:  0.000155033 Targets: 0 Net recent average error: 0.0349602
+
+Pass 1827: Inputs: 1 1 Outputs:  0.000350789 Targets: 0 Net recent average error: 0.0346175
+
+Pass 1828: Inputs: 1 0 Outputs:  0.939042 Targets: 1 Net recent average error: 0.0348783
+
+Pass 1829: Inputs: 1 0 Outputs:  0.940144 Targets: 1 Net recent average error: 0.0351256
+
+Pass 1830: Inputs: 1 0 Outputs:  0.941185 Targets: 1 Net recent average error: 0.0353602
+
+Pass 1831: Inputs: 1 1 Outputs:  0.0239497 Targets: 0 Net recent average error: 0.0352472
+
+Pass 1832: Inputs: 1 1 Outputs:  -0.0124005 Targets: 0 Net recent average error: 0.035021
+
+Pass 1833: Inputs: 0 1 Outputs:  0.947089 Targets: 1 Net recent average error: 0.0351981
+
+Pass 1834: Inputs: 0 1 Outputs:  0.947796 Targets: 1 Net recent average error: 0.0353665
+
+Pass 1835: Inputs: 0 1 Outputs:  0.948474 Targets: 1 Net recent average error: 0.0355265
+
+Pass 1836: Inputs: 1 1 Outputs:  0.0243716 Targets: 0 Net recent average error: 0.0354161
+
+Pass 1837: Inputs: 1 1 Outputs:  -0.0126491 Targets: 0 Net recent average error: 0.0351906
+
+Pass 1838: Inputs: 1 0 Outputs:  0.94071 Targets: 1 Net recent average error: 0.0354293
+
+Pass 1839: Inputs: 1 1 Outputs:  0.0142677 Targets: 0 Net recent average error: 0.0352197
+
+Pass 1840: Inputs: 0 0 Outputs:  0.010744 Targets: 0 Net recent average error: 0.0349774
+
+Pass 1841: Inputs: 0 1 Outputs:  0.946255 Targets: 1 Net recent average error: 0.0351632
+
+Pass 1842: Inputs: 1 1 Outputs:  -0.00313342 Targets: 0 Net recent average error: 0.0348461
+
+Pass 1843: Inputs: 0 0 Outputs:  0.00624867 Targets: 0 Net recent average error: 0.0345629
+
+Pass 1844: Inputs: 1 0 Outputs:  0.940004 Targets: 1 Net recent average error: 0.0348148
+
+Pass 1845: Inputs: 0 1 Outputs:  0.947737 Targets: 1 Net recent average error: 0.0349875
+
+Pass 1846: Inputs: 0 0 Outputs:  0.00708219 Targets: 0 Net recent average error: 0.0347112
+
+Pass 1847: Inputs: 1 0 Outputs:  0.941263 Targets: 1 Net recent average error: 0.0349491
+
+Pass 1848: Inputs: 1 1 Outputs:  0.020785 Targets: 0 Net recent average error: 0.0348089
+
+Pass 1849: Inputs: 0 1 Outputs:  0.946295 Targets: 1 Net recent average error: 0.034996
+
+Pass 1850: Inputs: 0 1 Outputs:  0.947037 Targets: 1 Net recent average error: 0.0351738
+
+Pass 1851: Inputs: 1 1 Outputs:  0.00181195 Targets: 0 Net recent average error: 0.0348435
+
+Pass 1852: Inputs: 0 0 Outputs:  0.0050815 Targets: 0 Net recent average error: 0.0345489
+
+Pass 1853: Inputs: 0 0 Outputs:  0.00152664 Targets: 0 Net recent average error: 0.0342219
+
+Pass 1854: Inputs: 1 1 Outputs:  -0.00225806 Targets: 0 Net recent average error: 0.0339054
+
+Pass 1855: Inputs: 0 0 Outputs:  0.00091314 Targets: 0 Net recent average error: 0.0335788
+
+Pass 1856: Inputs: 1 1 Outputs:  0.00096796 Targets: 0 Net recent average error: 0.0332559
+
+Pass 1857: Inputs: 0 1 Outputs:  0.94736 Targets: 1 Net recent average error: 0.0334478
+
+Pass 1858: Inputs: 1 0 Outputs:  0.940773 Targets: 1 Net recent average error: 0.0337031
+
+Pass 1859: Inputs: 1 1 Outputs:  0.013527 Targets: 0 Net recent average error: 0.0335033
+
+Pass 1860: Inputs: 1 1 Outputs:  -0.00700196 Targets: 0 Net recent average error: 0.0332409
+
+Pass 1861: Inputs: 0 0 Outputs:  0.00391522 Targets: 0 Net recent average error: 0.0329506
+
+Pass 1862: Inputs: 1 1 Outputs:  0.00277463 Targets: 0 Net recent average error: 0.0326518
+
+Pass 1863: Inputs: 0 1 Outputs:  0.947431 Targets: 1 Net recent average error: 0.032849
+
+Pass 1864: Inputs: 1 1 Outputs:  0.00469914 Targets: 0 Net recent average error: 0.0325703
+
+Pass 1865: Inputs: 1 0 Outputs:  0.940293 Targets: 1 Net recent average error: 0.0328389
+
+Pass 1866: Inputs: 0 0 Outputs:  0.00487304 Targets: 0 Net recent average error: 0.0325621
+
+Pass 1867: Inputs: 0 0 Outputs:  0.00146281 Targets: 0 Net recent average error: 0.0322541
+
+Pass 1868: Inputs: 1 0 Outputs:  0.941028 Targets: 1 Net recent average error: 0.0325187
+
+Pass 1869: Inputs: 1 1 Outputs:  0.0121323 Targets: 0 Net recent average error: 0.0323168
+
+Pass 1870: Inputs: 0 0 Outputs:  0.000835518 Targets: 0 Net recent average error: 0.0320051
+
+Pass 1871: Inputs: 0 1 Outputs:  0.947116 Targets: 1 Net recent average error: 0.0322119
+
+Pass 1872: Inputs: 0 1 Outputs:  0.947825 Targets: 1 Net recent average error: 0.0324095
+
+Pass 1873: Inputs: 1 1 Outputs:  0.00578339 Targets: 0 Net recent average error: 0.0321459
+
+Pass 1874: Inputs: 0 0 Outputs:  0.0036561 Targets: 0 Net recent average error: 0.0318638
+
+Pass 1875: Inputs: 1 1 Outputs:  -0.00372062 Targets: 0 Net recent average error: 0.0315852
+
+Pass 1876: Inputs: 1 0 Outputs:  0.941047 Targets: 1 Net recent average error: 0.0318561
+
+Pass 1877: Inputs: 0 1 Outputs:  0.948722 Targets: 1 Net recent average error: 0.0320484
+
+Pass 1878: Inputs: 0 0 Outputs:  0.0068645 Targets: 0 Net recent average error: 0.0317991
+
+Pass 1879: Inputs: 0 0 Outputs:  0.00205716 Targets: 0 Net recent average error: 0.0315046
+
+Pass 1880: Inputs: 0 1 Outputs:  0.948991 Targets: 1 Net recent average error: 0.0316977
+
+Pass 1881: Inputs: 0 1 Outputs:  0.949624 Targets: 1 Net recent average error: 0.0318827
+
+Pass 1882: Inputs: 1 1 Outputs:  0.0251769 Targets: 0 Net recent average error: 0.0318163
+
+Pass 1883: Inputs: 0 0 Outputs:  -0.000214523 Targets: 0 Net recent average error: 0.0315034
+
+Pass 1884: Inputs: 0 1 Outputs:  0.947372 Targets: 1 Net recent average error: 0.0317125
+
+Pass 1885: Inputs: 0 0 Outputs:  0.00222831 Targets: 0 Net recent average error: 0.0314206
+
+Pass 1886: Inputs: 0 0 Outputs:  0.000669192 Targets: 0 Net recent average error: 0.0311161
+
+Pass 1887: Inputs: 1 1 Outputs:  -0.00761484 Targets: 0 Net recent average error: 0.0308835
+
+Pass 1888: Inputs: 0 0 Outputs:  0.00172562 Targets: 0 Net recent average error: 0.0305948
+
+Pass 1889: Inputs: 0 0 Outputs:  0.000518007 Targets: 0 Net recent average error: 0.030297
+
+Pass 1890: Inputs: 0 1 Outputs:  0.94872 Targets: 1 Net recent average error: 0.0305047
+
+Pass 1891: Inputs: 1 0 Outputs:  0.94169 Targets: 1 Net recent average error: 0.03078
+
+Pass 1892: Inputs: 0 1 Outputs:  0.949949 Targets: 1 Net recent average error: 0.0309708
+
+Pass 1893: Inputs: 0 0 Outputs:  0.00719095 Targets: 0 Net recent average error: 0.0307354
+
+Pass 1894: Inputs: 0 1 Outputs:  0.950251 Targets: 1 Net recent average error: 0.0309236
+
+Pass 1895: Inputs: 0 1 Outputs:  0.950836 Targets: 1 Net recent average error: 0.0311042
+
+Pass 1896: Inputs: 1 0 Outputs:  0.943758 Targets: 1 Net recent average error: 0.0313531
+
+Pass 1897: Inputs: 0 1 Outputs:  0.951923 Targets: 1 Net recent average error: 0.0315187
+
+Pass 1898: Inputs: 0 0 Outputs:  0.010716 Targets: 0 Net recent average error: 0.0313127
+
+Pass 1899: Inputs: 0 1 Outputs:  0.952025 Targets: 1 Net recent average error: 0.0314777
+
+Pass 1900: Inputs: 0 1 Outputs:  0.952548 Targets: 1 Net recent average error: 0.0316359
+
+Pass 1901: Inputs: 0 0 Outputs:  0.00697831 Targets: 0 Net recent average error: 0.0313917
+
+Pass 1902: Inputs: 1 1 Outputs:  0.0507564 Targets: 0 Net recent average error: 0.0315835
+
+Pass 1903: Inputs: 0 0 Outputs:  -0.00820942 Targets: 0 Net recent average error: 0.0313521
+
+Pass 1904: Inputs: 0 0 Outputs:  -0.00247374 Targets: 0 Net recent average error: 0.0310661
+
+Pass 1905: Inputs: 1 1 Outputs:  -0.0249818 Targets: 0 Net recent average error: 0.0310059
+
+Pass 1906: Inputs: 0 1 Outputs:  0.950385 Targets: 1 Net recent average error: 0.0311901
+
+Pass 1907: Inputs: 0 0 Outputs:  0.0062598 Targets: 0 Net recent average error: 0.0309433
+
+Pass 1908: Inputs: 0 0 Outputs:  0.00187314 Targets: 0 Net recent average error: 0.0306555
+
+Pass 1909: Inputs: 1 0 Outputs:  0.942362 Targets: 1 Net recent average error: 0.0309226
+
+Pass 1910: Inputs: 1 0 Outputs:  0.943299 Targets: 1 Net recent average error: 0.0311779
+
+Pass 1911: Inputs: 1 1 Outputs:  0.031217 Targets: 0 Net recent average error: 0.0311782
+
+Pass 1912: Inputs: 1 1 Outputs:  -0.0165357 Targets: 0 Net recent average error: 0.0310333
+
+Pass 1913: Inputs: 1 1 Outputs:  0.00843093 Targets: 0 Net recent average error: 0.0308095
+
+Pass 1914: Inputs: 0 0 Outputs:  0.00120554 Targets: 0 Net recent average error: 0.0305164
+
+Pass 1915: Inputs: 1 0 Outputs:  0.941111 Targets: 1 Net recent average error: 0.0307973
+
+Pass 1916: Inputs: 1 0 Outputs:  0.942114 Targets: 1 Net recent average error: 0.0310655
+
+Pass 1917: Inputs: 1 1 Outputs:  0.0107467 Targets: 0 Net recent average error: 0.0308643
+
+Pass 1918: Inputs: 1 1 Outputs:  -0.00562409 Targets: 0 Net recent average error: 0.0306144
+
+Pass 1919: Inputs: 1 1 Outputs:  0.00290343 Targets: 0 Net recent average error: 0.0303401
+
+Pass 1920: Inputs: 0 1 Outputs:  0.949383 Targets: 1 Net recent average error: 0.0305408
+
+Pass 1921: Inputs: 1 0 Outputs:  0.942528 Targets: 1 Net recent average error: 0.0308075
+
+Pass 1922: Inputs: 1 0 Outputs:  0.943459 Targets: 1 Net recent average error: 0.0310623
+
+Pass 1923: Inputs: 0 1 Outputs:  0.951106 Targets: 1 Net recent average error: 0.0312388
+
+Pass 1924: Inputs: 1 1 Outputs:  0.0241981 Targets: 0 Net recent average error: 0.0311691
+
+Pass 1925: Inputs: 1 1 Outputs:  -0.0128303 Targets: 0 Net recent average error: 0.0309875
+
+Pass 1926: Inputs: 0 1 Outputs:  0.95041 Targets: 1 Net recent average error: 0.0311717
+
+Pass 1927: Inputs: 1 1 Outputs:  0.0120784 Targets: 0 Net recent average error: 0.0309827
+
+Pass 1928: Inputs: 0 0 Outputs:  0.0110333 Targets: 0 Net recent average error: 0.0307852
+
+Pass 1929: Inputs: 1 0 Outputs:  0.941738 Targets: 1 Net recent average error: 0.0310572
+
+Pass 1930: Inputs: 0 1 Outputs:  0.949783 Targets: 1 Net recent average error: 0.0312469
+
+Pass 1931: Inputs: 0 0 Outputs:  0.00816188 Targets: 0 Net recent average error: 0.0310183
+
+Pass 1932: Inputs: 0 0 Outputs:  0.00243918 Targets: 0 Net recent average error: 0.0307354
+
+Pass 1933: Inputs: 0 0 Outputs:  0.00073015 Targets: 0 Net recent average error: 0.0304383
+
+Pass 1934: Inputs: 1 0 Outputs:  0.942675 Targets: 1 Net recent average error: 0.0307045
+
+Pass 1935: Inputs: 0 1 Outputs:  0.950484 Targets: 1 Net recent average error: 0.0308907
+
+Pass 1936: Inputs: 1 0 Outputs:  0.944071 Targets: 1 Net recent average error: 0.0311387
+
+Pass 1937: Inputs: 0 0 Outputs:  0.00749857 Targets: 0 Net recent average error: 0.0309046
+
+Pass 1938: Inputs: 1 1 Outputs:  0.0208923 Targets: 0 Net recent average error: 0.0308055
+
+Pass 1939: Inputs: 1 1 Outputs:  -0.0110721 Targets: 0 Net recent average error: 0.0306101
+
+Pass 1940: Inputs: 0 1 Outputs:  0.950197 Targets: 1 Net recent average error: 0.0308001
+
+Pass 1941: Inputs: 0 0 Outputs:  0.00230021 Targets: 0 Net recent average error: 0.0305179
+
+Pass 1942: Inputs: 1 1 Outputs:  0.0107789 Targets: 0 Net recent average error: 0.0303225
+
+Pass 1943: Inputs: 0 1 Outputs:  0.949497 Targets: 1 Net recent average error: 0.0305223
+
+Pass 1944: Inputs: 0 1 Outputs:  0.950115 Targets: 1 Net recent average error: 0.030714
+
+Pass 1945: Inputs: 1 0 Outputs:  0.943306 Targets: 1 Net recent average error: 0.0309712
+
+Pass 1946: Inputs: 1 1 Outputs:  0.0128038 Targets: 0 Net recent average error: 0.0307914
+
+Pass 1947: Inputs: 1 0 Outputs:  0.942559 Targets: 1 Net recent average error: 0.0310552
+
+Pass 1948: Inputs: 0 0 Outputs:  0.00546707 Targets: 0 Net recent average error: 0.0308019
+
+Pass 1949: Inputs: 1 0 Outputs:  0.943239 Targets: 1 Net recent average error: 0.0310589
+
+Pass 1950: Inputs: 0 1 Outputs:  0.950727 Targets: 1 Net recent average error: 0.0312392
+
+Pass 1951: Inputs: 0 0 Outputs:  0.00628109 Targets: 0 Net recent average error: 0.0309921
+
+Pass 1952: Inputs: 1 1 Outputs:  0.0110331 Targets: 0 Net recent average error: 0.0307945
+
+Pass 1953: Inputs: 1 1 Outputs:  -0.00583146 Targets: 0 Net recent average error: 0.0305474
+
+Pass 1954: Inputs: 0 1 Outputs:  0.950473 Targets: 1 Net recent average error: 0.0307353
+
+Pass 1955: Inputs: 1 1 Outputs:  0.00850476 Targets: 0 Net recent average error: 0.0305152
+
+Pass 1956: Inputs: 1 0 Outputs:  0.943039 Targets: 1 Net recent average error: 0.030777
+
+Pass 1957: Inputs: 1 1 Outputs:  0.00284219 Targets: 0 Net recent average error: 0.0305004
+
+Pass 1958: Inputs: 1 0 Outputs:  0.943587 Targets: 1 Net recent average error: 0.030757
+
+Pass 1959: Inputs: 1 0 Outputs:  0.94447 Targets: 1 Net recent average error: 0.0310022
+
+Pass 1960: Inputs: 0 1 Outputs:  0.951416 Targets: 1 Net recent average error: 0.0311763
+
+Pass 1961: Inputs: 1 1 Outputs:  0.0179507 Targets: 0 Net recent average error: 0.0310454
+
+Pass 1962: Inputs: 1 0 Outputs:  0.943497 Targets: 1 Net recent average error: 0.0312974
+
+Pass 1963: Inputs: 0 1 Outputs:  0.950544 Targets: 1 Net recent average error: 0.0314772
+
+Pass 1964: Inputs: 0 0 Outputs:  0.0113715 Targets: 0 Net recent average error: 0.0312782
+
+Pass 1965: Inputs: 0 1 Outputs:  0.950665 Targets: 1 Net recent average error: 0.0314569
+
+Pass 1966: Inputs: 1 0 Outputs:  0.9448 Targets: 1 Net recent average error: 0.031692
+
+Pass 1967: Inputs: 0 1 Outputs:  0.951751 Targets: 1 Net recent average error: 0.031856
+
+Pass 1968: Inputs: 0 0 Outputs:  0.00982944 Targets: 0 Net recent average error: 0.0316379
+
+Pass 1969: Inputs: 0 1 Outputs:  0.9519 Targets: 1 Net recent average error: 0.0318009
+
+Pass 1970: Inputs: 0 0 Outputs:  0.00484523 Targets: 0 Net recent average error: 0.031534
+
+Pass 1971: Inputs: 1 0 Outputs:  0.945838 Targets: 1 Net recent average error: 0.031758
+
+Pass 1972: Inputs: 1 1 Outputs:  0.0272538 Targets: 0 Net recent average error: 0.0317134
+
+Pass 1973: Inputs: 0 0 Outputs:  -0.00161481 Targets: 0 Net recent average error: 0.0314154
+
+Pass 1974: Inputs: 0 1 Outputs:  0.949808 Targets: 1 Net recent average error: 0.0316013
+
+Pass 1975: Inputs: 1 0 Outputs:  0.943771 Targets: 1 Net recent average error: 0.0318452
+
+Pass 1976: Inputs: 1 0 Outputs:  0.944647 Targets: 1 Net recent average error: 0.0320779
+
+Pass 1977: Inputs: 0 1 Outputs:  0.95147 Targets: 1 Net recent average error: 0.0322408
+
+Pass 1978: Inputs: 1 1 Outputs:  0.0106165 Targets: 0 Net recent average error: 0.0320267
+
+Pass 1979: Inputs: 0 0 Outputs:  0.00652973 Targets: 0 Net recent average error: 0.0317743
+
+Pass 1980: Inputs: 0 0 Outputs:  0.00194724 Targets: 0 Net recent average error: 0.0314789
+
+Pass 1981: Inputs: 1 0 Outputs:  0.944218 Targets: 1 Net recent average error: 0.0317196
+
+Pass 1982: Inputs: 1 1 Outputs:  -0.0003165 Targets: 0 Net recent average error: 0.0314086
+
+Pass 1983: Inputs: 1 1 Outputs:  0.000167592 Targets: 0 Net recent average error: 0.0310993
+
+Pass 1984: Inputs: 0 1 Outputs:  0.951064 Targets: 1 Net recent average error: 0.0312759
+
+Pass 1985: Inputs: 0 1 Outputs:  0.951629 Targets: 1 Net recent average error: 0.0314452
+
+Pass 1986: Inputs: 0 0 Outputs:  0.00707983 Targets: 0 Net recent average error: 0.0312039
+
+Pass 1987: Inputs: 0 0 Outputs:  0.00210853 Targets: 0 Net recent average error: 0.0309159
+
+Pass 1988: Inputs: 0 1 Outputs:  0.951809 Targets: 1 Net recent average error: 0.0310869
+
+Pass 1989: Inputs: 0 0 Outputs:  0.00255369 Targets: 0 Net recent average error: 0.0308044
+
+Pass 1990: Inputs: 1 0 Outputs:  0.94589 Targets: 1 Net recent average error: 0.0310351
+
+Pass 1991: Inputs: 0 0 Outputs:  0.00315864 Targets: 0 Net recent average error: 0.0307591
+
+Pass 1992: Inputs: 0 0 Outputs:  0.000941074 Targets: 0 Net recent average error: 0.0304639
+
+Pass 1993: Inputs: 1 0 Outputs:  0.946489 Targets: 1 Net recent average error: 0.0306921
+
+Pass 1994: Inputs: 0 1 Outputs:  0.953028 Targets: 1 Net recent average error: 0.0308533
+
+Pass 1995: Inputs: 0 0 Outputs:  0.00445567 Targets: 0 Net recent average error: 0.0305919
+
+Pass 1996: Inputs: 0 0 Outputs:  0.001326 Targets: 0 Net recent average error: 0.0303022
+
+Pass 1997: Inputs: 0 1 Outputs:  0.953302 Targets: 1 Net recent average error: 0.0304645
+
+Pass 1998: Inputs: 1 0 Outputs:  0.947781 Targets: 1 Net recent average error: 0.0306799
+
+Pass 1999: Inputs: 1 0 Outputs:  0.948478 Targets: 1 Net recent average error: 0.0308863
+
+Pass 2000: Inputs: 1 1 Outputs:  0.0465703 Targets: 0 Net recent average error: 0.0310415
+
+Pass 2001: Inputs: 1 1 Outputs:  -0.0255309 Targets: 0 Net recent average error: 0.030987
+
+Pass 2002
+Completed.
+
+C:\Users\Spencer.DELLXPS\source\repos\Basic Neural Network V1\x64\Debug\Basic Neural Network V1.exe (process 1396) exited with code 0.
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
