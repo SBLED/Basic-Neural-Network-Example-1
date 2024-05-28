@@ -127,15 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="Net.cpp" />
-    <ClCompile Include="Net.h" />
-    <ClCompile Include="Neuron.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Net.cpp" />
+    <ClCompile Include="src\Net.h" />
+    <ClCompile Include="src\Neuron.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Connection.h" />
-    <ClInclude Include="Neuron.h" />
-    <ClInclude Include="TrainingData.h" />
+    <ClInclude Include="src\Connection.h" />
+    <ClInclude Include="src\Neuron.h" />
+    <ClInclude Include="src\TrainingData.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
