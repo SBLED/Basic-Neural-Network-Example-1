@@ -2,8 +2,6 @@
 #include <vector>
 #include "Neuron.h"
 
-//Removed typedef std::vector<Neuron> Layer;
-//Still included in Neuron.h
 
 class Net {
 
